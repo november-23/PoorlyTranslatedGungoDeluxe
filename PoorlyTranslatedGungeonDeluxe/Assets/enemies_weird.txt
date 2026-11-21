@@ -1,0 +1,1353 @@
+#JUSTICE_ENCNAME
+religion
+#KILLEDBYDEFAULT
+A: It takes time.
+#DEADENEMY
+death
+#FIRE
+like fire
+#GOOP
+Low voltage
+#SHRINE
+in a safe place
+#EXPLOSION
+child
+#PIT
+Open
+#MUSHROOM
+Bacteria
+#SMOKING
+opacity
+#FORGE_HAMMER
+It's a hammer.
+#TRAP
+deadly attack
+#THEFLOOR
+Upstairs is a bedroom
+#BULLETGUNDEAD_ENCNAME
+He came
+#BULLETGUNDEAD_SHORTDESC
+I love you
+#BULLETGUNDEAD_LONGDESC
+The most dangerous man in the world.
+
+The war between the Demon Soldiers and Gunjan has been going on for 100 years.
+
+They are simple animals, but strong and loyal.
+#BULLETGUNDEADEYEPATCH_ENCNAME
+Guns and Weapons
+#BULLETGUNDEADEYEPATCH_SHORTDESC
+blind
+#BULLETGUNDEADEYEPATCH_LONGDESC
+Experienced players know more about this tool than casual players.
+
+mixed open board
+#BULLETGUNDEADBANDANA_ENCNAME
+they have
+#BULLETGUNDEADBANDANA_SHORTDESC
+purpose
+#BULLETGUNDEADBANDANA_LONGDESC
+The main fighter fires at the target with a powerful machine gun.
+
+This hill belongs to the Gond culture and has no other symbol than the sun.
+#BULLETRIFLEMAN_ENCNAME
+Check the microphone
+#BULLETRIFLEMAN_SHORTDESC
+refused
+#BULLETRIFLEMAN_LONGDESC
+My kids love to use it. The biggest threat, however, comes from other women.
+
+Officers are the mechanics who determine the choice of a particular weapon or weapon type.
+#BULLETRIFLEPROFESSIONAL_ENCNAME
+his company
+#BULLETRIFLEPROFESSIONAL_SHORTDESC
+Tomorrow!
+#BULLETRIFLEPROFESSIONAL_LONGDESC
+All athletes are professional athletes.
+
+Take off with special anti-aircraft missiles that explode when fired.
+#BULLETMANMAGIC_ENCNAME
+Weakness
+#BULLETMANMAGIC_SHORTDESC
+hello
+#BULLETMANMAGIC_LONGDESC
+Wei Fenghe is inducted into the Hall of Fame. A dangerous explosive that can be detonated by ordinary objects.
+
+DS school.
+#BLOBULON_ENCNAME
+dark blue hat
+#BLOBULON_SHORTDESC
+Dial the number.
+#BLOBULON_LONGDESC
+Military Balloon Attack Season 3 There can be many victims and enemies.
+
+Traveling through the winter space, a vast empire of thousands of entities began to cease to function.
+
+Hyacinth is said to ward off boredom and help with land inheritance and true wealth.
+#BLOBULOID_ENCNAME
+income
+#BLOBULOID_SHORTDESC
+The right to choose
+#BLOBULOID_LONGDESC
+When Robron dies, the two robots meet.
+
+Proloids are faster than their adults and can grab prey with their claws.
+#BLOBULIN_ENCNAME
+thousands
+#BLOBULIN_SHORTDESC
+quality, not quantity
+#BLOBULIN_LONGDESC
+He was a poor soldier in the barbarian army of Lublin.
+
+The soldiers who died in the war were badly beaten. Its only drawback is its terrible speed.
+#POISBULON_ENCNAME
+To be counted
+#POISBULON_SHORTDESC
+chemical warfare
+#POISBULON_LONGDESC
+Poisbulon Blabulon wins the battle and leaves a trail of poison.
+
+The Bolivian government did not sign the Gundisalves Treaty. The use of conventional chemical weapons is prohibited.
+#POISBULOID_ENCNAME
+button
+#POISBULOID_SHORTDESC
+Dangerous situation
+#POISBULOID_LONGDESC
+Genetic causes of acne include reproductive problems.
+
+Kazen took a taxi and felt no pain.
+#POISBULIN_ENCNAME
+Listed here
+#POISBULIN_SHORTDESC
+Join the world.
+#POISBULIN_LONGDESC
+And finally, the painful experience of children on the playground. Enjoy the song of freedom.
+#BULLAT_ENCNAME
+Every day
+#BULLAT_SHORTDESC
+i play soccer
+#BULLAT_LONGDESC
+Once there was a big bang.
+
+He can attack quickly. But he can't go
+#BULLATGHOST_ENCNAME
+happy heart
+#BULLATGHOST_SHORTDESC
+He's a coward
+#BULLATGHOST_LONGDESC
+From the throne of the dead, a ghost emerges from the castle.
+
+The ball moves and covers a large area before impact.
+#BULLATGRENADE_ENCNAME
+legs
+#BULLATGRENADE_SHORTDESC
+rocket launch
+#BULLATGRENADE_LONGDESC
+I am weak
+
+resistance
+#BULLATSHOTGUN_ENCNAME
+If there is a risk of loss
+#BULLATSHOTGUN_SHORTDESC
+pool bar
+#BULLATSHOTGUN_LONGDESC
+The tube consists of two parts and a V-shaped part.
+#WIZARDPURPLE_ENCNAME
+kangaroo
+#WIZARDPURPLE_SHORTDESC
+it's time to talk
+#WIZARDPURPLE_LONGDESC
+Unlike her friends, Laura likes to read old books about her faith.
+
+Be careful on the road! Even creating a simple letter can be very effective.
+#WIZARD_BLUE_ENCNAME
+Best player
+#WIZARD_BLUE_SHORTDESC
+soft and sweet
+#WIZARD_BLUE_LONGDESC
+Archer accepted and rejected the Hong brothers' magic.
+
+Circles indicate geographic usage.
+#WIZARD_RED_ENCNAME
+lose
+#WIZARD_RED_SHORTDESC
+red witch
+#WIZARD_RED_LONGDESC
+He studied magic at the School of Magic and later became a wizard.
+
+When touched, the sword turns into a ball and absorbs magical energy. An experienced adventurer must wait for the chain to break before attacking.
+#WIZARD_YELLOW_ENCNAME
+A bad student
+#WIZARD_YELLOW_SHORTDESC
+make
+#WIZARD_YELLOW_LONGDESC
+Beginners with less experience than other shooters. Add different shapes to your racket to improve your performance.
+#SHOTGUNMAN_ENCNAME
+Explosives
+#SHOTGUNMAN_SHORTDESC
+The Red Death
+#SHOTGUNMAN_LONGDESC
+Mira's chicken team is big and strong.
+
+Sniper Bullet pursued his younger siblings.
+#SHOTGUNMANBLUE_ENCNAME
+Registration is in progress.
+#SHOTGUNMANBLUE_SHORTDESC
+Blue death
+#SHOTGUNMANBLUE_LONGDESC
+Blue orbs burn faster than red ones. However, in many respects they are similar to each other.
+
+Kane retreated in response to his attack.
+#GHOST_ENCNAME
+Very close
+#GHOST_SHORTDESC
+Eternal guardian
+#GHOST_LONGDESC
+These souls grow and find love, and these souls strive to find love throughout their lives.
+
+Tenby fell into a cave. Commitment can return the final state to the initial state.
+#RUBBERBULLET_ENCNAME
+empty
+#RUBBERBULLET_SHORTDESC
+There is no cost
+#RUBBERBULLET_LONGDESC
+The cone rocket tries to hit the target. but no direct damage
+
+I want to fight, but I don't want guns in prison.
+#TASERBULLET_ENCNAME
+good request
+#TASERBULLET_SHORTDESC
+fast
+#TASERBULLET_LONGDESC
+Being stupid and arrogant, they eat garbage and pain.
+
+This road is very fast and very dangerous.
+#GRENADEGUY_ENCNAME
+injection
+#GRENADEGUY_SHORTDESC
+perfect number
+#GRENADEGUY_LONGDESC
+Building a channel takes time. Look at the plane!
+
+An ambitious madman sacrifices himself to protect Ganga and his destiny.
+#BLIZZBULON_ENCNAME
+Brisbane
+#BLIZZBULON_SHORTDESC
+cold food
+#BLIZZBULON_LONGDESC
+Be careful with Lisbon Spray as it blocks most attacks.
+
+Brisbron was born to bring winter to the kingdom of Brisbron. But it's not good.
+#CUBULON_ENCNAME
+kilograms
+#CUBULON_SHORTDESC
+terrible comparison
+#CUBULON_LONGDESC
+The blue circle expands and disappears completely. The team behind shivered.
+
+The Babylonian army is everything. Cubans kill soldiers to lead their army to victory.
+#CUBULEAD_ENCNAME
+the leader
+#CUBULEAD_SHORTDESC
+The Death of the Magnet
+#CUBULEAD_LONGDESC
+They prevent damage during recovery.
+
+The hard parts dry out over time. The turret rotates to raise the cannon and fire projectiles.
+#SUNBURST_ENCNAME
+A fire broke out inside.
+#SUNBURST_SHORTDESC
+Write soon
+#SUNBURST_LONGDESC
+Lanterns are lit with fireworks on the beach. They scream and attack.
+
+The night text suggests that the star Ganymede is a massive celestial body.
+#SUNBURSTBLUE_ENCNAME
+No missiles
+#SUNBURSTBLUE_SHORTDESC
+the sky
+#SUNBURSTBLUE_LONGDESC
+It may not be easy, some are harder to grow than others. The white part was amazing.
+
+Sometimes you can see animals underground. Chaos can light up the sky.
+#ICECUBEGUY_ENCNAME
+But
+#ICECUBEGUY_SHORTDESC
+your eyes are bright
+#ICECUBEGUY_LONGDESC
+These brave defenders kill attackers horizontally or vertically.
+
+Go Pot is located on the coast of Congo. She is known for her slim body.
+#FLOATINGEYE_ENCNAME
+at last
+#FLOATINGEYE_SHORTDESC
+damaged eyes
+#FLOATINGEYE_LONGDESC
+The attack board is ready.
+
+When the flag was burned, these wild animals were banished.
+#POWDERSKULL_ENCNAME
+adult
+#POWDERSKULL_SHORTDESC
+skull
+#POWDERSKULL_LONGDESC
+Black dust from Konya covered the heads of the spectators who were unaware of the incident.
+#MUSHROOMGUYSMALL_ENCNAME
+They are in uniform
+#MUSHROOMGUYSMALL_SHORTDESC
+first aid
+#MUSHROOMGUYSMALL_LONGDESC
+They don't have mushrooms. Go to the back of the area and throw deathbombs.
+
+Games are usually your worst enemy.
+#MUSHROOMGUYGIANT_ENCNAME
+That's great
+#MUSHROOMGUYGIANT_SHORTDESC
+hat and ball
+#MUSHROOMGUYGIANT_LONGDESC
+Old mushrooms grow into new mushrooms and have large bulbs.
+#MET_ENCNAME
+bromide
+#MET_SHORTDESC
+a big attack
+#MET_LONGDESC
+Gus is a defense mechanism discovered many years ago by experienced athletes.
+
+different from the previous presenter He was now completely immersed in this harsh environment.
+#MIMICWOOD_ENCNAME
+better
+#MIMICWOOD_SHORTDESC
+don't worry
+#MIMICWOOD_LONGDESC
+This process is very dangerous. Because most fighters stick together.
+
+Some experts believe that facial expressions are the real cause of all constipation.
+#SHOTGUNCREECHER_ENCNAME
+cancer
+#SHOTGUNCREECHER_SHORTDESC
+He
+#SHOTGUNCREECHER_LONGDESC
+Thick fabric for a subtle effect, does not disable the gun.
+#COALGUY_ENCNAME
+charcoal
+#COALGUY_SHORTDESC
+Charity House
+#COALGUY_LONGDESC
+It's a common mistake when you get a dog and you don't know what it is.
+
+usually every day
+#GATLINGGULL_TITLE
+rejection
+#GATLINGGULL_SUBTITLE
+Lots of events
+#GATLINGGULL_QUOTE
+
+#GATLINGGULL_ENCNAME
+weakness
+#GATLINGGULL_SHORTDESC
+a famous hunter
+#GATLINGGULL_LONGDESC
+Birds live indoors. Defeat the attackers with special weapons.
+
+Cinderella magically forgot what happened before she hit the big word.
+#BEHOLSTER_TITLE
+Minister of the Interior
+#BEHOLSTER_SUBTITLE
+Crazy eye!
+#BEHOLSTER_QUOTE
+
+#BEHOLSTER_ENCNAME
+hood
+#BEHOLSTER_SHORTDESC
+- He says
+#BEHOLSTER_LONGDESC
+Each container contains 6 types of weapons. Everything is terrible
+
+Eyes can store a lot of energy. But he didn't move in the blink of an eye.
+#BUNKERBOSS_TITLE
+high quality
+#BUNKERBOSS_SUBTITLE
+Better core performance
+#BUNKERBOSS_QUOTE
+
+#BUNKERBOSS_ENCNAME
+commercial use
+#BUNKERBOSS_SHORTDESC
+Purpose Purpose
+#BUNKERBOSS_LONGDESC
+The walls in this area are several meters thick and too dark for defensive weapons.
+
+something is burning
+#BUNKERMIMICBOSS_ENCNAME
+to save him
+#BUNKERMIMICBOSS_SHORTDESC
+react
+#BUNKERMIMICBOSS_LONGDESC
+The walls of the church are very compact, several meters thick.
+
+something fell
+#BULLETKING_TITLE
+The best ball ever
+#BULLETKING_SUBTITLE
+flight
+#BULLETKING_QUOTE
+
+#BULLETKING_ENCNAME
+Dancing in the air
+#BULLETKING_SHORTDESC
+Capacity
+#BULLETKING_LONGDESC
+Lightford's King Pip is enthroned in the center. Cursed is the one who enters the sanctuary!
+
+Look at the moon, dirty.
+#OLDBULLETKING_TITLE
+the old king
+#OLDBULLETKING_SUBTITLE
+end the war
+#OLDBULLETKING_ENCNAME
+the old king
+#OLDBULLETKING_SHORTDESC
+champion of the future
+#OLDBULLETKING_LONGDESC
+King, Shepherd, Lord forever.
+#BULLETSKELETON_ENCNAME
+They are red.
+#BULLETSKELETON_SHORTDESC
+Bare feet
+#BULLETSKELETON_LONGDESC
+His feet were covered in black dust.
+
+This city also has cemeteries and caves.
+#NECROMANCER_ENCNAME
+face
+#NECROMANCER_SHORTDESC
+Crystalline
+#NECROMANCER_LONGDESC
+Blackpool was one of Gandhi's first sporting events.
+
+But sexual pleasure is dangerous and difficult to control.
+#ZOMBULLET_ENCNAME
+they refuse
+#ZOMBULLET_SHORTDESC
+xingzi
+#ZOMBULLET_LONGDESC
+Swear on your chest
+
+They can no longer attack with weapons. But thieves are easy to kill.
+#SHELLETON_ENCNAME
+status
+#SHELLETON_SHORTDESC
+An important person
+#SHELLETON_LONGDESC
+Send a lot of black stones to Sagittarius and the 6th house.
+
+Features include hundreds of high-quality Hammer plugins. Assuming his skull is intact, he will make a full recovery.
+#SPECTRE_ENCNAME
+How
+#SPECTRE_SHORTDESC
+are
+#SPECTRE_LONGDESC
+Countermeasures destroy enemy weak points and create dangerous obstacles.
+#MUMMY_ENCNAME
+Does not matter
+#MUMMY_SHORTDESC
+Contract price
+#MUMMY_LONGDESC
+Watch the witch as she walks out the door.
+
+The old have power and the old are excluded. Medicines are stored for up to one year.
+#BULLETBROS_TITLE
+Safe past
+#BULLETBROS_NEWSTRINGFORHEALTHBAR
+Double
+#BULLETBROS_SUBTITLE
+very happy
+#BULLETBROS_QUOTE
+
+#BULLETBROS_SMILEY_ENCNAME
+smile
+#BULLETBROS_SMILEY_SHORTDESC
+played well
+#BULLETBROS_SMILEY_LONGDESC
+Ren Xiao was younger and better than his brother. He was responsible for developing a new generation of anti-jamming weapons.
+
+The first two teeth of a wolf are larger and sharper than those of a real wolf.
+#BULLETBROS_SHADES_ENCNAME
+in darkness
+#BULLETBROS_SHADES_SHORTDESC
+Ball
+#BULLETBROS_SHADES_LONGDESC
+Laughter and laughter always go hand in hand.
+
+When the rebellious twin dies in battle, the evil twin tries to assist the confused old man.
+#BOSSSTATUES_TITLE
+a bottle
+#BOSSTATUES_NEWSTRINGFORHEALTHBAR
+Dissatisfied
+#BOSSTATUES_NEWSTRINGFORHEALTHBAR2
+wounded body
+#BOSSSTATUES_SUBTITLE
+This Thursday
+#BOSSSTATUES_QUOTE
+
+#BOSSSTATUES_ENCNAME
+cooked
+#BOSSSTATUES_SHORTDESC
+now!
+#BOSSSTATUES_LONGDESC
+Gundam characters are removed.
+
+Few criminals can match the evil of this forgotten realm. Experience the power of darkness...
+#DEMONWALL_TITLE
+magical scent
+#DEMONWALL_SUBTITLE
+Exorcism:
+#DEMONWALL_QUOTE
+
+#DEMONWALL_ENCNAME
+The border police
+#DEMONWALL_SHORTDESC
+avatar
+#DEMONWALL_LONGDESC
+A demonic barrier prevents Kajo from entering.
+
+Fans remember that episode when the full mixer fires the 100 Powerful Turret.
+#DRAGUN_TITLE
+And the snake
+#DRAGUN_SUBTITLE
+old and beautiful
+#DRAGUN_QUOTE
+
+#DRAGUN_ENCNAME
+beautiful
+#DRAGUN_SHORTDESC
+spirit
+#DRAGUN_LONGDESC
+After defeating the dragon, he waited to discover his school's treasure.
+
+All dragons are dragons, the first group of rivers, but death is inevitable for beasts and beasts.
+#HIGHPRIEST_TITLE
+better performance? well played
+#HIGHPRIEST_SUBTITLE
+Another time
+#HIGHPRIEST_QUOTE
+
+#HIGHPRIEST_ENCNAME
+Knight Templar
+#HIGHPRIEST_SHORTDESC
+first episode
+#HIGHPRIEST_LONGDESC
+Abbott was the de facto leader of the organization during Excalibur Man's lifetime.
+#BOSSDOORMIMIC_TITLE
+how
+#BOSSDOORMIMIC_SUBTITLE
+Not being there
+#BOSSDOORMIMIC_QUOTE
+
+#BOSSDOORMIMIC_ENCNAME
+mind
+#BOSSDOORMIMIC_SHORTDESC
+ex girlfriend
+#BOSSDOORMIMIC_LONGDESC
+long neck
+
+Ancient hunting and royal shields show that the ancients lived before shields.
+#GIANTPOWDERSKULL_TITLE
+dry cough
+#GIANTPOWDERSKULL_SUBTITLE
+the height of the island
+#GIANTPOWDERSKULL_QUOTE
+
+#GIANTPOWDERSKULL_ENCNAME
+so
+#GIANTPOWDERSKULL_SHORTDESC
+hand:
+#GIANTPOWDERSKULL_LONGDESC
+Fury and fire lurk in the darkness behind the Saskatchewan sheriff.
+
+without pain
+#MEDUZI_TITLE
+flow
+#MEDUZI_SUBTITLE
+army and army
+#MEDUZI_QUOTE
+
+#MEDUZI_ENCNAME
+siren
+#MEDUZI_SHORTDESC
+An object of revenge
+#MEDUZI_LONGDESC
+The newest Gorgon Medusa Gunzone
+
+When the watch is removed, its presence may interfere with functionality.
+#TANKTREADER_TITLE
+light years
+#TANKTREADER_SUBTITLE
+it's an advantage
+#TANKTREADER_QUOTE
+
+#TANKTREADER_ENCNAME
+Neglect
+#TANKTREADER_SHORTDESC
+100% weapons.
+#TANKTREADER_LONGDESC
+For this you need powerful weapons and powerful towers.
+
+Some did not escape the rule of Kenanda. The Gondi dynasty seems to have adopted many artistic traditions.
+#BASHELLISK_TITLE
+I can be
+#BASHELLISK_SUBTITLE
+pipe pressure
+#BASHELLISK_QUOTE
+
+#BASHELLISK_ENCNAME
+Guns and shotguns
+#BASHELLISK_SHORTDESC
+Gluten gem
+#BASHELLISK_LONGDESC
+Arconda - Art.
+
+This snake always wants to strengthen itself by spreading its wings.
+#BIRD_ENCNAME
+Understand
+#BIRD_SHORTDESC
+album!
+#BIRD_LONGDESC
+A rare bird that lays eggs.
+#BUBBLELIZARD_ENCNAME
+Face
+#BUBBLELIZARD_SHORTDESC
+a bubble
+#BUBBLELIZARD_LONGDESC
+The big monster appeared first.
+
+This is certainly good, but it can be done with force.
+#BUBBLELIZARDRED_ENCNAME
+dry key
+#BUBBLELIZARDRED_SHORTDESC
+Hot foam
+#BUBBLELIZARDRED_LONGDESC
+It reproduces rapidly in all large animals.
+
+ultramarine blue line But he was not yet proficient in this art.
+#GUNNUT_ENCNAME
+black hand
+#GUNNUT_SHORTDESC
+Black soldier
+#GUNNUT_LONGDESC
+Kano pointed his clean blade and sword at King Atria's silent spear.
+#LEADWIZARD_ENCNAME
+year
+#LEADWIZARD_SHORTDESC
+Book page
+#LEADWIZARD_LONGDESC
+The assistant dreams of opening a shooting school and wants to work as an instructor.
+
+It sounds crazy. However, it can deal a lot of damage to other enemies.
+#LEADWIZARDBLUE_ENCNAME
+he is an athlete
+#LEADWIZARDBLUE_SHORTDESC
+i play football
+#LEADWIZARDBLUE_LONGDESC
+He showed a great and strong heart.
+#TBULON_ENCNAME
+Register
+#TBULON_SHORTDESC
+Thousand
+#TBULON_LONGDESC
+Chumatsky Bridge - heavy traffic on the beach.
+Better
+Leading waterfall growth. However, lead increases the body temperature of slaughtered animals.
+#DETONATORPLUS_ENCNAME
+Information
+#DETONATORPLUS_SHORTDESC
+addition and multiplication
+#DETONATORPLUS_LONGDESC
+Draw four parts to move the laser beam.
+
+Explosive animal teeth.
+#SHOTGUNSAWEDOFF_ENCNAME
+light
+#SHOTGUNSAWEDOFF_SHORTDESC
+DEATH
+#SHOTGUNSAWEDOFF_LONGDESC
+This is the perfect combination of military curtains and children's toys. Black action follows.
+#BULLETMINER_ENCNAME
+she loves Me
+#BULLETMINER_SHORTDESC
+small and weak
+#BULLETMINER_LONGDESC
+They hide their feelings and prepare for the inevitable war.
+
+Help Genoid with his always bearded friend.
+#ANGRYBOOKRED_ENCNAME
+user information
+#ANGRYBOOKRED_SHORTDESC
+Up to 101
+#ANGRYBOOKRED_LONGDESC
+This step-by-step guide is perfect for beginners.
+#ANGRYBOOKBLUE_ENCNAME
+blue paper
+#ANGRYBOOKBLUE_SHORTDESC
+201
+#ANGRYBOOKBLUE_LONGDESC
+This guide is useful for monsters. 201
+
+Books are kinder to stupid readers.
+#ANGRYBOOKGREEN_ENCNAME
+the gray
+#ANGRYBOOKGREEN_SHORTDESC
+Tomorrow
+#ANGRYBOOKGREEN_LONGDESC
+This book is for Kanju students.
+#ANGRYBOOKNECRO_ENCNAME
+Good book
+#ANGRYBOOKNECRO_SHORTDESC
+Add an author
+#ANGRYBOOKNECRO_LONGDESC
+Gong Tian also produced ammonia and extinguished burnt oil.
+#BULLETDEVIL_ENCNAME
+wake up your parents
+#BULLETDEVIL_SHORTDESC
+devil
+#BULLETDEVIL_LONGDESC
+Room 6 March likes to dress up.
+
+Avoid bad temptations.
+#BULLETMANSHROOMED_ENCNAME
+publishes a newspaper
+#BULLETMANSHROOMED_SHORTDESC
+there is no need
+#BULLETMANSHROOMED_LONGDESC
+Ken Shermer has been there before. But it's a good way to approach the idea.
+#BULLETMANTANK_ENCNAME
+Enter the content.
+#BULLETMANTANK_SHORTDESC
+fight
+#BULLETMANTANK_LONGDESC
+Serious question
+
+They use powerful weapons.
+#SHOTGRUBMAN_ENCNAME
+they eat together
+#SHOTGRUBMAN_SHORTDESC
+I'm afraid
+#SHOTGRUBMAN_LONGDESC
+In the sixth room we see the emblem of the Chinese Communist Party.
+#BULLETSKELETONHELMET_ENCNAME
+Participate
+#BULLETSKELETONHELMET_SHORTDESC
+the island is full
+#BULLETSKELETONHELMET_LONGDESC
+He became a dangerous athlete.
+
+The combination of head and torso makes the helmet a very effective weapon.
+#FLESHCUBEGUY_ENCNAME
+A piece of meat
+#FLESHCUBEGUY_SHORTDESC
+lose weight
+#FLESHCUBEGUY_LONGDESC
+There is also hell in blood.
+#METALCUBEGUY_ENCNAME
+Summary:
+#METALCUBEGUY_SHORTDESC
+invincible power
+#METALCUBEGUY_LONGDESC
+This beautiful book cannot be damaged or closed. The lights went out and I fell asleep.
+#LICH_TITLE
+keep in touch
+#LICH_SUBTITLE
+City in June
+#LICH_QUOTE
+
+#LICH_ENCNAME
+A brave man
+#LICH_SHORTDESC
+Sunday
+#LICH_LONGDESC
+Although he was exiled from the kingdom, the count returned to lead the Red Army.
+#PSYCHOMAN_TITLE
+asked the ghost
+#PSYCHOMAN_SUBTITLE
+martial arts
+#PSYCHOMAN_QUOTE
+
+#PSYCHOMAN_ENCNAME
+asked the spirit.
+#PSYCHOMAN_SHORTDESC
+a spiritual warrior
+#PSYCHOMAN_LONGDESC
+
+#BULLETBISHOP_TITLE
+learn to dance
+#BULLETBISHOP_SUBTITLE
+old theater
+#BULLETBISHOP_QUOTE
+
+#BULLETBISHOP_ENCNAME
+New lesson
+#BULLETBISHOP_SHORTDESC
+old church
+#BULLETBISHOP_LONGDESC
+A quiet man with a soft voice.
+
+If you hit multiple platforms, the targets will be neutral.
+#BLOBULORD_TITLE
+energetic resources
+#BLOBULORD_SUBTITLE
+4 stars
+#BLOBULORD_QUOTE
+
+#BLOBULORD_ENCNAME
+And it worked
+#BLOBULORD_SHORTDESC
+4 different characters
+#BLOBULORD_LONGDESC
+The boss is imprisoned in Babylon and the BLU leader gets a lot of stars.
+
+For centuries, great leaders have been crushed and destroyed not only under water but also in space.
+//#SHOPKEEP_BOSS_TITLE
+//SHOPKEEP_BOSS
+//#SHOPKEEP_BOSS_SUBTITLE
+//
+//#SHOPKEEP_BOSS_QUOTE
+//
+//#SHOPKEEP_BOSS_ENCNAME
+//Shopkeep_Boss
+//#SHOPKEEP_BOSS_SHORTDESC
+//
+//#SHOPKEEP_BOSS_LONGDESC
+//
+#MANFREDSRIVAL_TITLE
+blogger
+#MANFREDSRIVAL_SUBTITLE
+Food
+#MANFREDSRIVAL_QUOTE
+
+#MANFREDSRIVAL_ENCNAME
+while they were singing
+#MANFREDSRIVAL_SHORTDESC
+Ignorant
+#MANFREDSRIVAL_LONGDESC
+Berger is still alive. This dangerous rat betrays friends and demands respect from people.
+
+Use the shield and occasionally kill all the players. Finally, Professor Manville's students stood up again and interrupted the discussion. Tired of the destruction, he fights in the streets and seeks revenge.
+#RESOURCEFULRAT_TITLE
+rat face
+#RESOURCEFULRAT_SUBTITLE
+bird
+#RESOURCEFULRAT_ENCNAME
+Mouse functions
+#RESOURCEFULRAT_SHORTDESC
+say no and die
+#RESOURCEFULRAT_LONGDESC
+The Hong Kong Mysterious Menace known as Astana is the biggest threat in Hong Kong.
+
+Misha Gunzner escapes and steals Guntian's treasure.
+
+The waffle was replaced by a large mouse. Horning used a different method to defeat Horning's boxers.
+#FLOATINGBOMB_TITLE
+champion
+#FLOATINGBOMB_SUBTITLE
+
+#FLOATINGBOMB_QUOTE
+
+#FLOATINGBOMB_ENCNAME
+royal ball
+#FLOATINGBOMB_SHORTDESC
+
+#FLOATINGBOMB_LONGDESC
+
+#BOSSFINALGUIDE_TITLE
+miss loved ones
+#BOSSFINALGUIDE_SUBTITLE
+spray mist
+#BOSSFINALGUIDE_QUOTE
+
+#BOSSFINALGUIDE_ENCNAME
+Good doctor
+#BOSSFINALGUIDE_SHORTDESC
+Incorrect information
+#BOSSFINALGUIDE_LONGDESC
+After reading ancient texts and strange legends, hunters finally understood what they meant. Unfortunately, he didn't know that this organization had previously been discovered and kidnapped by Blackword.
+
+The hunter arrives at the base, searches for prey and activates the hidden device. Cancel and try again later. A mysterious hunter who avoids crazy technology. But as he healed and fought, Zeus showed great potential and fought to survive.
+
+If you don't store it, it can freeze for a thousand years.
+#BOSSFINALMARINE_TITLE
+Different levels of terrorism
+#BOSSFINALMARINE_SUBTITLE
+without hands
+#BOSSFINALMARINE_QUOTE
+
+#BOSSFINALMARINE_ENCNAME
+excitement
+#BOSSFINALMARINE_SHORTDESC
+what animal
+#BOSSFINALMARINE_LONGDESC
+Primaldin's scientific team couldn't wait to open the door to the results, but they were surprised. The overseers tried their best to prevent chaos in the army. But many give up, stop or are afraid.
+
+The team hears a radio signal and leaves the room to look for blood in the science lab. Patients hide in rooms, friends sleep, ghosts kill each other. No one knows where he got his talents and skills.
+#BOSSFINALCONVICT_TITLE
+in black design
+#BOSSFINALCONVICT_SUBTITLE
+suitable for training
+#BOSSFINALCONVICT_QUOTE
+
+#BOSSFINALCONVICT_ENCNAME
+know the story
+#BOSSFINALCONVICT_SHORTDESC
+come to visit
+#BOSSFINALCONVICT_LONGDESC
+Ledger's fault is Lily's damn police.
+
+Enraged, he held up a black sword. Use your organization skills to create chaos. The good guys win the battle and run away. Pour everything into clubs. But no one heard or saw what he did.
+#BOSSFINALROGUE_TITLE
+i agree
+#BOSSFINALROGUE_SUBTITLE
+national government
+#BOSSFINALROGUE_QUOTE
+
+#BOSSFINALROGUE_ENCNAME
+sorry girl*
+#BOSSFINALROGUE_SHORTDESC
+army commander
+#BOSSFINALROGUE_LONGDESC
+Large crew trucks can tow lost boats.
+
+People have hundreds of ships to defend their country. Cannons and swords are indispensable for naval work. For example, swords are not for fighting. Don't let anyone destroy you.
+
+But he helped us by winning the Knights Absolution HS game.
+#ILLITHID_ENCNAME
+The clock is ticking.
+#ILLITHID_SHORTDESC
+the war
+#ILLITHID_LONGDESC
+They threatened to rob a bank.
+
+External attacks are possible. The only way out of prison is an iron weapon.
+#REAPER_ENCNAME
+armed
+#REAPER_SHORTDESC
+middle seat
+#REAPER_LONGDESC
+Death stops us all.
+
+They like to follow the numbers.
+#SREAPER_ENCNAME
+king of the hill
+#SREAPER_SHORTDESC
+should have
+#SREAPER_LONGDESC
+When they arrived at Carmel Garden, he called to her.
+
+People are desperate for food.
+#POOPULON_ENCNAME
+"
+#POOPULON_SHORTDESC
+A great country
+#POOPULON_LONGDESC
+Ten years later, the world of Babylon fell into the hands of evil orcs.
+#TOMBSTONER_ENCNAME
+disappointment
+#TOMBSTONER_SHORTDESC
+i will protect you
+#TOMBSTONER_LONGDESC
+The guardian lives under a moss-covered marble tower.
+#ASHBULLETGUNDEAD_ENCNAME
+find the pictures
+#ASHBULLETGUNDEAD_SHORTDESC
+gray boy
+#ASHBULLETGUNDEAD_LONGDESC
+The fire was barely extinguished and the crater turned to ashes. For many years
+#ASHSHOTGUNMAN_ENCNAME
+The problem is in Asia
+#ASHSHOTGUNMAN_SHORTDESC
+dark
+#ASHSHOTGUNMAN_LONGDESC
+They are worried about their parents' love for strangers.
+
+What are Gundams?
+#BULLETMANMUTANT_ENCNAME
+korean family
+#BULLETMANMUTANT_SHORTDESC
+Old and dirty
+#BULLETMANMUTANT_LONGDESC
+Gungan Oblitz Live Gun Black Mode
+
+Loneliness haunts me. But look at the cause of his death.
+#BULLETSHOTGUNMUTANT_ENCNAME
+Find your weapon.
+#BULLETSHOTGUNMUTANT_SHORTDESC
+Not good at cooking?
+#BULLETSHOTGUNMUTANT_LONGDESC
+These extremists claim that it is an illegal religion.
+
+They do not fall to the ground. but fell into the dark
+#BULLETSHARK_ENCNAME
+Good intention
+#BULLETSHARK_SHORTDESC
+No risk
+#BULLETSHARK_LONGDESC
+look at the fire
+#HAMMERHEADSHARK_ENCNAME
+Excellent score
+#HAMMERHEADSHARK_SHORTDESC
+big ball
+#HAMMERHEADSHARK_LONGDESC
+and fastest attack
+
+They are beautiful fish, but many of them die every year.
+#GIANTBULLAT_ENCNAME
+with the Red Prince
+#GIANTBULLAT_SHORTDESC
+Animal vaccination
+#GIANTBULLAT_LONGDESC
+The most common is the follicular type.
+#GUNNUTSPECTRE_ENCNAME
+Coordinator
+#GUNNUTSPECTRE_SHORTDESC
+I can
+#GUNNUTSPECTRE_LONGDESC
+The gun is damaged but works properly.
+#GUNFAIRY_ENCNAME
+Ordinary weapons
+#GUNFAIRY_SHORTDESC
+A measurement example
+#GUNFAIRY_LONGDESC
+The soul lives here in Gunjang.
+
+Whoever breaks the glass will be punished.
+#HORNET_ENCNAME
+Hey buddy
+#HORNET_SHORTDESC
+is an effort
+#HORNET_LONGDESC
+A fatal error has occurred on this page
+
+Unfortunately, he had to score a few goals before he died.
+#LEADMAIDEN_ENCNAME
+they understand women
+#LEADMAIDEN_SHORTDESC
+dead child
+#LEADMAIDEN_LONGDESC
+This is a family hotel. So no toilet or pool.
+
+guns are guns
+#TOTEMPOLE_ENCNAME
+almost everywhere
+#TOTEMPOLE_SHORTDESC
+cartoon
+#TOTEMPOLE_LONGDESC
+He placed his seven hands before the Lord.
+
+I got angry, my heart showed me.
+#FORGEHAMMER_ENCNAME
+I start over
+#FORGEHAMMER_SHORTDESC
+Check the microphone
+#FORGEHAMMER_LONGDESC
+The main kiln contains the upper kiln, which is an important step in the production of elastic bandages.
+#REVOLVENANT_ENCNAME
+United States
+#REVOLVENANT_SHORTDESC
+Sensors can help.
+#REVOLVENANT_LONGDESC
+Gnion is a beautiful and graceful horse bred by Emomentia.
+
+But the fear of Canaan's appeal was the first step on the long and winding road to reach it.
+#BULLETSNAKE_ENCNAME
+Bombay
+#BULLETSNAKE_SHORTDESC
+World Health Organization
+#BULLETSNAKE_LONGDESC
+The creature changed a thousand times before becoming a snake.
+
+They grow very slowly.
+#HARPY_ENCNAME
+Note
+#HARPY_SHORTDESC
+Strangers
+#HARPY_LONGDESC
+Test lab missiles attack anyone who enters the sixth dimension.
+
+I know the dead face, though many have seen it.
+
+Blast!
+#HELLFACE_ENCNAME
+to hug
+#HELLFACE_SHORTDESC
+facing death
+#HELLFACE_LONGDESC
+Destroying the egg destroys the crystal.
+#BULLETCARDINAL_ENCNAME
+the bank
+#BULLETCARDINAL_SHORTDESC
+The poor
+#BULLETCARDINAL_LONGDESC
+Honorary Member of the Royal Board.
+
+How Excalibur sends messages and gains power from its properties.
+#CULTIST_ENCNAME
+Learn to shoot
+#CULTIST_SHORTDESC
+last line
+#CULTIST_LONGDESC
+Some gun enthusiasts do not want to give up or change the turbulent and unpredictable past.
+
+Sometimes it's okay, Gunjan often works with villains to protect her wealth. Many believers have learned this secret through study.
+#BLOODBULON_ENCNAME
+Dry blood
+#BLOODBULON_SHORTDESC
+Website
+#BLOODBULON_LONGDESC
+Blue Army Chapter 1 Blue Army
+
+To kill his enemies, this Horus went to the green cow and took everything from her.
+#MANFRED_ENCNAME
+God's book
+//NEEDS TRANSLATION
+#MINEFLAYER_TITLE
+bad mood
+#MINEFLAYER_SUBTITLE
+red flag
+#MINEFLAYER_QUOTE
+
+#MINEFLAYER_ENCNAME
+Dear
+#MINEFLAYER_SHORTDESC
+a lot of time
+#MINEFLAYER_LONGDESC
+A fear that scares even the greatest heroes.
+
+You can destroy alien weapons and destroy powerful attacks. A careless gunman can get away.
+#JAMROMANCER_ENCNAME
+they creep
+#JAMROMANCER_SHORTDESC
+you lose
+#JAMROMANCER_LONGDESC
+A priest from the Forbidden Branch of the Amazon can transform caves into magical items.
+#JAMERLENGO_ENCNAME
+on the back of a horse
+#JAMERLENGO_SHORTDESC
+Blood analysis
+#JAMERLENGO_LONGDESC
+Hammerland ginseng is a rare drug used to divide space.
+#ARROWHEAD_ENCNAME
+You know
+#ARROWHEAD_SHORTDESC
+billiards and football
+#ARROWHEAD_LONGDESC
+Aerocon is an old project. A cave painting depicting an ancient archer in the form of a bull.
+#BOMBSHEE_ENCNAME
+Good word!
+#BOMBSHEE_SHORTDESC
+Sing and share!
+#BOMBSHEE_LONGDESC
+Satan's attacks are increasing. Content
+#KILLITHID_ENCNAME
+To kill the damned
+#KILLITHID_SHORTDESC
+Superman
+#KILLITHID_LONGDESC
+Lockheed lives in a world of psychological weapons where physical weapons are ineffective. I don't want to be a star. Bona Klein was the first person to send a child into space before the Supreme Court.
+#KEYBULLETKIN_ENCNAME
+purple hair
+#KEYBULLETKIN_SHORTDESC
+Victory!
+#KETBULLETKIN_LONGDESC
+He erases the code, the hands and the angel laugh and leave.
+
+I don't know when I'm tired. She has silver hair and lips.
+#SHOTGUNCUTIONER_ENCNAME
+Punish
+#SHOTGUNCUTIONER_SHORTDESC
+until death
+#SHOTGUNCUTIONER_LONGDESC
+Unlike other handgun cartridges, fuses contain a small amount of lead.
+
+If the team is dead, use the links to destroy the enemy.
+#HOODEDBULLET_ENCNAME
+what
+#HOODEDBULLET_SHORTDESC
+secret mission
+#HOODEDBULLET_LONGDESC
+Older horses are more resistant to dermatitis.
+
+They monopolize anything that opposes them.
+#CHAINGUNNER_ENCNAME
+a garden
+#CHAINGUNNER_SHORTDESC
+absolute!
+#CHAINGUNNER_LONGDESC
+Lost Weapons are known for their unique weapons.
+#LASTHUMAN_TITLE
+Man not at the end
+#LASTHUMAN_SUBTITLE
+resistive transistor
+#LASTHUMAN_QUOTE
+
+#LASTHUMAN_ENCNAME
+The last man
+#LASTHUMAN_SHORTDESC
+resistance of the transistor
+#LASTHUMAN_LONGDESC
+Name: Satan. 7868 929
+Age: Duong, male, 39 years old.
+Department
+automatic browser
+
+Superheroes are the hope of humanity and if they survive humanity will be destroyed by robots.
+#AGUNIM_TITLE
+between
+#AGUNIM_SUBTITLE
+black tongue
+#AGUNIM_QUOTE
+
+#AGUNIM_ENCNAME
+I want to clean
+#AGUNIM_SHORTDESC
+He is a magician
+#AGUNIM_LONGDESC
+The boat was purchased by its original owner. He came to England on a scholarship.
+
+No one knows where these artists came from and how they learned this style. He was temporarily in the great hall and wanted to leave.
+#SHADOW_AGUNIM_ENCNAME
+am i black or am i african
+#SHADOW_AGUNIM_SHORTDESC
+bad behavior
+#SHADOW_AGUNIM_LONGDESC
+Under the watchful eye of its unseen owner, this box soon appeared in the guise of Gagnon.
+#CANONDORF_TITLE
+What is allowed?
+#CANNONDORF_SUBTITLE
+in the box
+#CANNONDORFQUOTE
+
+#CANNONDORF_ENCNAME
+he flies
+#CANNONDORF_SHORTDESC
+Satan
+#CANNONDORF_LONGDESC
+Many years ago in the Congo there was a great god who promised prosperity and safety to those who accepted his rule. This is Satan's secret.
+
+Xiaonan seized the Kangkang army with powerful iron claws. Until the ball is caught, it does not die and no more points are awarded.
+
+Despite defeating the demon king, Agnim was locked in a room. Some say they are still waiting for permission to contact the Bay Chief.
+#METALGEARRAT_ENCNAME
+now
+#PHASESPIDER_ENCNAME
+spider
+#PHASESPIDER_SHORTDESC
+a collection of memories
+#PHASESPIDER_LONGDESC
+Flying spiders have two main functions. Adapt to new situations and become a spider.
+
+The phaser blade entered the field through the shield created by the spider miner and touched the broken blade of the weapon, triggering an explosion that hit him.
+#PEDESTALMIMIC_ENCNAME
+gentlemen.
+#PEDESTALMIMIC_SHORTDESC
+Old painting
+#PEDESTALMIMIC_LONGDESC
+The best models are built in different ways.
+
+Control weaker passengers against stronger opponents.
+#FUSEBOMB_ENCNAME
+Let him go
+#FUSEBOMB_SHORTDESC
+Heat resistant
+#FUSEBOMB_LONGDESC
+The flying beast is a perfect combination of jets and heavy bombs.
+
+You can make quick decisions, but sometimes you have to crack an egg to make a bomb.
+#WALLMIMIC_ENCNAME
+bad wall
+#WALLMIMIC_SHORTDESC
+I want to break down that wall
+#WALLMIMIC_LONGDESC
+The next step in the evolution of the Mimic series, Falshshtina allows you to hide sound almost anywhere.
+
+Not everyone is strong.
+#CHANCEBULLETKIN_ENCNAME
+He has a family
+#CHANCEBULLETKIN_SHORTDESC
+Less than 1 second
+#CHANCEBULLETKIN_LONGDESC
+Granddaughter Chanbara Cooper keeps valuables in her hat.
+
+If you can't see it, it's hidden behind the screenshot. Open options are only available to experienced shooters.
+#WALLMASTER_ENCNAME
+Rich and poor all
+#WALLMASTER_SHORTDESC
+weapon in hand
+#WALLMASTER_LONGDESC
+The Rasetsu family is endowed with mysterious demonic powers.
+
+The first part is what the audience remembers.
+#DISPLACERBEAST_ENCNAME
+Image has been rejected.
+#DISPLACERBEAST_SHORTDESC
+wrong place
+#DISPLACERBEAST_LONGDESC
+Agnior is a hunter who kills his prey with a sharp whip.
+
+You can also use another version. Women with straight faces can be distracting in the shot.
+#LIKELIKE_ENCNAME
+Pollution
+#LIKELIKE_SHORTDESC
+Brown zinc
+#LIKELIKE_LONGDESC
+Tanheer is military food. For some unknown reason, Hunter collared down.
+
+good But they make weapons.
+#CHANCEBULON_ENCNAME
+What to say
+#CHANCEBULON_SHORTDESC
+Wild
+#CHANCEBULON_LONGDESC
+Sampura decisively defeated the Peloponnesian kingdom.
+
+People rarely come into contact with bodies known for aggressive and brutal violence.
+#KILLEDBY_RESOURCEFULRAT
+Turn off the light
+Your biggest mistake?
+Don't play
+I didn't expect this
+That's not good
+ANOTHER
+I am proud of it
+the most beautiful king
+A challenge
+You are pain free
+Many mice
+#RESOURCEFULRAT_AGD_LONGDESC_PREKILL
+The rich and wealthy are the most powerful thieves in our galaxy. And you are the king of love
+
+Although he regretted the crime, he sought endless information and money from various marijuana attempts.
+
+The luxury of luxury hotels attracts star customers.
+
+Many want to avoid war. but everything goes wrong
+#RESOURCEFULRAT_AGD_LONGDESC_POSTKILL
+Not liking the relationship, he brought them to Kovacs.
+
+They had to be stolen from their parents before anything bad happened.
+
+I am alone on this planet while the other ships have left. Go to Bondi Nagar.
+
+They forbid holding hands and hitting each other every day.
+
+The name of the institute is Akvinat Gunjar. I don't like guns. He felt like a king. No problem:
+#DYNAMITEGUY_ENCNAME
+record
+#DYNAMITEGUY_SHORTDESC
+Sandra was shocked.
+#DYNAMITEGUY_LONGDESC
+The pressure gauge shows the air pressure with a flashing light.
+
+Due to its nitrogenous nature, it rarely ripens young. Nitrogen is often used to clean boxes and tanks.
+#AGUNIM_HELI_TITLE
+he replied
+#AGUNIM_HELI_SUBTITLE
+time...
+//END OF FILE

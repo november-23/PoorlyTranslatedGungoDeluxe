@@ -1,0 +1,4440 @@
+#META_CURRENCY_PICKUP_HEADER
+Operating cost
+#META_CURRENCY_PICKUP_HEADER_02
+inner being
+#META_CURRENCY_PICKUP_BODY
+I understand very well.
+#META_CURRENCY_PICKUP_BODY_02
+common
+#CURSED_NAMEMOD
+nothing
+#CURSED_DESCRIPTOR
+damned
+#SHOOTSTYLE_SEMIAUTOMATIC
+50 points
+#SHOOTSTYLE_AUTOMATIC
+Vehicle"
+#SHOOTSTYLE_BEAM
+leave it
+#SHOOTSTYLE_BURST
+December
+#SHOOTSTYLE_CHARGE
+he plans it
+#ITEMSTYLE_ACTIVE
+electricity
+#ITEMSTYLE_PASSIVE
+Go to the door!
+#ITEMSTYLE_CONSUMABLE
+table
+#INFINITEAMMO_TEXT
+Endless images
+#NOSECRETS_TEXT
+Hidden walls cannot be opened.
+#38SPECIAL_ENCNAME
+NOK 38 per semester
+#38SPECIAL_SHORTDESC
+Step by step
+#38SPECIAL_LONGDESC
+You can get legendary weapons.
+#AK47_ENCNAME
+At 47 drachmas
+#AK47_SHORTDESC
+This version is not supported.
+#AK47_LONGDESC
+In many ways, the AK-47 is a weapon against all weapons. These systems are inexpensive and reliable and have been tested in many environments and environments. Slowing down underwater is also possible.
+#AWP_ENCNAME
+In general
+#AWP_SHORTDESC
+That's not the point.
+#AWP_LONGDESC
+There are many weapons, but they have limitations in certain areas. But for thousands of young shooters, the hobby can be a game changer.
+
+Time flies and the pocket pistol instantly disappears.
+#BARETTA_ENCNAME
+But still
+#BARETTA_SHORTDESC
+to divide
+#BARETTA_LONGDESC
+This device is often replaced by a needle.
+#BEEHIVE_ENCNAME
+quickly
+#BEEHIVE_SHORTDESC
+I do not!
+#BEEHIVE_LONGDESC
+Border security
+
+Bees are nature's weapon. You're right, the ball is too close.
+#BIGIRON_ENCNAME
+Yes
+#BIGIRON_SHORTDESC
+Are you crazy?
+#BIGIRON_LONGDESC
+The Big Iron is a larger cartridge with an additional Magnum barrel. The door does not take up much space, but is solid.
+
+20-year-old Polly Quinn found the gun. He also experimented and created new works of art.
+#BLACKHOLEGUN_ENCNAME
+A sink is a black hole.
+#BLACKHOLEGUN_SHORTDESC
+what's going to happen
+#BLACKHOLEGUN_LONGDESC
+Near the black hole
+
+GAP technology is the host technology. Users can observe the birth and death of stars over time.
+#DECK4RD_ENCNAME
+Step 4
+#DECK4RD_SHORTDESC
+to make weapons
+#DECK4RD_LONGDESC
+Faith is a weapon.
+
+Many soldiers lost their lives in the great battle that lasted for many days. But as many terrorists escape, special forces are still looking for them. Guns were seized in the Cohenhand incident.
+#JOLTPISTOL_ENCNAME
+Fast
+#JOLTPISTOL_SHORTDESC
+Image: 95
+#JOLTPISTOL_LONGDESC
+Originally designed for flat targets, the Rogue has two grips.
+#WOODBOW_ENCNAME
+B:
+#WOODBOW_SHORTDESC
+removable USB key
+#WOODBOW_LONGDESC
+A simple connection never gets old.
+#SNAKEPOOFGUN_ENCNAME
+male
+#SNAKEPOOFGUN_SHORTDESC
+now
+#SNAKEPOOFGUN_LONGDESC
+The ability to rotate enemies
+
+Ares tries to remember the power of magical transformation through magic. Experience helps, but the will to innovate is another powerful weapon.
+#SLING_ENCNAME
+singing
+#SLING_SHORTDESC
+strict!
+#SLING_LONGDESC
+Sometimes bigger is better. Increases damage to powerful enemies.
+
+It happened suddenly. This is no ordinary weapon, even by technical standards. Recommended only as a last resort against heavy weapons.
+#LASERRIFLE_ENCNAME
+laser weapon
+#LASERRIFLE_SHORTDESC
+I like the eyes!
+#LASERRIFLE_LONGDESC
+Only powerful weapons
+
+KinderLaser AK-47. Laser rifles are known for their low cost and low maintenance, and are used by many hunters and the general public.
+#HEGEMONYCREDIT_ENCNAME
+legal services
+#HEGEMONYCREDIT_SHORTDESC
+Look at the whole galaxy
+#HEGEMONYCREDIT_LONGDESC
+Good starting point.
+
+The warehouse is used to store weapons and bring new items for the party.
+#CHARMEDBOW_ENCNAME
+good summer
+#CHARMEDBOW_SHORTDESC
+<3 ------ <<<<
+#CHARMEDBOW_LONGDESC
+It stuns the enemy for a while.
+
+Aphrodite died beautifully before she died. However, I am not good at flash. However, there are still important differences. Even a small amount of damage can kill allies and enemies.
+#COMM4ND0_ENCNAME
+It should be 4.0.
+#COMM4ND0_SHORTDESC
+you have an umbrella
+#COMM4ND0_LONGDESC
+Additional Training and Training Skills: IV.
+
+These batteries are usually mounted on cars or military vehicles and can launch powerful missiles.
+#GUNBOW_ENCNAME
+Armenia:
+#GUNBOW_SHORTDESC
+failed attempt
+#GUNBOW_LONGDESC
+fire assessment
+
+Here, the energy of a live band meets silence and feedback. Like modern archers, they made bows and arrows, but were generally useless in combat. But the fort was saved.
+#BUNDLEOFWANDS_ENCNAME
+Under the beam
+#BUNDLEOFWANDS_SHORTDESC
+of course
+#BUNDLEOFWANDS_LONGDESC
+three wonderful things
+
+All spells can be considered weapons. Dad quickly pulled the stick out of the cartridge and tried the gun.
+#BURNINGHAND_ENCNAME
+future
+#BURNINGHAND_SHORTDESC
+2d6 or more tactics
+#BURNINGHAND_LONGDESC
+Shoot the enemy
+
+Albino Smallbars made this Gun Gun Bunny. When used, it appears in the user's hand and emits smoke.
+#CACTUS_ENCNAME
+cabbage
+#CACTUS_SHORTDESC
+1000 needles!
+#CACTUS_LONGDESC
+Low risk and often.
+
+The rest were found in the tomb. However, the source is unknown. Maybe you don't know the country? But Gunny's intention.
+#COLT1851_ENCNAME
+March 1851
+#COLT1851_SHORTDESC
+I'm learning
+#COLT1851_LONGDESC
+A good example is the Colt 1851 revolver, a favorite of many blacks.
+
+The technology has matured over time, allowing even advanced users to find images quickly.
+#CROSSBOW_ENCNAME
+A bow is a weapon
+#CROSSBOW_SHORTDESC
+Manufactured goods:
+#CROSSBOW_LONGDESC
+One of the earliest examples of rockets.
+#SHOTBOW_ENCNAME
+is long
+#SHOTBOW_SHORTDESC
+at all levels
+#SHOTBOW_LONGDESC
+Archery with bow and arrow
+
+As such, the weapon did not activate the Teleportation Matrix.
+#DARTGUN_ENCNAME
+control
+#DARTGUN_SHORTDESC
+prostate
+#DARTGUN_LONGDESC
+It's not free. However, it is different than before. Some women are too stingy in bed to fight men.
+#DEMONHEAD_ENCNAME
+braided hair
+#DEMONHEAD_SHORTDESC
+king
+#DEMONHEAD_LONGDESC
+Burn enemies with electricity.
+
+The original Al Gungan had three fire demons.
+#DUNGEONEAGLE_ENCNAME
+Eagle in prison
+#DUNGEONEAGLE_SHORTDESC
+Urinate
+#DUNGEONEAGLE_LONGDESC
+Larger weapons always charge.
+
+The desert is known for its appearance. The heart of the film is ambiguous, but interesting.
+#SPACEMARSHAL_ENCNAME
+in order
+#SPACEMARSHAL_SHORTDESC
+sit under the table
+#SPACEMARSHAL_LONGDESC
+Retailers around the world rely on Marshall's smallest and best vacuum cleaners.
+#DRAGONBREATHGUN_ENCNAME
+Wrath of the Dragon
+#DRAGONBREATHGUN_SHORTDESC
+- I'm crying
+#DRAGONBREATHGUN_LONGDESC
+How fast can you kill your enemies?
+
+The first story was created to describe the horrors of the fire dragon known as the Kansu monster.
+#DUELINGPISTOL_ENCNAME
+Shooting activity
+#DUELINGPISTOL_SHORTDESC
+I feel better
+#DUELINGPISTOL_LONGDESC
+rebellion
+
+But grandmother was very helpful in resolving the conflict. Do not tag, as tagging will remove some users.
+#STDISSUELASER_ENCNAME
+Weapons control
+#STDISSUELASER_SHORTDESC
+better
+#STDISSUELASER_LONGDESC
+Underestimating human nature can lead to disaster.
+
+The image is good, but the parliament can be enlarged. Number of administrative documents
+#BULLETBLASTER_ENCNAME
+Sadr was surprised.
+#BULLETBLASTER_SHORTDESC
+Hi Blue!
+#BULLETBLASTER_LONGDESC
+LATELY
+
+Chong Yang is the real commander of his army.
+#ENERGYCANNON_ENCNAME
+Classical Science
+#ENERGYCANNON_SHORTDESC
+After registration
+#ENERGYCANNON_LONGDESC
+The Warriors want a deal. The power of science you make shows what physics and technology can do.
+#BARREL_ENCNAME
+faster
+#BARREL_SHORTDESC
+It is not easy
+#BARREL_LONGDESC
+Since ancient times, pieces of armor had to adapt to the shape of the body. Reduce errors by reducing Gungeon's bilingual vocabulary.
+#FOSSILIZEDGUN_ENCNAME
+Nuclear energy
+#FOSSILIZEDGUN_SHORTDESC
+He said he had a gun.
+#FOSSILIZEDGUN_LONGDESC
+This stress causes uric acid to accumulate in the hair. in the morning
+
+This sign is well preserved.
+#COMPOSITEGUN_ENCNAME
+But it didn't work
+#COMPOSITEGUN_SHORTDESC
+I don't know
+#COMPOSITEGUN_LONGDESC
+These weapons are made of different materials. You can only carry 2 weapons.
+#AUGUN_ENCNAME
+hello i
+#AUGUN_SHORTDESC
+i have to work here
+#AUGUN_LONGDESC
+According to legend, this weapon can kill anyone.
+
+This weapon has no legendary properties. Three links.
+#GOLDDOUBLEBARRELSHOTGUN_ENCNAME
+old friend
+#GOLDDOUBLEBARRELSHOTGUN_SHORTDESC
+doctor*
+#GOLDDOUBLEBARRELSHOTGUN_LONGDESC
+Attention
+
+It's not always about clubs, guns and rifles, sometimes just an idea is enough. A well-made sword is a good example of a traditional weapon.
+#H4MMER_ENCNAME
+×4
+#H4MMER_SHORTDESC
+He ran away from the party.
+#H4MMER_LONGDESC
+Created by pocket martial arts lovers. But I'm jealous of my friend's machine gun.
+
+I think I accidentally forgot to use the Photos app...
+#KLOBBE_ENCNAME
+Anyway
+#KLOBBE_SHORTDESC
+Good for everyone
+#KLOBBE_LONGDESC
+There is a long debate in Congo about whether the Congolese army is that dangerous.
+
+Landmines kill more people than any other weapon. He is not happy!
+#ROGUESPECIAL_ENCNAME
+Professional management
+#ROGUESPECIAL_SHORTDESC
+beautiful and strong
+#ROGUESPECIAL_LONGDESC
+Follow the appropriate actions. He doesn't want to
+
+Confident children cause more problems than they solve.
+#BLOOPER_ENCNAME
+I do not like it
+#BLOOPER_SHORTDESC
+Again.
+#BLOOPER_LONGDESC
+Very high performance.
+
+Terrorist weapons are used to kill people. Most adventurers can use this weapon to destroy or alter the past or the past. You can shoot without a real gun.
+#M1RIFLE_ENCNAME
+m.1
+#M1RIFLE_SHORTDESC
+electronic movement
+#M1RIFLE_LONGDESC
+The most popular weapon in history
+
+The performance and stability of this device is legendary. The gang had nothing to do with marijuana, but were waiting for his arrival.
+#M1911_ENCNAME
+He died in 1911.
+#M1911_SHORTDESC
+in the area
+#M1911_LONGDESC
+The center bolt of this classic rifle is clockwise.
+#M79GRENADELAUNCHER_ENCNAME
+you fixed it
+#M79GRENADELAUNCHER_SHORTDESC
+Electronic information system?
+#M79GRENADELAUNCHER_LONGDESC
+He kicks the ball.
+
+A prince must have a sharp right hand. Finney is happy with the new operation.
+#MAGNUM_ENCNAME
+strong
+#MAGNUM_SHORTDESC
+5 or 6 scenes?
+#MAGNUM_LONGDESC
+Gunjan falls. Therefore, Gundad spends most of his time cleaning and removing weapons. But it seems like a big waste.
+#MAILBOX_ENCNAME
+send it
+#MAILBOX_SHORTDESC
+Quick delivery
+#MAILBOX_LONGDESC
+This package is broken and not included.
+
+Ganjunar is a smart and optimistic person. He understood that the box was a symbolic weapon. Find out if the wall was ever used as a weapon.
+#MAKAROV_ENCNAME
+Makarov
+#MAKAROV_SHORTDESC
+Army
+#MAKAROV_LONGDESC
+End each practice. Kang Xia said some helplessly. This weapon is no better or worse than other weapons.
+#LEMONHANDCANNON_ENCNAME
+With big hands
+#LEMONHANDCANNON_SHORTDESC
+- Full credit -
+#LEMONHANDCANNON_LONGDESC
+Megan is the result of a 10-day struggle with robots. An old man who fights for little children. Simple but works well.
+#VULCANCANNON_ENCNAME
+Explosive acid
+#VULCANCANNON_SHORTDESC
+eternal death
+#VULCANCANNON_LONGDESC
+A huge army of powerful and famous hunters are scattered on the battlefield.
+#MOONSCRAPERLASER_ENCNAME
+the moon
+#MOONSCRAPERLASER_SHORTDESC
+in excellence
+#MOONSCRAPERLASER_LONGDESC
+The laser is powerful enough to cut geometric shapes.
+#NAILGUN_ENCNAME
+snow ball
+#NAILGUN_SHORTDESC
+I explode
+#NAILGUN_LONGDESC
+Ancient symbols play an important role in the mystical ritual of the spider and the fire.
+#PLASMACELLGUN_ENCNAME
+laser emulsion
+#PLASMACELLGUN_SHORTDESC
+5 books?
+#PLASMACELLGUN_LONGDESC
+military exercises
+
+Anyone with 5 points can use the appropriate weapon.
+#PLASMARIFLE_ENCNAME
+box
+#PLASMARIFLE_SHORTDESC
+repay
+#PLASMARIFLE_LONGDESC
+One of the first events was like lightning. So he decided not to move. Our mission is simple but great.
+#POLARIS_ENCNAME
+Polarization
+#POLARIS_SHORTDESC
+One day
+#POLARIS_LONGDESC
+A secret weapon that gets stronger with each attack. A lot of energy is lost when the user falls.
+
+They talk about demonic robots that use underground weapons. The handle has two small holes.
+#ALIENSIDEARM_ENCNAME
+external power supply
+#ALIENSIDEARM_SHORTDESC
+Power outlet
+#ALIENSIDEARM_LONGDESC
+Fight here in great wars with other nations and win. Hundreds of weapons have been brought back from World War II.
+#RAYGUN_ENCNAME
+Member of the Riigikogu Ruta Aden.
+#RAYGUN_SHORTDESC
+smart products
+#RAYGUN_LONGDESC
+Different Body parts small, strong and beautiful Red-edin Mc II as expected we strive to find the best method.
+#RADIATIONLASER_ENCNAME
+gamma radiation
+#RADIATIONLASER_SHORTDESC
+medium green
+#RADIATIONLASER_LONGDESC
+These prototype lasers have been studied for hundreds of years. The captives they can take are real people. About radioactive contamination
+#MAXIMUMPURPLE_ENCNAME
+Color by color
+#MAXIMUMPURPLE_SHORTDESC
+and take them
+#MAXIMUMPURPLE_LONGDESC
+Kill all the enemies in the shop at once.
+
+This weapon is suitable not only for serious battles, but also for children.
+#GUNHAND_ENCNAME
+Very good
+#GUNHAND_SHORTDESC
+Sensitive
+#GUNHAND_LONGDESC
+The connected channel is full
+
+How the weapon attacks. The firecrackers exploded, but without much noise. Unless Cupid.
+#RPG_ENCNAME
+has a role
+#RPG_SHORTDESC
+He says:
+#RPG_LONGDESC
+Missiles and rockets are fast.
+#PLAGUEGUN_ENCNAME
+Weapons of destruction
+#PLAGUEGUN_SHORTDESC
+chemical warfare
+#PLAGUEGUN_LONGDESC
+Toxic
+#RUSTYSIDEARM_ENCNAME
+Hope
+#RUSTYSIDEARM_SHORTDESC
+Mostly yes.
+#RUSTYSIDEARM_LONGDESC
+Messi ran away
+
+The rifle looks new but the frame is old and rusty. very funny...
+#BLACKREVOLVER_ENCNAME
+The black ball
+#BLACKREVOLVER_SHORTDESC
+After all, actions have consequences.
+#BLACKREVOLVER_LONGDESC
+This is a warning for the future.
+
+The magic trigger hand was still cold and didn't touch it.
+#SAA_ENCNAME
+Night
+#SAA_SHORTDESC
+Long download time
+#SAA_LONGDESC
+Rugby
+
+The server takes a lot of time, but users have no complaints. According to documents obtained from the commander of the Imperial Army, he was sometimes unable to speak on holidays.
+#HUNTERARM_ENCNAME
+Champagne
+#HUNTERARM_SHORTDESC
+Communicate actively
+#HUNTERARM_LONGDESC
+A popular weapon among bounty hunters.
+
+Item is heavy but in good condition.
+#SHOTGUNAXE_ENCNAME
+In football
+#SHOTGUNAXE_SHORTDESC
+demolition
+#SHOTGUNAXE_LONGDESC
+start over
+
+This ax is useless. It was a bad experience. Processing speed depends on your expectations. Protect yourself from lightning
+#SHIELDMETGUN_ENCNAME
+Avoid danger.
+#SHIELDMETGUN_SHORTDESC
+Production
+#SHIELDMETGUN_LONGDESC
+Armor and dextrose
+
+Bruckner lost one unarmed horse while betraying Sir Manuel.
+#SAWEDOFFSHOTGUN_ENCNAME
+"you"
+#SAWEDOFFSHOTGUN_SHORTDESC
+in place
+#SAWEDOFFSHOTGUN_LONGDESC
+Turns weapons into missiles. Short hair is long, but still close.
+#SERIOUSCANNON_ENCNAME
+strict rules
+#SERIOUSCANNON_SHORTDESC
+Severe mental illness
+#SERIOUSCANNON_LONGDESC
+A great and powerful weapon! Only solid walls can block this weapon.
+
+Sirius Upper Arch, Sirius Samstone.
+#REGULARSHOTGUN_ENCNAME
+armed
+#REGULARSHOTGUN_SHORTDESC
+Newspapers and magazines
+#REGULARSHOTGUN_LONGDESC
+Released from active military service.
+
+I remembered the beautiful world of the rainbow.
+#SHOTGUNFULLOFHATE_ENCNAME
+wrong weapon
+#SHOTGUNFULLOFHATE_SHORTDESC
+I hate power
+#SHOTGUNFULLOFHATE_LONGDESC
+Strong head, claws and hands.
+
+He held the sliding hand with his black hand.
+#ENGINE_ENCNAME
+They hug each other
+#ENGINE_SHORTDESC
+12 cylinders
+#ENGINE_LONGDESC
+A quick fight
+
+Thanks to 100 years of proven high-speed technology, the world moves 40 times faster than hardware.
+#HMONRIFLE_ENCNAME
+Carry a weapon
+#HMONRIFLE_SHORTDESC
+question*
+#HMONRIFLE_LONGDESC
+Elite soldiers are better attackers because they have better weapons than soldiers.
+#FLASHRAYGUN_ENCNAME
+Beef
+#FLASHRAYGUN_SHORTDESC
+Permission
+#FLASHRAYGUN_LONGDESC
+A perfect example of an astronaut.
+
+Expensive models and unreliable performance often reduce the return on investment.
+#HYBRIDMAGIC_ENCNAME
+It does not matter.
+#HYBRIDMAGIC_SHORTDESC
+Description
+#HYBRIDMAGIC_LONGDESC
+Edit this article.
+
+The first clue is that "Treasure" was made long before Kozan joined the group.
+#MAGICSNIPER_ENCNAME
+Hexagon
+#MAGICSNIPER_SHORTDESC
+good light
+#MAGICSNIPER_LONGDESC
+The enemy has changed
+
+He became a witch to take revenge on his student.
+
+Our team tests and processes each piece step by step before receiving. His revenge was swift and massive.
+#SNIPERRIFLE_ENCNAME
+Game
+#SNIPERRIFLE_SHORTDESC
+This system is very simple.
+#SNIPERRIFLE_LONGDESC
+A very effective weapon with low rate.
+
+Gungian rarely offers these options, but every rifle is different. But don't worry.
+#BUDGETREVOLVER_ENCNAME
+Except for the hand
+#BUDGETREVOLVER_SHORTDESC
+I can use a gun.
+#BUDGETREVOLVER_LONGDESC
+The legendary rebel gave the weapon to Ganja for free.
+
+Due to the natural protest of the prisoners, Kanchi was sentenced to life imprisonment. Forget your sins or stay in Guanjiang forever. It is possible to pay without an official fee.
+
+Cheap murder weapon.
+#SPACECOREASSAULTRIFLE_ENCNAME
+They dropped a bomb on the way.
+#SPACECOREASSAULTRIFLE_SHORTDESC
+red dress
+#SPACECOREASSAULTRIFLE_LONGDESC
+Protests took place in the area before Bandh.
+
+Monk Emami opened the cave and spoke to Kori.
+#SPACECORESHOTGUN_ENCNAME
+and this weapon
+#SPACECORESHOTGUN_SHORTDESC
+priorities
+#SPACECORESHOTGUN_LONGDESC
+A warrior prefers tall weapons.
+
+A short circuit makes them dangerous.
+#MARINESIDEARM_ENCNAME
+they shot the police
+#MARINESIDEARM_SHORTDESC
+with you forever
+#MARINESIDEARM_LONGDESC
+First, the arsenal is full of new weapons.
+
+This weapon looks great, but it's brutal when it needs to be.
+#MEGADOUSER_ENCNAME
+Most corporate websites
+#MEGADOUSER_SHORTDESC
+Be careful
+#MEGADOUSER_LONGDESC
+Water polo is like a big ball. However, large amounts of water can cause serious fires. Can you kill the enemy with the water cannon? Enemies can be magically sent into space. The most important thing is to develop creativity.
+#SYRINGEGUN_ENCNAME
+document
+#SYRINGEGUN_SHORTDESC
+Agreement
+#SYRINGEGUN_LONGDESC
+Make sure the water is free of poisonous clams.
+
+The doctor asked for blood, but Qing Xiang could not collect all the blood, and the army threatened with rain.
+#THOMPSONSUBMACHINEGUN_ENCNAME
+Thompson vessels
+#THOMPSONSUBMACHINEGUN_SHORTDESC
+What do you think; What do you think!
+#THOMPSONSUBMACHINEGUN_LONGDESC
+It got its name because criminals and thieves used it as a weapon for centuries. The film was nominated for Tommy Gunn, Bad in Line, Chicago Printer and Total Friday.
+#TSHIRTCANNON_ENCNAME
+Even his clothes
+#TSHIRTCANNON_SHORTDESC
+Washing machine
+#TSHIRTCANNON_LONGDESC
+design
+
+Kunje Myers got off to a slow start but missed. The fourth visitor climbs the stairs.
+#GHOSTLYSIDEARM_ENCNAME
+armed
+#GHOSTLYSIDEARM_SHORTDESC
+lost soul
+#GHOSTLYSIDEARM_LONGDESC
+He sent a huge army into prison. The accuracy is unknown.
+#HORNOFAUNICORN_ENCNAME
+These are unicorns
+#HORNOFAUNICORN_SHORTDESC
+Good friend
+#HORNOFAUNICORN_LONGDESC
+As noted by at least one rare species of bird. Is he really dead or missing?
+#ASHESOFAGUNSLINGER_ENCNAME
+What is happening
+#ASHESOFAGUNSLINGER_SHORTDESC
+free opinion
+#ASHESOFAGUNSLINGER_LONGDESC
+Armies of Vengeance
+
+I don't care, but I remember the first group of priests.
+#MACHINEPISTOL_ENCNAME
+You drive alone
+#MACHINEPISTOL_SHORTDESC
+The challenge
+#MACHINEPISTOL_LONGDESC
+small but powerful engine
+
+He also likes pop music.
+#PORTALGUN_ENCNAME
+I feel smart
+#PORTALGUN_SHORTDESC
+Agreed
+#PORTALGUN_LONGDESC
+ready
+
+Smart weapons are not designed to work with minerals. Use this portal to apply securely.
+#RATTLER_ENCNAME
+A problem
+#RATTLER_SHORTDESC
+hose gun
+#RATTLER_LONGDESC
+Rush is one of Emmett Cullen's worst ideas. Winchester Poison Arrow. Reloading requires great skill.
+#WINCHESTERSHOTGUN_ENCNAME
+The Winchester family
+#WINCHESTERSHOTGUN_SHORTDESC
+Better than a box of roses
+#WINCHESTERSHOTGUN_LONGDESC
+These changes are due to the formation of blood vessels.
+
+Winchester pistols look like regular ammunition. But it's a good magazine.
+#YARIROCKETLAUNCHER_ENCNAME
+Science
+#YARIROCKETLAUNCHER_SHORTDESC
+true
+#YARIROCKETLAUNCHER_LONGDESC
+Chinese month
+
+The popular equipment from the Jira industry is made for a great warrior whose name has been forgotten.
+#RUBEADYNEMKVI_ENCNAME
+another model
+#RUBEADYNEMKVI_SHORTDESC
+Season 1
+#RUBEADYNEMKVI_LONGDESC
+Examples of reaction formation
+
+The device is designed for impact and explosion testing.
+#EYEOFTHEBEHOLSTER_ENCNAME
+Keep your eyes open
+#EYEOFTHEBEHOLSTER_SHORTDESC
+you are very beautiful!
+#EYEOFTHEBEHOLSTER_LONGDESC
+The stone must be in the pocket.
+
+Because the ancestors got energy from the air.
+#SMILEYREVOLVER_ENCNAME
+know when to laugh
+#SMILEYREVOLVER_SHORTDESC
+Everyone smiled.
+#SMILEYREVOLVER_LONGDESC
+My brother's gun, "C" is empty.
+
+Marketers often assume that laughing beauty is harmless and adjust their prices accordingly.
+#SHADESREVOLVER_ENCNAME
+A network of towers
+#SHADESREVOLVER_SHORTDESC
+cat
+#SHADESREVOLVER_LONGDESC
+Lake Pi Toro has 17 lines.
+
+The people who use these weapons are very good.
+#LTGREENSRIFLE_ENCNAME
+add to that
+#LTGREENSRIFLE_SHORTDESC
+Green alligator?
+#LTGREENSRIFLE_LONGDESC
+A little dirt goes a long way.
+
+The figure also carries a gun and supports Whiskey King Osbro III. Zambinski liberated the country from the rebels led by his brother Giles Sparrow.
+#LTREDSSHOTGUN_ENCNAME
+For example a table
+#LTREDSSHOTGUN_SHORTDESC
+The kitchen fan is on
+#LTREDSSHOTGUN_LONGDESC
+Many seniors don't know about antique decor. The ship was converted into a landing craft to replace the sunken lifeboat. The burner works quickly and burns the skin.
+#AKEY47_ENCNAME
+Result 47.
+#AKEY47_SHORTDESC
+Of course
+#AKEY47_LONGDESC
+Activation of the appropriate throttle switch.
+
+AK-47 is a great combination of AK-47 and powerful red gun. The sign read "Insurance Freedom".
+#GUNGEONANT_ENCNAME
+ant eyes
+#GUNGEONANT_SHORTDESC
+How many weapons does he have?
+#GUNGEONANT_LONGDESC
+Includes gas station and fire extinguisher.
+
+A bomb fell from the sky and landed on Gongyeon Temple. Subterranean ants are large and can breathe in circular motions. This rare species hides in tree branches.
+#SAILGUN_ENCNAME
+the rest
+#SAILGUN_SHORTDESC
+schedule
+#SAILGUN_LONGDESC
+Clean the cracks.
+
+Sailors use air weapons on ships. It took a long time to clean the room. The voices of both crew members were crisp and clear.
+#BLUNDERBUSS_ENCNAME
+it's not mine.
+#BLUNDERBUSS_SHORTDESC
+divorce
+#BLUNDERBUSS_LONGDESC
+Many farmers use it to protect their fields from hungry animals. Manage and track your work schedule. Slow Dragon.
+#BSG_ENCNAME
+go on saturday*
+#BSG_SHORTDESC
+mountain
+#BSG_LONGDESC
+ask to clean the room.
+
+Cangeon Classic is the first version of Cangeon Acquisition. PSG energy beams do not work with most weapons.
+#FALLENCREST_ENCNAME
+quality jeans
+#FALLENCREST_SHORTDESC
+attractive
+#FALLENCREST_LONGDESC
+The silent enemy
+
+This popular weapon comes from samurai tradition and great words. his character is weak This made him stressed and frustrated.
+#EXCELLENTPRISMATICSPRAY_ENCNAME
+famous event
+#EXCELLENTPRISMATICSPRAY_SHORTDESC
+the battle gate
+#EXCELLENTPRISMATICSPRAY_LONGDESC
+it is too early to judge
+
+It also requires mental agility, but in the right position. The bullet will destroy all enemies in its path. It should have natural healing properties.
+#ELECTRICGUITARGUN_ENCNAME
+lose face
+#ELECTRICGUITARGUN_SHORTDESC
+Octopus employee!
+#ELECTRICGUITARGUN_LONGDESC
+Don't charge your classical electric guitar twice.
+
+Unfortunately, talent and music records don't always go together. This "weapon" has nothing to do with firearms.
+#ELECTRICRIFLE_ENCNAME
+unknown weapon
+#ELECTRICRIFLE_SHORTDESC
+Japan
+#ELECTRICRIFLE_LONGDESC
+Tasers use complex batteries and fuses to boost current.
+#ELEPHANTGUN_ENCNAME
+So much for elephants
+#ELEPHANTGUN_SHORTDESC
+shoot elephants
+#ELEPHANTGUN_LONGDESC
+You can find armed with friends.
+#TIGERGUN_ENCNAME
+he taught me
+#TIGERGUN_SHORTDESC
+It has claws and teeth.
+#TIGERGUN_LONGDESC
+The house is burning.
+
+Emmett Cork is known for his hunting skills and advanced weapons. Apato looks for food and destroys it with every bite.
+#MININGLASER_ENCNAME
+my sword
+#MININGLASER_SHORTDESC
+Your health comes first
+#MININGLASER_LONGDESC
+The paste and black powder are laser cut into balls. But he has more influence on the court.
+#MJOLNIR_ENCNAME
+chain hammer
+#MJOLNIR_SHORTDESC
+God is a hammer
+#MJOLNIR_LONGDESC
+You need to download Flash Football
+
+Gongjin is not comfortable with everything.
+#COBALTHAMMER_ENCNAME
+cobalt hammer
+#COBALTHAMMER_SHORTDESC
+Everything is destroyed
+#COBALTHAMMER_LONGDESC
+Consider two blue lines.
+
+The first two ghosts he encounters lead him to Kangko, who quickly kills them. Fatigue also inhibits growth. I have asked
+
+Many astrologers have recorded the history of Gujarat.
+#PHOENIX_ENCNAME
+question
+#PHOENIX_SHORTDESC
+Rehabilitation center
+#PHOENIX_LONGDESC
+Shoot your enemies with guns.
+
+Destroy your enemies
+
+His latest choice is War Adventure.
+#PILLOW_ENCNAME
+I want to see
+#PILLOW_SHORTDESC
+300 people died.
+#PILLOW_LONGDESC
+You can kill nearby enemies.
+
+A famous Scottish weapon. Rijeka is a hotel room. This is a classic example of negativity.
+#PITCHFORK_ENCNAME
+two
+#PITCHFORK_SHORTDESC
+Through this process
+#PITCHFORK_LONGDESC
+Tonkin is a famous TV actor in the TV series "Hollow Ghost".
+#TRIDENT_ENCNAME
+interview!
+#TRIDENT_SHORTDESC
+a submarine
+#TRIDENT_LONGDESC
+This spear is well made. With a powerful ability, he later became a powerful magic circle. high tide
+#TRICKGUN_ENCNAME
+good team
+#TRICKGUN_SHORTDESC
+fill and replace
+#TRICKGUN_LONGDESC
+Switch from shooting mode to sniper mode.
+
+According to the legend, the spiritual chalice is placed under the breast and under the mother. Control masked fighters, hunters and snipers.
+#EXCALIBER_ENCNAME
+With all the goodwill
+#EXCALIBER_SHORTDESC
+eight
+#EXCALIBER_LONGDESC
+A mighty army of nameless heroes.
+
+This weapon is quite complex in design, but very effective on the battlefield. Although they are not perfect, most people take care of themselves.
+#EYEBALLGUN_ENCNAME
+skin disease
+#EYEBALLGUN_SHORTDESC
+with a smile
+#EYEBALLGUN_LONGDESC
+Fast water flow
+
+He knocked him down with a ball. The strongest weapon in the prison is water!
+#FLAMETHROWER_ENCNAME
+food
+#FLAMETHROWER_SHORTDESC
+But kids are old.
+#FLAMETHROWER_LONGDESC
+The first is a large hole filled with gas. Why should I buy shares?
+#FREEZERAY_ENCNAME
+eye
+#FREEZERAY_SHORTDESC
+annual
+#FREEZERAY_LONGDESC
+Conquer enemy territory
+#ICEGUN_ENCNAME
+EN:
+#ICEGUN_SHORTDESC
+City
+#ICEGUN_LONGDESC
+knock and drop
+#ALIENENGINE_ENCNAME
+to scratch
+#ALIENENGINE_SHORTDESC
+dangerous
+#ALIENENGINE_LONGDESC
+Damaged ship engines can be turned into energy weapons.
+#LAMP_ENCNAME
+Magic lamp
+#LAMP_SHORTDESC
+maybe 3 times
+#LAMP_LONGDESC
+All three are witches.
+
+Unlike Disarming, Rick doesn't have to wait for his death.
+#LAWGIVER_ENCNAME
+pregnant women
+#LAWGIVER_SHORTDESC
+Well
+#LAWGIVER_LONGDESC
+Each object has a picture that can give a different impression.
+
+look at your enemy
+#M16_ENCNAME
+16 year old boy
+#M16_SHORTDESC
+This is this
+#M16_LONGDESC
+use instead of lemon
+
+The M16 is a classic military machine gun that turns bullets into time bombs.
+#MAC10_ENCNAME
+March 10
+#MAC10_SHORTDESC
+#$ is unlimited.,
+#MAC10_LONGDESC
+It is very popular among thieves and criminals due to its good ammunition and small size.
+#SNOWBALLGUN_ENCNAME
+Peaceful class
+#SNOWBALLGUN_SHORTDESC
+maybe rock
+#SNOWBALLGUN_LONGDESC
+This boat is built for snow. The prisoner gave the young man a gun and bullets, but they stayed in his teeth.
+#MACHINEGUNHAND_ENCNAME
+crying
+#MACHINEGUNHAND_SHORTDESC
+Latvian
+#MACHINEGUNHAND_LONGDESC
+They range from machine guns to assault weapons.
+
+According to legend, both have hands. One left, one right.
+
+Only one person goes to the next session.
+#SPELLACTIONREVOLVER_ENCNAME
+flight
+#SPELLACTIONREVOLVER_SHORTDESC
+Your song is good
+#SPELLACTIONREVOLVER_LONGDESC
+You can change it
+
+You need a good spell weapon.
+#GREYMAUSER_ENCNAME
+gray mouse
+#GREYMAUSER_SHORTDESC
+Silence and death
+#GREYMAUSER_LONGDESC
+He is on the run from a known thief.
+
+Create a hidden link with the product error window title is empty.
+#MISSILELAUNCHER_ENCNAME
+dance
+#MISSILELAUNCHER_SHORTDESC
+Carpenter
+#MISSILELAUNCHER_LONGDESC
+The sticks are mainly used to destroy submarines, but they are also called cannons.
+#GRASSHOPPER_ENCNAME
+Cancer
+#GRASSHOPPER_SHORTDESC
+thank you
+#GRASSHOPPER_LONGDESC
+There is a lot of fear in this gun to scare the user.
+#PEASHOOTER_ENCNAME
+barbie doll
+#PEASHOOTER_SHORTDESC
+first weapon for children
+#PEASHOOTER_LONGDESC
+You will find it when you first enter the canyon. They have patience
+#PROTONPACK_ENCNAME
+Absorption of protons
+#PROTONPACK_SHORTDESC
+Save the channel
+#PROTONPACK_LONGDESC
+He destroyed demons and wild animals.
+
+Gagnon was first introduced to a group of scientists who wanted to learn something new.
+#PULSERIFLE_ENCNAME
+special weapon
+#PULSERIFLE_SHORTDESC
+I'm disappointed…
+#PULSERIFLE_LONGDESC
+They spend a lot of energy to move. one of the first modern indirect energy weapons
+#RAWIRON_ENCNAME
+The weapon is ready
+#RAWIRON_SHORTDESC
+Always hot
+#RAWIRON_LONGDESC
+This weapon is fake and rarely works, but it can be a handy solution if you're wrong. The bottle is pressed against the piston.
+#MEGAPHONE_ENCNAME
+plumbing
+#MEGAPHONE_SHORTDESC
+Great resistance
+#MEGAPHONE_LONGDESC
+There are 11 pressure levels in this headphone.
+#MERMAID_ENCNAME
+Angel:
+#MERMAID_SHORTDESC
+Many people voted.
+#MERMAID_LONGDESC
+Ingestion may reduce effectiveness.
+
+Sirens can save you from poisonous milk and radioactive fire.
+#RECTANGLESHOTUGN_ENCNAME
+Art
+#RECTANGLESHOTUGN_SHORTDESC
+wrong
+#RECTANGLESHOTUGN_LONGDESC
+Enemies appear
+
+The shooter can only shoot in a straight line.
+#SCREECHGUN_ENCNAME
+He said
+#SCREECHGUN_SHORTDESC
+cover your ears
+#SCREECHGUN_LONGDESC
+Sufficient current must be provided to prevent leakage.
+
+Forget about your partner's goals and opinions.
+#SHELLEGUN_ENCNAME
+4
+#SHELLEGUN_SHORTDESC
+under
+#SHELLEGUN_LONGDESC
+Take Nevin Island to find the Necromancer. This weapon is new.
+
+(Revelation 12:22).
+Like everything this movie has to end. A voice was heard in the room again. find all the weapons
+#SKULLGUN_ENCNAME
+Watch
+#SKULLGUN_SHORTDESC
+on Monday
+#SKULLGUN_LONGDESC
+Bullets fly. The cursed nurse uses Candida's ghost as a weapon.
+
+There were nine other bodies in the grave. I need bones.
+#VERTEBRAEK47_ENCNAME
+Back to page K-47.
+#VERTEBRAEK47_SHORTDESC
+you are crazy
+#VERTEBRAEK47_LONGDESC
+The upper part of the AK47 logo is black.
+
+Nagano was released and left the country. Unfortunately, the student has already left.
+#TRIPLECROSSBOW_ENCNAME
+Three crosses
+#TRIPLECROSSBOW_SHORTDESC
+3>1.
+#TRIPLECROSSBOW_LONGDESC
+Arrow's Triple is the pinnacle of international technology.
+
+Make changes slowly and gradually.
+#STICKYCROSSBOW_ENCNAME
+I slowly raised my head
+#STICKYCROSSBOW_SHORTDESC
+the ball flies
+#STICKYCROSSBOW_LONGDESC
+After rebooting, the list will expand.
+
+Freefelt is popular with tourists who like real weapons but aren't afraid of exotic weapons.
+#TRASHGUN_ENCNAME
+scary
+#TRASHGUN_SHORTDESC
+income!
+#TRASHGUN_LONGDESC
+Create a weapon that burns and sprays poison everywhere. Danger to passengers and users
+
+better than a beggar
+#WINCHESTERRIFLE_ENCNAME
+This is Winton's ship.
+#WINCHESTERRIFLE_SHORTDESC
+hand and soul
+#WINCHESTERRIFLE_LONGDESC
+The first gray Winchester Mouser had a spare wheel. Maybe it's already there and working.
+#ZAPPER_ENCNAME
+Blouse with short sleeves
+#ZAPPER_SHORTDESC
+in the woods
+#ZAPPER_LONGDESC
+The whole scene ends with Mary leaving.
+
+He accidentally fell into the lake while playing. Darts should be fun.
+#ZORGUN_ENCNAME
+new
+#ZORGUN_SHORTDESC
+Do not press the red button.
+#ZORGUN_LONGDESC
+Everything in the last game.
+
+Eurogon is a company engaged in the sale of multifunctional devices. Xshell is ideal for star boaters.
+#SINGULARITY_ENCNAME
+size
+#SINGULARITY_SHORTDESC
+I'm thinking
+#SINGULARITY_LONGDESC
+Creates a small black hole that destroys all enemies and limits the gravity field.
+
+Originally created by human leaders, this treacherous planet is too dangerous for normal use.
+#SMOKEBOMB_ENCNAME
+A smoke bomb
+#SMOKEBOMB_SHORTDESC
+A loss is a loss.
+#SMOKEBOMB_LONGDESC
+hide for a moment
+#BOMB_ENCNAME
+They start talking.
+#BOMB_SHORTDESC
+working
+#BOMB_LONGDESC
+After a while there was an explosion.
+
+Many travelers want to find the secret doors and ruins that protect the city. but still a river
+#MOLOTOV_ENCNAME
+Like a Molotov cocktail
+#MOLOTOV_SHORTDESC
+IM sorry
+#MOLOTOV_LONGDESC
+Molotov cocktails are no longer rifles or revolvers. At least I can
+
+The prisoners, knowing that the guards do not talk to guns, bought more alcohol.
+#C4_ENCNAME
+on Wednesday
+#C4_SHORTDESC
+I tell you?
+#C4_LONGDESC
+C4 can be configured and controlled remotely.
+
+Plastic grenades are more effective than conventional bullets, but not as effective as bullets.
+#DECOY_ENCNAME
+Boy
+#DECOY_SHORTDESC
+In order to
+#DECOY_LONGDESC
+Fear of the enemy
+
+Bald eagles are generally solitary animals and do not pay attention to their prey. Suddenly Simkin saw his thoughts.
+
+Most women enjoy the action of the bottle even when the trigger is pulled. There must be an enchanted cave in this valley.
+#EXPDECOY_ENCNAME
+Gas explosion
+#EXPDECOY_SHORTDESC
+Man!
+#EXPDECOY_LONGDESC
+Defeat enemies with lightning and explosions.
+
+But Winchester himself suffered. The game was stopped for another hour.
+#DOUBLEVISION_ENCNAME
+yes
+#DOUBLEVISION_SHORTDESC
+All together
+#DOUBLEVISION_LONGDESC
+The power of this weapon has been doubled.
+
+Two of my favorite action sequences allow you to copy an action. But they are not serious. write a story
+#FORTUNESFAVOR_ENCNAME
+you are happy
+#FORTUNESFAVOR_SHORTDESC
+I feel good
+#FORTUNESFAVOR_LONGDESC
+They shot the enemy.
+
+The experimental concept was a huge success. But this is not enough for the soul. magic
+#VAMPIREARMOR_ENCNAME
+blood clotting
+#VAMPIREARMOR_SHORTDESC
+Music is playing
+#VAMPIREARMOR_LONGDESC
+Civilians happily shoot and destroy enemy soldiers.
+
+But it's a curse, and the costs outweigh the benefits.
+#JETPACK_ENCNAME
+chicken
+#JETPACK_SHORTDESC
+profit
+#JETPACK_LONGDESC
+Limit flights to avoid accidents.
+
+The only punishment for criminals is death and hanging. Fortunately, it's easy to make and use.
+#KATANA_ENCNAME
+Samurai sword
+#KATANA_SHORTDESC
+The sword of death
+#KATANA_LONGDESC
+The door is locked and only brave and strong soldiers can go out.
+
+naughty children
+#HEROSWORD_ENCNAME
+Nice sword
+#HEROSWORD_SHORTDESC
+and a sword
+#HEROSWORD_LONGDESC
+There's a big gun...
+#KNIFESHIELD_ENCNAME
+A ring with a sword
+#KNIFESHIELD_SHORTDESC
+Sign up and recharge.
+#KNIFESHIELD_LONGDESC
+Shields protect you from swords.
+
+When used in the right amount, it has an impressive effect.
+#MEDKIT_ENCNAME
+Dr
+#MEDKIT_SHORTDESC
+brave
+#MEDKIT_LONGDESC
+medical news
+
+A doctor who still cares for the sick and injured has opened his own shelter in Tianjin.
+#COOKIE_ENCNAME
+they are friends
+#COOKIE_SHORTDESC
+Like a peach!
+#COOKIE_LONGDESC
+Let's be friends sometime
+
+My mother cooks in the morning. life and death
+#POTIONOFMETALSKIN_ENCNAME
+starch on the skin
+#POTIONOFMETALSKIN_SHORTDESC
+You can't miss it!
+#POTIONOFMETALSKIN_LONGDESC
+Vaccination time
+
+This is the result of extensive research by Professor Hopton.
+#POTIONOFGUNFRIENDSHIP_ENCNAME
+Friendly host
+#POTIONOFGUNFRIENDSHIP_SHORTDESC
+1 level
+#POTIONOFGUNFRIENDSHIP_LONGDESC
+Competition improves skills over time.
+
+Second Son Gupta Elixir Weapon Elixir temporarily increases weapon level and combat level.
+#GASEOUS_ENCNAME
+great cross
+#GASEOUS_SHORTDESC
+specialize!
+#GASEOUS_LONGDESC
+Zoe
+
+With this magic ring, you can easily reach heaven. It's not an aerial city. Be careful not to disturb the house.
+#PROXIMITYMINE_ENCNAME
+my environment
+#PROXIMITYMINE_SHORTDESC
+local use
+#PROXIMITYMINE_LONGDESC
+This card activates when an enemy approaches.
+#CLUSTERMINE_ENCNAME
+my daughter
+#CLUSTERMINE_SHORTDESC
+hazardous
+#CLUSTERMINE_LONGDESC
+He made a pond out of grass.
+#RATION_ENCNAME
+attention
+#RATION_SHORTDESC
+Calories are my friends.
+#RATION_LONGDESC
+It can be used for maintenance after installing the buttons, it can be used immediately.
+
+This product is available as a lyophilized powder. It is not particularly tasty, but it should be strong.
+#TELEPROTO_ENCNAME
+Inside the door
+#TELEPROTO_SHORTDESC
+girl!?
+#TELEPROTO_LONGDESC
+Remote delivery to customers.
+
+This model is based on strict rules and fatigue indicators. You can still use it. However, the offer came unexpectedly.
+#SENSEOFDIRECTION_ENCNAME
+information management
+#SENSEOFDIRECTION_SHORTDESC
+I feel your absence
+#SENSEOFDIRECTION_LONGDESC
+Interestingly, the rotating arrow indicates the next gear and speed.
+
+Reverse: A, HE
+#SUPPLYDROP_ENCNAME
+You are invisible
+#SUPPLYDROP_SHORTDESC
+I want a newspaper
+#SUPPLYDROP_LONGDESC
+As I can see
+#HEARTHOLSTER_ENCNAME
+Spiritual world
+#HEARTHOLSTER_SHORTDESC
+round
+#HEARTHOLSTER_LONGDESC
+This mirror is your heart
+#HEARTLUNCHBOX_ENCNAME
+good food
+#HEARTLUNCHBOX_SHORTDESC
+Do not eat fast food.
+#HEARTLUNCHBOX_LONGDESC
+you have a big heart
+
+Miners who discovered flour mines brought food with them.
+#HEARTLOCKET_ENCNAME
+He wants money
+#HEARTLOCKET_SHORTDESC
+Teacher's notes
+#HEARTLOCKET_LONGDESC
+The depth of the lake should be increased.
+
+The nest looks very dark. Please wear loose clothing.
+#HEARTBOTTLE_ENCNAME
+mourning
+#HEARTBOTTLE_SHORTDESC
+damn life
+#HEARTBOTTLE_LONGDESC
+This casual outfit is sure to impress. It opens on both sides for easy cleaning.
+#HEARTPURSE_ENCNAME
+increase heart rate
+#HEARTPURSE_SHORTDESC
+Fill out the form you receive.
+#HEARTPURSE_LONGDESC
+Nice jacket with pockets. Apply to the center of the skin.
+#BULLETTIME_ENCNAME
+It's time to sign up!
+#BULLETTIME_SHORTDESC
+enough
+#BULLETTIME_LONGDESC
+This watch has a large screen.
+#DODGEROLLRELOAD_ENCNAME
+Easy to download
+#DODGEROLLRELOAD_SHORTDESC
+job done
+#DODGEROLLRELOAD_LONGDESC
+The server is working fine. Very easy to install.
+
+When he stepped back and saw the string in his hand, the ball hit him. fatigue
+#CHARMHORN_ENCNAME
+It's a miracle.
+#CHARMHORN_SHORTDESC
+e
+#CHARMHORN_LONGDESC
+He heard a noise and called for help.
+
+His attitude has changed significantly. It was originally designed as a killing machine. Several intruders followed him for unknown reasons. The tasks of the activities are also clear.
+#CIGS_ENCNAME
+I smoke
+#CIGS_SHORTDESC
+You have to protect yourself
+#CIGS_LONGDESC
+This can cause serious health problems and even death. But I shine
+#NAPALMSTRIKE_ENCNAME
+clapping
+#NAPALMSTRIKE_SHORTDESC
+what are you doing
+#NAPALMSTRIKE_LONGDESC
+Air support
+#TABLETECHBLANK_ENCNAME
+Technical error
+#TABLETECHBLANK_SHORTDESC
+already
+#TABLETECHBLANK_LONGDESC
+In previous systems, energy was produced from green chains.
+
+Chapter 4 is a world portal that makes the world think about the future
+#TABLETECHMONEY_ENCNAME
+software management
+#TABLETECHMONEY_SHORTDESC
+He came back slowly.
+#TABLETECHMONEY_LONGDESC
+This old trick lets you make money by changing the outcome of every open table in the room.
+
+A few hours later, at 17:00, we met again over a delicious soup. Physicists do not care about the material world. That is, he is already rich.
+#TABLETECHRAGE_ENCNAME
+impudence
+#TABLETECHRAGE_SHORTDESC
+I hate change
+#TABLETECHRAGE_LONGDESC
+This old technique does 100 damage.
+
+Take that feeling and change it until the next time.
+
+Its name is Sundaram Flying Jiu-Jitsu and Pinball Magic.
+#TABLETECHROCKET_ENCNAME
+Rocket Technology
+#TABLETECHROCKET_SHORTDESC
+good wolf
+#TABLETECHROCKET_LONGDESC
+Old tech fired projectiles.
+
+The final episode of Kin Tuan. This page is very old and hard to read.
+#TABLETECHVISION_ENCNAME
+Desktop technology
+#TABLETECHVISION_SHORTDESC
+Inverse multiplication
+#TABLETECHVISION_LONGDESC
+This age-old technology makes the board more durable with every hit.
+
+I recommend that you look at the third part of the form. If you know your watch well, you can trust it.
+#TABLETECHSTUN_ENCNAME
+Technical office OK.
+#TABLETECHSTUN_SHORTDESC
+acceptance
+#TABLETECHSTUN_LONGDESC
+This legacy technique prevented the adversary from trying to cancel.
+
+good morning! Almighty God
+#CHAFF_ENCNAME
+shock wave
+#CHAFF_SHORTDESC
+Work:
+#CHAFF_LONGDESC
+Destroy all enemies
+
+This chalcedony is full of tiny shiny pearls. All shadow enemies are temporarily stunned. This city is famous for its special programs and entertainment for children.
+#ICEBOMB_ENCNAME
+ice bath
+#ICEBOMB_SHORTDESC
+new!
+#ICEBOMB_LONGDESC
+free the enemy
+#IRONCOIN_ENCNAME
+this
+#IRONCOIN_SHORTDESC
+Morgan is beautiful
+#IRONCOIN_LONGDESC
+The assembled doll exploded in the sky with a magical explosion.
+#COOLANT_ENCNAME
+when it works
+#COOLANT_SHORTDESC
+I eat too much.
+#COOLANT_LONGDESC
+A cold shower can be used to extinguish fire and electrical fields.
+#BEESJAR_ENCNAME
+Prepare the vegetables
+#BEESJAR_SHORTDESC
+I'm in pain!
+#BEESJAR_LONGDESC
+Bees are carefully trained to locate weapons and destroy enemies.
+#POISONVIALS_ENCNAME
+Cold
+#POISONVIALS_SHORTDESC
+External use
+#POISONVIALS_LONGDESC
+permanent toxic production
+
+The captain gave Bob a bottle of water, bullets and poisoned arrows.
+#ESCAPEROPE_ENCNAME
+Life clothes
+#ESCAPEROPE_SHORTDESC
+Work anytime, anywhere.
+#ESCAPEROPE_LONGDESC
+Use it to avoid space limitations.
+
+A useful tool for discovering Gong Xiang's fascinating topology. This code exposes a class without exposing an interface. But sometimes it is necessary.
+#ESTUSFLASK_ENCNAME
+an old horse
+#ESTUSFLASK_SHORTDESC
+enough
+#ESTUSFLASK_LONGDESC
+Security and emergency service everywhere
+
+Because I used a lot of weapons. Glass gets dirty over time. Some say it is directly related to the military.
+#GRAPPLINGHOOK_ENCNAME
+needle
+#GRAPPLINGHOOK_SHORTDESC
+Special offer
+#GRAPPLINGHOOK_LONGDESC
+The easy way. Can temporarily knock down enemies to move or move the target.
+
+Some people call themselves noble.
+#PORTABLETURRET_ENCNAME
+remove the antenna
+#PORTABLETURRET_SHORTDESC
+They need training
+#PORTABLETURRET_LONGDESC
+Enemies use small arrows.
+
+Free mobile games for kids. It helps to develop good habits.
+#AMMOBELT_ENCNAME
+i have a ball
+#AMMOBELT_SHORTDESC
+many photos
+#AMMOBELT_LONGDESC
+full of bullets
+#AMULETOFTHEPITLORD_ENCNAME
+Pets are the most important thing
+#AMULETOFTHEPITLORD_SHORTDESC
+All
+#AMULETOFTHEPITLORD_LONGDESC
+you won't read
+
+But you are wrong. The falling rock is a bad example. This talisman is a symbol of stability and represents the depth and goodness of God.
+#BACKPACK_ENCNAME
+a bag
+#BACKPACK_SHORTDESC
+Increase your fertility!
+#BACKPACK_LONGDESC
+Waled allows you to use other methods. but a lot of pressure
+#BALLISTICBOOTS_ENCNAME
+sneakers
+#BALLISTICBOOTS_SHORTDESC
+Puzzled
+#BALLISTICBOOTS_LONGDESC
+Increases movement speed
+
+Then the magician Alvin Du began to create the ballet. Every step is a miracle.
+#BIONICLEG_ENCNAME
+Share your limits.
+#BIONICLEG_SHORTDESC
+vehicle
+#BIONICLEG_LONGDESC
+Increase your walking speed.
+#BLOODYEYE_ENCNAME
+Purple eyes
+#BLOODYEYE_SHORTDESC
+enemy weapon
+#BLOODYEYE_LONGDESC
+destruction of enemy fire
+
+This glitch allows the user to detect and reduce enemy fire. Armed groups use these weapons in black rituals to maintain the stability of arms control.
+#GUNKNIGHTGREAVES_ENCNAME
+wild tail
+#GUNKNIGHTGREAVES_SHORTDESC
+Useful lessons
+#GUNKNIGHTGREAVES_LONGDESC
+but what?
+
+They are almost invisible. Curious, not stingy, needs fun.
+#GUNKNIGHTARMOR_ENCNAME
+granite protection
+#GUNKNIGHTARMOR_SHORTDESC
+There is no weapon
+#GUNKNIGHTARMOR_LONGDESC
+Birds are swimming in the lake.
+
+The army easily defeated the bandits. He fell into a deep ditch and was seriously injured.
+#GUNKNIGHTGAUNTLET_ENCNAME
+Parades and parades at night
+#GUNKNIGHTGAUNTLET_SHORTDESC
+full landscape protection
+#GUNKNIGHTGAUNTLET_LONGDESC
+The horse falls, the Hammer.
+
+You don't need to unlock Pure Warrior. But his strength was not enough to defeat the demon Ganga.
+#GUNKNIGHTHELMET_ENCNAME
+same page
+#GUNKNIGHTHELMET_SHORTDESC
+1 island per square meter
+#GUNKNIGHTHELMET_LONGDESC
+A knight without armor with a crow's helmet.
+
+He entered the stadium Undress and pass out Realizing his mistake So he left him alone and picked up his helmet which disappeared instantly.
+#CARTOGRAPHERSRING_ENCNAME
+The circle is broken.
+#CARTOGRAPHERSRING_SHORTDESC
+very famous
+#CARTOGRAPHERSRING_LONGDESC
+Sometimes the world opens up.
+
+This is not an invincible army. Great artists like Webby and Evenson are said to have published four great books at once. When they reached the fifth floor, the walls were shaking. What are you doing
+#COGOFBATTLE_ENCNAME
+War is coming
+#COGOFBATTLE_SHORTDESC
+Confirm Role
+#COGOFBATTLE_LONGDESC
+Factory settings can be restored.
+#CROWNOFTHECOINKING_ENCNAME
+IMP Bonus
+#CROWNOFTHECOINKING_SHORTDESC
+I want to earn money.
+#CROWNOFTHECOINKING_LONGDESC
+Ruins of the old jail.
+#GUNSOUL_ENCNAME
+army of demons
+#GUNSOUL_SHORTDESC
+they let me go
+#GUNSOUL_LONGDESC
+Try another bed.
+
+Ridiculous effort. But the human spirit is amazing. However, a light of joy shone in their hearts.
+#GUNSOULRECOVERED_SHORTDESC
+ungrateful
+#EYEPATCH_ENCNAME
+eyes
+#EYEPATCH_SHORTDESC
+little impact
+#EYEPATCH_LONGDESC
+expand your knowledge
+
+The carved bull symbolizes the connection with Calibra, who was worshiped as the god of weapons. Allow each child to express themselves deeply.
+#GUNDROMEDASTRAIN_ENCNAME
+nail drill
+#GUNDROMEDASTRAIN_SHORTDESC
+All enemies are weak.
+#GUNDROMEDASTRAIN_LONGDESC
+Reduce enemy health.
+
+The disease spreads quickly among people who share a bed.
+#BLUEPRINT_ENCNAME
+4 teams
+#BLUEPRINT_SHORTDESC
+Innovation and development
+#BLUEPRINT_LONGDESC
+All rooms and floors are open.
+
+Ghost: First, Alvar dies editing #1, and Oban spends his life working on the map. After his death, he returned to Gonjong and established his last company, Gonjong Designs.
+#MAP_ENCNAME
+Because
+#MAP_SHORTDESC
+Failure in science
+#MAP_LONGDESC
+central map.
+
+Faster than adults
+#HEARTSYNTHESIZER_ENCNAME
+What a powerful combination!
+#HEARTSYNTHESIZER_SHORTDESC
+Have fun getting hearts
+#HEARTSYNTHESIZER_LONGDESC
+Measure your heart in a clean room.
+#HEAVYBULLETS_ENCNAME
+big ball
+#HEAVYBULLETS_SHORTDESC
+I really believe it!
+#HEAVYBULLETS_LONGDESC
+The relationship between failure and success
+
+Colorful gems hidden in space
+#HIPHOLSTER_ENCNAME
+bag
+#HIPHOLSTER_SHORTDESC
+the best
+#HIPHOLSTER_LONGDESC
+Work and stress.
+#HONEYCOMB_ENCNAME
+to develop
+#HONEYCOMB_SHORTDESC
+Deborah is ready.
+#HONEYCOMB_LONGDESC
+Bring a comb to protect the nest and repel insects.
+#ICECUBE_ENCNAME
+due to snow
+#ICECUBE_SHORTDESC
+full sale price
+#ICECUBE_LONGDESC
+The active ingredients disappear quickly.
+
+Most cakes are too hot for short-term use.
+#LICHYTRIGGERFINGER_ENCNAME
+Under
+#LICHYTRIGGERFINGER_SHORTDESC
+full of food
+#LICHYTRIGGERFINGER_LONGDESC
+Dean should have kicked the girl in the leg. Sorry, this country is not available.
+#MASTEROFUNLOCKING_ENCNAME
+Example: I love him
+#MASTEROFUNLOCKING_SHORTDESC
+The most important thing is to play well.
+#MASTEROFUNLOCKING_LONGDESC
+Clear the area to increase your chances of finding the key.
+#METRONOME_ENCNAME
+Metronome
+#METRONOME_SHORTDESC
+seem
+#METRONOME_LONGDESC
+Weapon damage is not reduced or modified.
+#GHOSTBULLETS_ENCNAME
+damn ball
+#GHOSTBULLETS_SHORTDESC
+I ride a horse
+#GHOSTBULLETS_LONGDESC
+give him every chance
+#MAGICSWEET_ENCNAME
+strong
+#MAGICSWEET_SHORTDESC
+free news;
+#MAGICSWEET_LONGDESC
+Strength, speed and damage increased.
+
+Winchester Art Competition Winner
+#NIMBLEFINGERS_ENCNAME
+Sliding cylinder
+#NIMBLEFINGERS_SHORTDESC
+acceleration
+#NIMBLEFINGERS_LONGDESC
+Reload speed increases the weapon.
+#ALPHABULLET_ENCNAME
+alpha domain
+#ALPHABULLET_SHORTDESC
+Start!
+#ALPHABULLET_LONGDESC
+The first hit deals more damage.
+
+Edwin's son took this picture as his wife.
+#OMEGABULLET_ENCNAME
+Lots of games
+#OMEGABULLET_SHORTDESC
+Youth!
+#OMEGABULLET_LONGDESC
+Add the final mosaic effect
+
+One of two rockets that Edwinsson built for test flights.
+#BADGE_ENCNAME
+LOT
+#BADGE_SHORTDESC
+About the book
+#BADGE_LONGDESC
+A hunter
+
+It appears that the ambassador made contact before signing.
+#BETTERBULLET_ENCNAME
+city city + 1
+#BETTERBULLET_SHORTDESC
++1 point
+#BETTERBULLET_LONGDESC
+soccer mom
+
+Experts say, this card is better than regular card.
+#BRACELETRED_ENCNAME
+pure blue
+#BRACELETRED_SHORTDESC
+One week
+#BRACELETRED_LONGDESC
+All explosive weapons and armor
+#BRACELETGREEN_ENCNAME
+green bracelet
+#BRACELETGREEN_SHORTDESC
+broken again
+#BRACELETGREEN_LONGDESC
+The emerald is the most beautiful part of this bracelet. The opponent catches the thrown weapon without catching it.
+#RINGOFMISERLYPROTECTION_ENCNAME
+Safety ring for dogs
+#RINGOFMISERLYPROTECTION_SHORTDESC
+Material assistance
+#RINGOFMISERLYPROTECTION_LONGDESC
+My health is much better. You don't get paid
+
+The shop owner was greedy and happy even before opening the shop. Price matters, but capitalism doesn't allow for negative emotions.
+#ROCKETPOWEREDBULLETS_ENCNAME
+fireworks
+#ROCKETPOWEREDBULLETS_SHORTDESC
+the ball is fast
+#ROCKETPOWEREDBULLETS_LONGDESC
+The speed and power of the sword will increase
+
+Bits are known for their hardness. Tired of waiting for the ball to hit the post?
+#ROLLINGEYE_ENCNAME
+Eye
+#ROLLINGEYE_SHORTDESC
+i bought you
+#ROLLINGEYE_LONGDESC
+He turned to the armada and pointed to the river.
+
+Despite his many flaws, Sir Manuel remains one of the greatest magicians of all time. It is made of a special material called gel, so it is easy to use.
+#SCOPE_ENCNAME
+effective area
+#SCOPE_SHORTDESC
+potential target
+#SCOPE_LONGDESC
+This definitely improves accuracy.
+#SHELLETONKEY_ENCNAME
+Sheldon
+#SHELLETONKEY_SHORTDESC
+your boss is dead
+#SHELLETONKEY_LONGDESC
+Open all the locks. Even speaking.
+
+The highlight of the Gunsan series.
+#CLONE_ENCNAME
+Advertising
+#CLONE_SHORTDESC
+that's a lot
+#CLONE_LONGDESC
+to believe
+
+When the clone dies of mild dementia, the positive beliefs of the ceramic island change.
+#ARMORSYNTH_ENCNAME
+comment
+#ARMORSYNTH_SHORTDESC
+The best shooting game.
+#ARMORSYNTH_LONGDESC
+Sometimes they imagine a little happiness in misery
+#TWEEZERS_ENCNAME
+Download the license
+#TWEEZERS_SHORTDESC
+Ability to kill familiars
+#TWEEZERS_LONGDESC
+Shields are very expensive.
+#SHOTGUNCOLA_ENCNAME
+he continued
+#SHOTGUNCOLA_SHORTDESC
+first aid
+#SHOTGUNCOLA_LONGDESC
+Contains caffeine, so be moderate in your intake.
+#SHOTGUNCOFFEE_ENCNAME
+many weapons
+#SHOTGUNCOFFEE_SHORTDESC
+I know
+#SHOTGUNCOFFEE_LONGDESC
+Caffeine and spleen. Do not drink more than 99 glasses.
+#MONSTERBALL_ENCNAME
+monster game
+#MONSTERBALL_SHORTDESC
+100% success rate.
+#MONSTERBALL_LONGDESC
+Defeat your enemies and show them how to survive.
+
+Mephisto wanted to play with him.
+
+According to local legend, Emmett fell to the floor of the Gulag. Animals eat rice.
+#MONSTERBLOOD_ENCNAME
+yet
+#MONSTERBLOOD_SHORTDESC
+to show
+#MONSTERBLOOD_LONGDESC
+Otherwise, do it.
+
+This includes blood samples taken by doctors during illegal tests.
+#UTILITYBELT_ENCNAME
+Support team
+#UTILITYBELT_SHORTDESC
+strong!
+#UTILITYBELT_LONGDESC
+They have different things and offers.
+#ZSHIRT_ENCNAME
+the ice rink
+#ZSHIRT_SHORTDESC
+wait wait wait
+#ZSHIRT_LONGDESC
+This vote demonstrates participation in the democratic process.
+
+Petal: Let them suffer freely.
+#ANTIBODY_ENCNAME
+element
+#ANTIBODY_SHORTDESC
+you agree
+#ANTIBODY_LONGDESC
+Great benefits
+
+Go to the doctor's office for a checkup.
+#SUNGLASSES_ENCNAME
+They swim
+#SUNGLASSES_SHORTDESC
+a golden future
+#SUNGLASSES_LONGDESC
+Limiting idle time is the best way to prevent fraud.
+
+Gunzonir glasses are amazing! It is very slow and some people use it more.
+#ANICESMILE_ENCNAME
+Adds an item to your weapon.
+#ANICESMILE_SHORTDESC
+again
+#ANICESMILE_LONGDESC
+Total store price.
+
+Ross checked everything, including the gun.
+#HIDDENCOMPARTMENT_ENCNAME
+hidden cell
+#HIDDENCOMPARTMENT_SHORTDESC
+something special
+#HIDDENCOMPARTMENT_LONGDESC
+Increases energy consumption and maximum weapon capacity.
+
+Knowing that he was transporting drugs, the pilot wisely chose shelter.
+#SHADOWBULLETS_ENCNAME
+help page
+#SHADOWBULLETS_SHORTDESC
+Click twice
+#SHADOWBULLETS_LONGDESC
+Another explosion!
+
+This umbrella ball is hidden in the shadows of other balls. Wait for the right opportunity to use it.
+#HOMINGBULLETS_ENCNAME
+Show the ball
+#HOMINGBULLETS_SHORTDESC
+start
+#HOMINGBULLETS_LONGDESC
+The monks first learned of Winton's game. Get a Winchester objective and use it. but the color doesn't matter
+#NUKESTRIKE_ENCNAME
+People
+#NUKESTRIKE_SHORTDESC
+light up the world
+#NUKESTRIKE_LONGDESC
+The Third Star Treaty prohibited the use of nuclear weapons but was not recognized for several reasons until the treaty was signed.
+#AIRSTRIKE_ENCNAME
+attack
+#AIRSTRIKE_SHORTDESC
+Choose!
+#AIRSTRIKE_LONGDESC
+open shelves for children
+
+Only brave pilots can fly low enough to reach the grass.
+#MAGICSCROLL_ENCNAME
+Beautiful card
+#MAGICSCROLL_SHORTDESC
+Captivating.
+#MAGICSCROLL_LONGDESC
+Amazing change and amazing energy
+
+Magician Alvins Smalbar once said that the more you use magic, the less you understand its effects. This option is very powerful.
+#COOPPASSIVE_ENCNAME
+is in second place.
+#COOPPASSIVE_SHORTDESC
+This article
+#COOPPASSIVE_LONGDESC
+This number was added manually.
+
+Now the heroes are dead. It's your time to shine!
+#POISONSHOT_ENCNAME
+Every month
+#POISONSHOT_SHORTDESC
+When it comes to business.
+#POISONSHOT_LONGDESC
+Internet poison
+
+Bad mouse
+#HAZMAT_ENCNAME
+Something went wrong
+#HAZMAT_SHORTDESC
+safety rules
+#HAZMAT_LONGDESC
+It has excellent anti-inflammatory, antiviral and light properties.
+
+Ball in front
+#GASMASK_ENCNAME
+i can't wait
+#GASMASK_SHORTDESC
+and take a deep breath
+#GASMASK_LONGDESC
+Avoid toxins.
+
+But it's great!
+#RINGOFFIRERESISTANCE_ENCNAME
+ring of Fire
+#RINGOFFIRERESISTANCE_SHORTDESC
+don't fight me
+#RINGOFFIRERESISTANCE_LONGDESC
+Avoid burns
+
+Now you don't need Edwin's great trainer. Holiday hairstyles are a must. He is very happy to have a good daughter.
+#RINGOFLIGHTNINGRESISTANCE_ENCNAME
+Electric safety ring
+#RINGOFLIGHTNINGRESISTANCE_SHORTDESC
+No contact with strangers.
+#RINGOFLIGHTNINGRESISTANCE_LONGDESC
+To avoid electric shock
+
+The ring originally belonged to Alastair Thunder.
+#RINGOFGIANTSTRENGTH_ENCNAME
+solid tube
+#RINGOFGIANTSTRENGTH_SHORTDESC
+Let us know
+#RINGOFGIANTSTRENGTH_LONGDESC
+Increased damage from thrown weapons.
+
+The rings are very strong. The fortification of the prison is not important.
+#SUPERHOT_ENCNAME
+fire alarm
+#SUPERHOT_SHORTDESC
+transparent
+#SUPERHOT_LONGDESC
+it's your time
+
+This question is still hot.
+#TASERBULLETS_ENCNAME
+The audience was surprised.
+#TASERBULLETS_SHORTDESC
+Better _____!
+#TASERBULLETS_LONGDESC
+Turn left, turn left
+
+Alistair's army burned quickly. - without electricity Grogonia talks to the egg. Maybe not
+#SECRETOFTHEOOZE_ENCNAME
+The robot catches insects.
+#SECRETOFTHEOOZE_SHORTDESC
+Together!
+#SECRETOFTHEOOZE_LONGDESC
+Designed to improve detoxification and detoxification.
+#CARDBOARDBOX_ENCNAME
+characteristic
+#CARDBOARDBOX_SHORTDESC
+box
+#CARDBOARDBOX_LONGDESC
+Security and Strictly Confidential Information
+
+No one had ever seen such good taste.
+#DEMONFACE
+devil's face
+#SHRINE_YV_ENCNAME
+a rugby player
+#SHRINE_YV_SHORTDESC
+Cut
+#SHRINE_CLEANSE_ENCNAME
+Special
+#SHRINE_CLEANSE_SHORTDESC
+The length of the soul
+#SHRINE_HERO_ENCNAME
+CONGRATULATIONS
+#SHRINE_HERO_SHORTDESC
+Hell
+#SHRINE_AMMO_ENCNAME
+bad guy
+#SHRINE_AMMO_SHORTDESC
+revolution
+#SHRINE_ANGEL_ENCNAME
+Looking for a guide?
+#SHRINE_ANGEL_SHORTDESC
+For example*
+#SHRINE_PEACE_ENCNAME
+good day
+#SHRINE_PEACE_SHORTDESC
+One more day for delivery
+#SHRINE_DICE_ENCNAME
+come up
+#SHRINE_DICE_SHORTDESC
+Done
+#SHRINE_DICE_BAD_HEALTH
+this is bad
+#SHRINE_DICE_BAD_HEALTHSLOT
+weak
+#SHRINE_DICE_BAD_MONEY
+steal
+#SHRINE_DICE_BAD_GUN
+Good luck!
+#SHRINE_DICE_BAD_AMMOCAP
+online
+#SHRINE_DICE_BAD_BLANK
+Create a blank image
+#SHRINE_DICE_BAD_CURSE
+I promise
+#SHRINE_DICE_BAD_RELOAD
+Elsewhere
+#SHRINE_DICE_BAD_FAIL
+garbage
+#SHRINE_DICE_GOOD_HEALTH
+Works
+#SHRINE_DICE_GOOD_HEALTHSLOT
+I
+#SHRINE_DICE_GOOD_MOVESPEED
+short description
+#SHRINE_DICE_GOOD_MONEY
+approval
+#SHRINE_DICE_GOOD_ARMOR
+Protect
+#SHRINE_DICE_GOOD_CURSE
+beauty
+#SHRINE_DICE_GOOD_CHEST
+electricity
+#SHRINE_DICE_GOOD_AMMO
+list
+#SHRINE_DICE_GOOD_BLANK
+Young
+//depricated
+//#SHRINE_BLANK_ENCNAME
+//Offering Accepted
+//#SHRINE_BLANK_SHORTDESC
+//Empty and Clean
+#JUNK_ENCNAME
+Date
+#JUNK_SHORTDESC
+then use the key
+what do you mean; What do you think?
+#JUNK_LONGDESC
+Funds, grants
+#JUNKTRUTH_ENCNAME
+liar
+#JUNKTRUTH_SHORTDESC
+repeat this
+#JUNKTRUTH_LONGDESC
+do not speak to him
+
+Do you still feel guilty about the abuse?
+#COLD45_ENCNAME
+45 inch edges.
+#COLD45_SHORTDESC
+Saturday Night is a special download game.
+#COLD45_LONGDESC
+look!
+
+Not bad for retail media. but better than expected
+#TUTORIALHELM_ENCNAME
+old leather hat
+#TUTORIALHELM_SHORTDESC
+Data mask
+#TUTORIALHELM_LONGDESC
+It's run by a big boss who doesn't have a detachable helmet.
+#TUTORIALSHIELD_ENCNAME
+The old horse bits
+#TUTORIALSHIELD_SHORTDESC
+Learning is important
+#TUTORIALSHIELD_LONGDESC
+Lord Manuel has a flag and a shield.
+
+The picture on the back shows how to put the cover on and when to remove the cover. good insulation
+#BLANK_ENCNAME
+White
+#BLANK_SHORTDESC
+a policeman
+#BLANK_LONGDESC
+Do not let enemies into the house. Endure the pain
+#ICE_BREAKERS_GUN_ENCNAME
+live
+#ICE_BREAKERS_GUN_SHORTDESC
+Good luck
+#ICE_BREAKERS_GUN_LONGDESC
+Excellent projectile and burst capability.
+
+Mr. Edwin Golo has created the Icebreaker, a unique weapon that combines good strategy with realistic attacks.
+#ICE_OGRE_HEAD_ENCNAME
+Ice monster head
+#ICE_OGRE_HEAD_SHORTDESC
+Soft shoulders
+#ICE_OGRE_HEAD_LONGDESC
+Why am I cold to my enemies?
+
+Cold snow piled up, warm air. Pepper's favorite gift.
+#HANDCROSSBOW_ENCNAME
+goodbye bracelet
+#HANDCROSSBOW_SHORTDESC
+Never!
+#HANDCROSSBOW_LONGDESC
+Use a regular wooden pipe.
+#TWINENERGYGUN_ENCNAME
+Very humid
+#TWINENERGYGUN_SHORTDESC
+melt
+#TWINENERGYGUN_LONGDESC
+two women
+
+The flying propeller can be used for two purposes at the same time.
+#FUTUREASSAULT_ENCNAME
+chrome gun
+#FUTUREASSAULT_SHORTDESC
+Heavy metal
+#FUTUREASSAULT_LONGDESC
+The chrome steel assault rifle is used as a last resort against Blue Bull's powerful attacks. However, there are many possibilities.
+#DISTORTIONLAUNCHER_ENCNAME
+minister
+#DISTORTIONLAUNCHER_SHORTDESC
+What do you know
+#DISTORTIONLAUNCHER_LONGDESC
+The first visit sparked further discussion.
+
+This is the weapon of the future. What? Will future shooters use this weapon?
+
+Genesis 1:1
+He killed an empire under the sun.
+#GILDEDHYDRA_ENCNAME
+wash the yellow flowers
+#GILDEDHYDRA_SHORTDESC
+I understand what this is!
+#GILDEDHYDRA_LONGDESC
+Increases ability to cut and stab wounds.
+
+Hidrate Gold is Professor Edwin's legendary secret weapon and its effectiveness can be increased with the right accessories.
+
+Revelation 2:1
+Blocks 6-7 and 8 explode with composure and are used to stop and defend formations. The last person entered the block to close the gap.
+#SST_ENCNAME
+Giant Space Turtle:
+#SST_SHORTDESC
+as punishment
+#SST_LONGDESC
+I make my own clothes. It's hard to control a normal person. However, it can also be used as a single weapon.
+
+This service is available to all companies.
+#RAIDENORBITAL_ENCNAME
+Brave young man
+#RAIDENORBITAL_SHORTDESC
+good friend
+#RAIDENORBITAL_LONGDESC
+Shoot the enemy team.
+
+The astronaut captain is very strong. You will regret it
+#R22_ENCNAME
+R2G2:
+#R22_SHORTDESC
+Armed robot
+#R22_LONGDESC
+Useful for killing enemies.
+
+At first the villagers drank a lot of water.
+#OWL_ENCNAME
+crown
+#OWL_SHORTDESC
+Music etc
+#OWL_LONGDESC
+The Allies opened fire on the enemy.
+
+This brave owl gathers leaves with its wings.
+#CATERPILLAR_ENCNAME
+they are hungry
+#CATERPILLAR_SHORTDESC
+Eat well
+#CATERPILLAR_LONGDESC
+number
+
+my heart is a little sad
+#POWERSCOMBINED_ENCNAME
+They eat grass.
+#POWERSCOMBINED_SHORTDESC
+our relationship
+#POWERSCOMBINED_LONGDESC
+Increases weapon efficiency.
+
+A ring takes the power of any weapon and adds it to the current weapon.
+#CLAW_ENCNAME
+House cat
+#CLAW_SHORTDESC
+Beware of your enemies!
+#CLAW_LONGDESC
+The bomb exploded.
+#LOWERCASER_ENCNAME
+small business
+#LOWERCASER_SHORTDESC
+in alphabetical order
+#LOWERCASER_LONGDESC
+The letter R is like a gun.
+
+Gungan weaknesses are significant, but not uncommon.
+#WINDUPGUN_ENCNAME
+insignia of arms
+#WINDUPGUN_SHORTDESC
+Download the file
+#WINDUPGUN_LONGDESC
+Waste of resources.
+
+don't stop
+#CRESCENTMOONCROSSBOW_ENCNAME
+diary
+#CRESCENTMOONCROSSBOW_SHORTDESC
+moon and magic
+#CRESCENTMOONCROSSBOW_LONGDESC
+Light in the light of stars
+
+fly to the moon to see the stars
+#MOLOTOVLAUNCHER_ENCNAME
+follows the rules
+#MOLOTOVLAUNCHER_SHORTDESC
+What do you think; What do you think?
+#MOLOTOVLAUNCHER_LONGDESC
+Molotov cocktail
+
+The Molotov cocktail uses the Molotov cocktail principle to cause pain.
+#MATTERANTIMATTERGUN_ENCNAME
+on a dark street
+#MATTERANTIMATTERGUN_SHORTDESC
+fatal accident
+#MATTERANTIMATTERGUN_LONGDESC
+If you double click...
+
+Most materials are made up of solid particles. Antimatter is a weak particle. Despite his weaknesses and strengths, he is happy.
+
+Such firearms were the preferred types of kings and servants.
+#COMPANIONAPP_ENCNAME
+Attach the application form.
+#COMPANIONAPP_SHORTDESC
+December:
+#COMPANIONAPP_LONGDESC
+Drop the bomb in the right place.
+
+Now kids can make their own videos. Press the arrow first.
+#TSTOPPER_ENCNAME
+vintage clock
+#TSTOPPER_SHORTDESC
+frog
+#TSTOPPER_LONGDESC
+Take your time
+
+Watches can be made from different materials. We hear everywhere of people noticing pain before they act.
+#DUCTTAPE_ENCNAME
+touch the phone
+#DUCTTAPE_SHORTDESC
+Oh!
+#DUCTTAPE_LONGDESC
+We are currently loading the sections below
+
+Nothing special, but sometimes movies do something special. Check out our selection of movies and Magitek!
+#CRUTCH_ENCNAME
+good luck
+#CRUTCH_SHORTDESC
+A man loves a woman
+#CRUTCH_LONGDESC
+Add fruits to your diet.
+
+Everyone needs a little help sometimes. The first beam of light attempted to hit the target. Even if it's pointing in the wrong direction.
+#ANGRYBULLETS_ENCNAME
+In fact
+#ANGRYBULLETS_SHORTDESC
+fire dance
+#ANGRYBULLETS_LONGDESC
+When an enemy is destroyed, the projectile has a chance to hit nearby enemies.
+
+A cup full of anger
+#SCATTERSHOT_ENCNAME
+The door was open
+#SCATTERSHOT_SHORTDESC
+egg and penis
+#SCATTERSHOT_LONGDESC
+More bullets, less damage.
+#RRNOTE1_ENCNAME
+Psycho
+#RRNOTE1_SHORTDESC
+This is true...
+#RRNOTE1_LONGDESC
+Find the hidden mice... This app contains everything from the most popular hunting and shooting games.
+#SPICE_ENCNAME
+Route
+#SPICE_SHORTDESC
+high power
+Please don't hurt others.
+minutes...
+Not for a long time
+#SPICE_LONGDESC
+Improve your fighting skills.
+
+Minions are the most powerful, heaviest and most expensive weapons in the universe.
+#DRUMCLIP_ENCNAME
+connect the battery
+#DRUMCLIP_SHORTDESC
+FRUIT
+#DRUMCLIP_LONGDESC
+Increased magazine capacity for all weapons.
+#EITRSHIELD_ENCNAME
+Apply tomorrow.
+#EITRSHIELD_SHORTDESC
+Klaus and Bartholomew
+#EITRSHIELD_LONGDESC
+used
+
+The old posters have seen better days. But be careful. It's a useful addition to your arsenal, but make sure you activate it.
+#BRACKET_ENCNAME
+body congestion
+#BRACKET_SHORTDESC
+Insecticides
+#BRACKET_LONGDESC
+Deals massive damage to all enemies in the room.
+
+Ruins of Kanjian Bhavan. So the architect Konkan Dewan rushed to Kanthada's place. Although it has lost its power over the centuries, the weapon is still valuable.
+#REDBANDANA_ENCNAME
+blood tissue
+#REDBANDANA_SHORTDESC
+There is no one here
+#REDBANDANA_LONGDESC
+Spain's eyes are closed.
+
+This simple silencer is used by experienced killers. A brother was born and died.
+#BLUEBANDANA_ENCNAME
+military scarf
+#BLUEBANDANA_SHORTDESC
+I do not know
+#BLUEBANDANA_LONGDESC
+Forms are still available.
+
+Ancient warriors covered their eyes with this simple hairstyle. But remember, people die. but to strengthen
+#EYEOFTHETIGER_ENCNAME
+Cabbage
+#EYEOFTHETIGER_SHORTDESC
+strong
+#EYEOFTHETIGER_LONGDESC
+Broccoli is a yellow vegetable with large florets.
+#HEARTOFICE_ENCNAME
+engine oil
+#HEARTOFICE_SHORTDESC
+buyer
+#HEARTOFICE_LONGDESC
+Click on the damaged disk.
+
+It comes from a giant ice monster attacking an ice monster hunter.
+#MIMICTOOTHNECKLACE_ENCNAME
+Remove the teeth
+#MIMICTOOTHNECKLACE_SHORTDESC
+type of animal
+#MIMICTOOTHNECKLACE_LONGDESC
+Open your heart!
+
+I am very happy with my teeth.
+#LASERSIGHT_ENCNAME
+ultraviolet rays
+#LASERSIGHT_SHORTDESC
+business
+#LASERSIGHT_LONGDESC
+in another sense
+
+If there is no laser engraving problem, the transfer will be smooth.
+#NANOMACHINES_ENCNAME
+Number of noses
+#NANOMACHINES_SHORTDESC
+Warning
+#NANOMACHINES_LONGDESC
+After destroying it, you get a new weapon.
+
+Nanomin prevents drugs from entering the body.
+#PEPPER_ENCNAME
+cold wave
+#PEPPER_SHORTDESC
+it is black
+#PEPPER_LONGDESC
+Deals damage to nearby enemies.
+
+This offense is serious enough to cause harm to others.
+#GUONSTONE_DARKBLUE_ENCNAME
+a little blue
+#GUONSTONE_DARKBLUE_SHORTDESC
+I do not have
+#GUONSTONE_DARKBLUE_LONGDESC
+the last game of the season
+
+The Blue Johnstone or Key Information Stone increases the user's reaction time to threats.
+#GUONSTONE_RED_ENCNAME
+What about the red stone?
+#GUONSTONE_RED_SHORTDESC
+already started
+#GUONSTONE_RED_LONGDESC
+growth inhibition
+
+The red marble turns into a dog. Increases movement speed and range by 40%.
+#GUONSTONE_GREEN_ENCNAME
+Coal
+#GUONSTONE_GREEN_SHORTDESC
+i will wait for you to come back
+#GUONSTONE_GREEN_LONGDESC
+Take advantage of the opportunity to improve.
+
+But the emerald brush is almost painless. And if it hurts, it means that your health is not good. Pain is life threatening.
+#GUONSTONE_PINK_ENCNAME
+Entered:
+#GUONSTONE_PINK_SHORTDESC
+well thank you
+#GUONSTONE_PINK_LONGDESC
+Better health
+
+The original pink stone in the background is a white stone placed over the dead dog's heart. It is used as part of an elaborate ceremony.
+#GUONSTONE_WHITE_ENCNAME
+hakuba
+#GUONSTONE_WHITE_SHORTDESC
+what else
+#GUONSTONE_WHITE_LONGDESC
+Put the launcher into sleep mode.
+
+With Kwanjong shelves, guests have more space at each table.
+#GUONSTONE_ORANGE_ENCNAME
+and some gravel
+#GUONSTONE_ORANGE_SHORTDESC
+on fire
+#GUONSTONE_ORANGE_LONGDESC
+lightning bolt
+
+Many years ago, when the rock destroyed the ship, Baguri got angry with the rock and attacked the enemy.
+#GUONSTONE_LIGHTBLUE_ENCNAME
+stone washed
+#GUONSTONE_LIGHTBLUE_SHORTDESC
+set up
+#GUONSTONE_LIGHTBLUE_LONGDESC
+Removes poison damage.
+
+Not all animals have human blood.
+#BTCKTP_ENCNAME
+and the bullet that killed him
+#BTCKTP_SHORTDESC
+It was decided
+#BTCKTP_LONGDESC
+Any bullet from the past could have killed him. You never know what will happen if you fail. How happy I am
+#DOWNWELLBOOTS_ENCNAME
+- they said
+#DOWNWELLBOOTS_SHORTDESC
+I feel good
+#DOWNWELLBOOTS_LONGDESC
+Add more balls to improve your driving skills.
+
+The tailor meets the mysterious hero Bharat. After a few years, all the groups left for Hongyun.
+#RATKEY_ENCNAME
+Weather on the road
+#RATKEY_SHORTDESC
+yesterday
+#RATKEY_LONGDESC
+Mouse head support. i can open
+#LIGHTNING_ENCNAME
+wireless phone
+#LIGHTNING_SHORTDESC
+He ran and grabbed the head.
+#LIGHTNING_LONGDESC
+Very difficult opponent.
+
+They are said to kill the spirit of local archers.
+#ARTFULDODGER_ENCNAME
+At the same time
+#ARTFULDODGER_SHORTDESC
+after
+#ARTFULDODGER_LONGDESC
+i played with winchester. Be careful
+#ELECTROSHARKGUN_ENCNAME
+Rickman
+#ELECTROSHARKGUN_SHORTDESC
+He is afraid of lightning
+#ELECTROSHARKGUN_LONGDESC
+right click
+
+The weapon works like a normal stun gun.
+#SHARKGUN_ENCNAME
+Balloon
+#SHARKGUN_SHORTDESC
+look
+#SHARKGUN_LONGDESC
+Catch the right fish
+
+Gluck's first weapon is to throw a fish. Maybe not, but Kenchan respects your pride.
+#SCRAMBLER_ENCNAME
+color
+#SCRAMBLER_SHORTDESC
+Bullet or gun?
+#SCRAMBLER_LONGDESC
+The ovaries collect fertilized eggs, which are released shortly after fertilization, leaving behind many new follicles. After the first meal, the door opens.
+#SHOTGUNLOVE_ENCNAME
+hand of love
+#SHOTGUNLOVE_SHORTDESC
+i kill
+#SHOTGUNLOVE_LONGDESC
+Deal damage and kill enemies.
+
+The coat of arms of the Library of Hesperia shows the shield of Venus and Saint Megrim.
+#RAILGUN_ENCNAME
+the hug
+#RAILGUN_SHORTDESC
+I think
+#RAILGUN_LONGDESC
+Start with solid metal. You can easily outrun your opponent.
+
+The class is moved from the prototype stage to the production stage. Smaller bullets provide the same performance at a lower cost, but with better combat performance.
+#RAILGUNVARIANT_ENCNAME
+armed
+#RAILGUNVARIANT_SHORTDESC
+high voltage hazard
+#RAILGUNVARIANT_LONGDESC
+They fired high-velocity heavy metal bullets.
+
+The silent military model is based on human authority and big money. Even heroes die in one hit.
+#NIKITA_ENCNAME
+Missile removal
+#NIKITA_SHORTDESC
+Avoid user error
+#NIKITA_LONGDESC
+We can escape the fire.
+
+This projectile is well suited for killing enemies and running on electric rails.
+#MEATLAUNCHER_ENCNAME
+Restaurant door
+#MEATLAUNCHER_SHORTDESC
+First of all
+#MEATLAUNCHER_LONGDESC
+meat and fish market.
+
+It was developed by Emmett, the famous inventor of the famous pistol company. This fast-moving equipment attracts the attention of hunters.
+#MESHOTGUN_ENCNAME
+Writing paper
+#MESHOTGUN_SHORTDESC
+My favorite weapon
+#MESHOTGUN_LONGDESC
+Military weapons used by the local elite.
+
+Designed for quick use and storage, this gun breaks large particles into smaller ones.
+#MASKGUN_ENCNAME
+regardless
+#MASKGUN_SHORTDESC
+I hate guns.
+#MASKGUN_LONGDESC
+All rooms have open walls.
+
+Use the relevant weapon. Like any other device, it needs inspection and maintenance.
+#FLAREGUN_ENCNAME
+Partnerships
+#FLAREGUN_SHORTDESC
+Room - room
+#FLAREGUN_LONGDESC
+clear goals
+
+Unfortunately, no one noticed this change.
+#DERRINGER_ENCNAME
+Security
+#DERRINGER_SHORTDESC
+last proposal
+#DERRINGER_LONGDESC
+Compact guns are easier to carry. But not as I said guys.
+#CEREBRALBORE_ENCNAME
+Complete the exercises
+#CEREBRALBORE_SHORTDESC
+When you are done with the phone
+#CEREBRALBORE_LONGDESC
+This gun shooting simulator destroys enemy railway tracks.
+
+The Eye of Life is a rare weapon of the past. Dinosaurs are the only animals that have wings.
+#BLOCKGUN_ENCNAME
+without fear
+#BLOCKGUN_SHORTDESC
+break the car
+#BLOCKGUN_LONGDESC
+Follow the mysterious shapeshifter who can turn bricks into coins, turtles, mushrooms and more.
+
+It became a special weapon, but it still exists
+#SAWGUN_ENCNAME
+Four
+#SAWGUN_SHORTDESC
+π
+#SAWGUN_LONGDESC
+The story begins.
+
+The team calls it Chain, but they call it Shotgun. But pregnant women are pregnant. But not only with hands.
+#SHOTGRUB_ENCNAME
+to kill
+#SHOTGRUB_SHORTDESC
+This is not a problem!
+#SHOTGRUB_LONGDESC
+Adult educators often teach preschoolers.
+
+I am afraid of infection, be careful not to look for the light in your heart.
+#ANVILGUN_ENCNAME
+It tastes like a bus
+#ANVILGUN_SHORTDESC
+practical and safe
+#ANVILGUN_LONGDESC
+Strong!
+
+Beautiful city! Mola wins by killing Ali ibn Abi Talib.
+#BLASPHEMY_ENCNAME
+dissatisfaction
+#BLASPHEMY_SHORTDESC
+record
+#BLASPHEMY_LONGDESC
+watch the show
+#SWORDGUN_ENCNAME
+Do:
+#SWORDGUN_SHORTDESC
+politics and religion
+#SWORDGUN_LONGDESC
+Pour the main ingredients into the next container.
+
+An ancient weapon of pure light.
+#WOODGUN_ENCNAME
+Red tree
+#WOODGUN_SHORTDESC
+100% organic
+#WOODGUN_LONGDESC
+blue A rare plant originating from the Kani region.
+#BOMBGUN_ENCNAME
+night is coming
+#BOMBGUN_SHORTDESC
+sings
+#BOMBGUN_LONGDESC
+With another molotov
+
+The thief forgot to check the bag to get this magical weapon. Help your wife find the bomb with the help of a real sniper.
+#DISINTEGRATOR_ENCNAME
+Remains
+#DISINTEGRATOR_SHORTDESC
+style
+#DISINTEGRATOR_LONGDESC
+Radiation breaks matter into particles.
+
+The team almost stopped and everyone reacted. Mining is only allowed in two areas: the Zanjon and Poblen 5 refineries.
+#CHARGESHOT_ENCNAME
+Submit your photos online.
+#CHARGESHOT_SHORTDESC
+For everyone
+#CHARGESHOT_LONGDESC
+Ammo is a versatile weapon. According to the plot, the hero is thrown into the crowd and killed. A deadly missile weapon
+#ZILLASHOTGUN_ENCNAME
+fix
+#ZILLASHOTGUN_SHORTDESC
+Double the joy!
+#ZILLASHOTGUN_LONGDESC
+Weapon fires 4 shots at once
+
+Sella Industries is known for its target manufacturing. These weapons are designed for one-shot destruction.
+#MUTANTARM_ENCNAME
+Apartment
+#MUTANTARM_SHORTDESC
+You can choose both.
+#MUTANTARM_LONGDESC
+after reducing sun exposure
+
+a little help
+#CONDENSER_ENCNAME
+stalactite;
+#CONDENSER_SHORTDESC
+Like
+#CONDENSER_LONGDESC
+All raised their hands against the enemy.
+
+This integrated design saves less energy on board and significantly reduces heat generation. Although Gaines is a swordsmith, the team makes an unexpected discovery.
+#BLANKICE_ENCNAME
+Leo Baracco
+#BLANKICE_SHORTDESC
+Keep yourself clean
+#BLANKICE_LONGDESC
+Brutus can kill the enemy.
+
+good quality
+#BLANKFIRE_ENCNAME
+what do you think what do you think
+#BLANKFIRE_SHORTDESC
+open area
+#BLANKFIRE_LONGDESC
+Acid has the ability to set enemies on fire.
+
+Copper protects hair follicles. But it can hurt.
+#BLANKTRIEFFECT_ENCNAME
+Amazing Amoled
+#BLANKTRIEFFECT_SHORTDESC
+what do you want
+#BLANKTRIEFFECT_LONGDESC
+Rick can poison, freeze, and burn enemies.
+
+Pendant made of rare metal - pewter. The following are problems related to menstruation.
+#BLANKPOISON_ENCNAME
+The sky is gone
+#BLANKPOISON_SHORTDESC
+empty door
+#BLANKPOISON_LONGDESC
+Sheep destroy enemies.
+
+Desert with legendary weapons. The search for radioactive minerals cost him his life, but his weapons were almost modern.
+#BLANKFORCE_ENCNAME
+city stone
+#BLANKFORCE_SHORTDESC
+Alone
+#BLANKFORCE_LONGDESC
+Run away from enemies
+
+The power button makes a loud noise, startling everyone around. They jumped slowly in front of him.
+#BLANKDAMAGE_ENCNAME
+Convert to gold
+#BLANKDAMAGE_SHORTDESC
+Not yet
+#BLANKDAMAGE_LONGDESC
+Deals heavy damage to uncontrolled enemies.
+
+The magical element is copper, not gold. Who needs pictures now?
+#BLANKELDER_ENCNAME
+I love you
+#BLANKELDER_SHORTDESC
+Smoking is prohibited
+#BLANKELDER_LONGDESC
+You can use the camera as many times as you want.
+
+a pig in good armor
+#FATBULLETS_ENCNAME
+Berries and olives
+#FATBULLETS_SHORTDESC
+Big = Strong
+#FATBULLETS_LONGDESC
+This makes the ball bigger and stronger.
+
+The shadow effect is directly related to focus and size.
+#FLUBBERBULLETS_ENCNAME
+busy
+#FLUBBERBULLETS_SHORTDESC
+he-
+#FLUBBERBULLETS_LONGDESC
+white
+
+Some rifles can be intimidating to experienced shooters, but any gun will use this barrel with ease.
+#CATHEDRALCREST_ENCNAME
+he said
+#CATHEDRALCREST_SHORTDESC
+armed
+#CATHEDRALCREST_LONGDESC
+This is part of the national costume.
+
+The rules were so unusual that the belt stretched like an elastic band. Suddenly, an explosion appeared in the sky.
+#MEATBUN_ENCNAME
+junk food box
+#MEATBUN_SHORTDESC
+Meets
+#MEATBUN_LONGDESC
+I also agree
+
+Fresh and tasty sandwiches! Sometimes it's good.
+#MELTEDROCK_ENCNAME
+Paper
+#MELTEDROCK_SHORTDESC
+pumping plant
+#MELTEDROCK_LONGDESC
+He was startled by the sound of his body.
+
+This stone symbolizes the tortured souls of the recently deceased body.
+#COOLSWORD_ENCNAME
+I want a knife.
+#COOLSWORD_SHORTDESC
+fast attack
+#COOLSWORD_LONGDESC
+please don't use it
+
+Zamita usually attacks with a sword, but this type of sword is very light and not very effective in combat.
+#HEAVYBOOTS_ENCNAME
+nice shoes
+#HEAVYBOOTS_SHORTDESC
+base weight
+#HEAVYBOOTS_LONGDESC
+Therefore, athletes can maintain their posture even after intense training.
+#FIREBULLETS_ENCNAME
+i want to grow up
+#FIREBULLETS_SHORTDESC
+he will rise
+#FIREBULLETS_LONGDESC
+Each enemy has the ability to shoot.
+
+Fresh oysters are harvested directly from the buzzing blacksmiths. In the center of each circle is a ball of molten metal.
+#CLORANTHYRING_ENCNAME
+chlorine gas flow
+#CLORANTHYRING_SHORTDESC
+He is gone from the kingdom.
+#CLORANTHYRING_LONGDESC
+A safe secret
+
+In use, this old duck rolls smoothly on its back. I don't know the source
+#HEROSBLADE_ENCNAME
+than
+#HEROSBLADE_SHORTDESC
+past and future
+#HEROSBLADE_LONGDESC
+Shepherd has this tool to change the front air filter.
+
+A group of legendary warriors must defeat Kingston. Download Football Manager. All materials are immune to manipulation.
+#FAIRYWINGS_ENCNAME
+hand of an angel
+#FAIRYWINGS_SHORTDESC
+ok
+#FAIRYWINGS_LONGDESC
+Angels can fly with a pair of wings.
+
+Now your friends have turned into magical rocket creatures. A rare animal with claws. Other parasites grow on their wings.
+#WAXWINGS_ENCNAME
+child
+#WAXWINGS_SHORTDESC
+I'm doing it
+#WAXWINGS_LONGDESC
+direct flight
+
+Get your hair cut with wax.
+#TRAINING_ENCNAME
+man
+#TRAINING_SHORTDESC
+On the enemy
+#TRAINING_LONGDESC
+Maximum flight range increases weapon loading speed and accuracy.
+#TRIGGERRING_ENCNAME
+factory
+#TRIGGERRING_SHORTDESC
+item == weapons
+#TRIGGERRING_LONGDESC
+when the ball is in motion.
+
+Althena's Primal Race Shard is a rare weapon. I have an idea to improve the system.
+#SPONGE_ENCNAME
+meteorite
+#SPONGE_SHORTDESC
+company
+#SPONGE_LONGDESC
+Brush frequently to remove small particles.
+
+You can use a regular sponge to remove the dirt. Wake up speaking in a foreign language.
+#HUNTRESS_ENCNAME
+grab the gold
+#HUNTRESS_SHORTDESC
+Fate or art?
+#HUNTRESS_LONGDESC
+The number of visitors increased slightly.
+
+4.5 Get letters and more
+#PIGITEM1_ENCNAME
+Pig
+#PIGITEM2_ENCNAME
+The character of the pig
+#PIGITEM1_SHORTDESC
+login program
+#PIGITEM2_SHORTDESC
+child
+#PIGITEM1_LONGDESC
+Chicken and pork
+
+Bacon is good, but if it makes you sick, ask yourself why. It's not a big pig.
+#PIGITEM2_LONGDESC
+Be a strong person.
+
+Do not doubt yourself, he is a true hero.
+#BLANKCOMPANION_ENCNAME
+A loose group of friends
+#BLANKCOMPANION_SHORTDESC
+certificate
+#BLANKCOMPANION_LONGDESC
+Activate your domain using the activation package.
+
+He grew up in prison and learned to cook. Crisis
+#DOGITEM_ENCNAME
+to yield
+#DOGITEM_SHORTDESC
+2 less
+#DOGITEM_LONGDESC
+A trusted friend found something in the toilet.
+
+I am negotiating. He found the treasure but could not teach it to fight.
+#LOCKPICKS_ENCNAME
+It was a difficult decision
+#LOCKPICKS_SHORTDESC
+Which key do you need?
+#LOCKPICKS_LONGDESC
+A more sustainable option. It can be applied directly to the face.
+
+Court custody can only be revoked in certain cases.
+#EXPLODINGBULLETS_ENCNAME
+Explosive indicators
+#EXPLODINGBULLETS_SHORTDESC
+Good luck
+#EXPLODINGBULLETS_LONGDESC
+This gives a clear picture.
+
+It was first discovered in black powder mines. This pump cleans thoroughly.
+
+The sounds of the night are very popular with collectors.
+#RINGOFCHESTFRIENDSHIP_ENCNAME
+Friendship ring on the chest.
+#RINGOFCHESTFRIENDSHIP_SHORTDESC
+Friends forever
+#RINGOFCHESTFRIENDSHIP_LONGDESC
+Get ready for checkout
+
+His main motive is to give Winton a ring with an engraved name on it. Vintons offers very cheap and fun games.
+#RINGOFMIMICFRIENDSHIP_ENCNAME
+A fake circle of friends
+#RINGOFMIMICFRIENDSHIP_SHORTDESC
+He did everything
+#RINGOFMIMICFRIENDSHIP_LONGDESC
+chest protector
+
+Not from the earth, but from small animals. It emits a strange psionic sound that only aliens can detect and block.
+#RAGE_ENCNAME
+bad movie
+#RAGE_SHORTDESC
+Don't believe their lies
+#RAGE_LONGDESC
+Fraudsters and gossips create these images.
+
+This attack does a lot of damage in a short time.
+
+On the way to the visa application, the pilot asks why are you looking at this picture? Then he got out of prison.
+#BACKTAPEDGUN_ENCNAME
+or hands
+#BACKTAPEDGUN_SHORTDESC
+Than
+#BACKTAPEDGUN_LONGDESC
+two each
+
+Another advantage Lincoln has over the Gungans is that he has a magical shield that blocks all weapons and contact.
+#HELMET_ENCNAME
+he lost his hat
+#HELMET_SHORTDESC
+duck and bed
+#HELMET_LONGDESC
+something on the radio
+
+This hat protects you from breathing. But it worked.
+#NERVESOFSTEEL_ENCNAME
+Completed
+#NERVESOFSTEEL_SHORTDESC
+they believe
+#NERVESOFSTEEL_LONGDESC
+Calibur, the first hero to master the mountain, is jealous of the mountain's strength. A funny show about courage and risk.
+#BRICKBRIBE_ENCNAME
+beautiful space
+#BRICKBRIBE_SHORTDESC
+Building tips
+#BRICKBRIBE_LONGDESC
+secret door open
+
+Journalists who want to exchange money with victims' families are also not allowed to do so. disease
+#BUSTEDTV_ENCNAME
+TV settings
+#BUSTEDTV_SHORTDESC
+The saddest is the saddest
+#BUSTEDTV_LONGDESC
+Use a fly that doesn't fly
+
+It is a large television. This feature is disabled and cannot be used to create endless dungeons.
+#CELLKEY_ENCNAME
+Phone button
+#CELLKEY_SHORTDESC
+Why
+#ROBOTARM_ENCNAME
+Change of owner
+#ROBOTARM_SHORTDESC
+They said...
+#BALLOON_ENCNAME
+The ball
+#BALLOON_SHORTDESC
+he died three times
+#LIVEAMMO_ENCNAME
+to stir
+#LIVEAMMO_SHORTDESC
+cold
+#LIVEAMMO_LONGDESC
+Who needs balls? Reduces hazard and deals more damage to enemies.
+#TICKETTOTHEGUNSHOW_ENCNAME
+touch
+#TICKETTOTHEGUNSHOW_SHORTDESC
+first person
+#TICKETTOTHEGUNSHOW_LONGDESC
+and his friendship with Keating.
+
+I am a proud hero and created this map to appeal to older players.
+#ROBOTBULLETS_ENCNAME
+camera battery
+#ROBOTBULLETS_SHORTDESC
+Congratulations.
+#ROBOTBULLETS_LONGDESC
+Download all new weapons
+
+The human leaders are not fools, they are drug addicts, but the victims have learned to fear the inevitable destruction of their country.
+#CHAMBEREVIL_ENCNAME
+6th generation
+#CHAMBEREVIL_SHORTDESC
+Thank you my friend
+#CHAMBEREVIL_LONGDESC
+feces
+
+This is one of the three ways to get around by taxi. He cast evil spells on the prisoners.
+#SLOWBARREL_ENCNAME
+Valkyrie barrel.
+#SLOWBARREL_SHORTDESC
+and it hurts
+#SLOWBARREL_LONGDESC
+He was shot by the enemy.
+
+Significantly increases response time and reduces side effects. The rebels often thwarted the leader's attacks.
+#STUFFEDSTAR_ENCNAME
+Fixed stars
+#STUFFEDSTAR_SHORTDESC
+airbag
+#STUFFEDSTAR_LONGDESC
+This can cause temporary weakness.
+
+Women take care of your body so you don't get hurt.
+#BULLETIDOL_ENCNAME
+darkness
+#BULLETIDOL_SHORTDESC
+I'm a fool
+#BULLETIDOL_LONGDESC
+Destroy your enemies.
+
+Whose favorite toy?
+#MUSTACHE_ENCNAME
+Amen
+#MUSTACHE_SHORTDESC
+the common people
+#MUSTACHE_LONGDESC
+Money has a healing effect.
+
+Users see veins and pores. The diagram shows the coordination of the purchasing department. This is how all the ingredients are arranged.
+#DIAZAPAM_ENCNAME
+Muscle tension
+#DIAZAPAM_SHORTDESC
+This is incorrect
+#DIAZAPAM_LONGDESC
+This greatly increases accuracy.
+
+This is especially true for elite shooters. You never lose, but it's more than stressful.
+#SPIKEARMOR_ENCNAME
+Secretly
+#SPIKEARMOR_SHORTDESC
+Your body is a machine.
+#SPIKEARMOR_LONGDESC
+Small losses add up quickly.
+
+It's better to get in line when "everyone else" is already busy.
+#ANCIENTPRIMER_ENCNAME
+first person
+#ANCIENTPRIMER_SHORTDESC
+ancient magic
+#ANCIENTPRIMER_LONGDESC
+business partner
+
+He was one of the main architects of the building. When you hit the ball, it releases vibrations and energy.
+#TIMEGUNPOWDER_ENCNAME
+hidden mechanism
+#TIMEGUNPOWDER_SHORTDESC
+Deep breathing
+#TIMEGUNPOWDER_LONGDESC
+it's a ball
+
+Rose used the cave before destroying the room. Kane found the ball, which was waiting for the return of the team.
+#ASTRALSLUG_ENCNAME
+Here he is
+#ASTRALSLUG_SHORTDESC
+and planet
+#ASTRALSLUG_LONGDESC
+children's personality
+
+The outer shell is part of a larger sphere falling into space. This is the square root of each area. Remove the breast and replace it with a thick cloth. Kill the enemies.
+#OBSIDIANSHELL_ENCNAME
+obsidian bowl
+#OBSIDIANSHELL_SHORTDESC
+it will be interesting
+#OBSIDIANSHELL_LONGDESC
+important
+
+The teeth under the snake's shell. For this you need a ball.
+#MASTERYTOKEN_CASTLE_ENCNAME
+You will find out later.
+#MASTERYTOKEN_CASTLE_SHORTDESC
+first bedroom
+#MASTERYTOKEN_CASTLE_LONGDESC
+This new invention is the first camera.
+
+Weapons and armor are described in various Hasidic texts.
+#MASTERYTOKEN_GUNGEON_ENCNAME
+First step
+#MASTERYTOKEN_GUNGEON_SHORTDESC
+Another room
+#MASTERYTOKEN_GUNGEON_LONGDESC
+These possible examples reflect the experiences of other countries.
+
+Those who want to break the chains of life are ready to fall into the pit.
+#MASTERYTOKEN_MINES_ENCNAME
+They work
+#MASTERYTOKEN_MINES_SHORTDESC
+third row
+#MASTERYTOKEN_MINES_LONGDESC
+Then he told me where the third person was.
+
+According to these examples, Kovács survived and disappeared from the scene of the crime. Businesses should move to less developed countries.
+#MASTERYTOKEN_CATACOMBS_ENCNAME
+distance
+#MASTERYTOKEN_CATACOMBS_SHORTDESC
+4 bedrooms
+#MASTERYTOKEN_CATACOMBS_LONGDESC
+Participants reported data for less than 3 months.
+
+The Kansas Monument to Legendary Heroes is more than just a memorial to those who fought.
+#MASTERYTOKEN_FORGE_ENCNAME
+God's eyes
+#MASTERYTOKEN_FORGE_SHORTDESC
+In fifth place
+#MASTERYTOKEN_FORGE_LONGDESC
+This mysterious building is the headquarters.
+
+The archer killed the demon by shooting five arrows into its heart. According to Susperen, this is correct.
+#MASTERYTOKEN_HELL_ENCNAME
+and he died
+#MASTERYTOKEN_HELL_SHORTDESC
+last part
+#MASTERYTOKEN_HELL_LONGDESC
+This beautiful work of art shows the sophistication of modern cameras.
+
+Other Hong Kongers weighed in on the idea.
+#CONVICTUNLOCK_ENCNAME
+Save it to your computer.
+#CONVICTUNLOCK_SHORTDESC
+Keep it up!
+#CONVICTUNLOCK_LONGDESC
+All the pain and sacrifice...the lies, the anger, the betrayal, the revenge you deserve.
+
+equipment
+#PILOTUNLOCK_ENCNAME
+partner
+#PILOTUNLOCK_SHORTDESC
+It's useful
+#PILOTUNLOCK_LONGDESC
+This person is always with you.
+
+They can say the same about you.
+#SOLDIERUNLOCK_ENCNAME
+power star
+#SOLDIERUNLOCK_SHORTDESC
+He looks
+#SOLDIERUNLOCK_LONGDESC
+Increases damage to stronger enemies.
+
+You are ordered to defend your country.
+
+But the main thing is that the device works. Congratulations Marina.
+#GUIDEUNLOCK_ENCNAME
+Corner
+#GUIDEUNLOCK_SHORTDESC
+Little
+#GUIDEUNLOCK_LONGDESC
+A faithful friend who waited many years to return to God.
+
+They quickly searched and found the owner.
+#TETRISGUN_ENCNAME
+province
+#TETRISGUN_SHORTDESC
+Know!
+#TETRISGUN_LONGDESC
+Cable connection with 4 inputs.
+
+Interestingly, the "financial" structure is smaller than the others.
+#MTXGUN_ENCNAME
+You have to eat
+#MTXGUN_SHORTDESC
+salary
+#MTXGUN_LONGDESC
+Everyone involved in the development of this weapon thought it was a bad idea. But we'll see how it goes.
+
+After that the authorities locked their hands and they didn't have many weapons.
+#SUPERMEATGUN_ENCNAME
+This is a very important conclusion.
+#SUPERMEATGUN_SHORTDESC
+Oil
+#SUPERMEATGUN_LONGDESC
+This device will speed up your phone a bit.
+#TENTACLEGUN_ENCNAME
+but deeper
+#TENTACLEGUN_SHORTDESC
+i can't see
+#TENTACLEGUN_LONGDESC
+A large hand appeared from behind.
+
+I'm stress
+#ORIGAMIGUN_ENCNAME
+Oregon
+#ORIGAMIGUN_SHORTDESC
+I congratulate you with great respect
+#ORIGAMIGUN_LONGDESC
+These beautiful balls are made of paper.
+
+A true artist can create beautiful things.
+#BANANA_ENCNAME
+banana
+#BANANA_SHORTDESC
+it's a nightmare
+#BANANA_LONGDESC
+They float in the air like trucks. New Armpit Food and Weapons.
+#QUADLASER_ENCNAME
+Square body
+#QUADLASER_SHORTDESC
+Nobody can deceive you
+#QUADLASER_LONGDESC
+Create spiritual energy from the moon. Very slow and quiet.
+#GUZHENG_ENCNAME
+destruction
+#GUZHENG_SHORTDESC
+give him
+#GUZHENG_LONGDESC
+The Emperor Marcellus was released. Kill someone while playing.
+#GORNCANNON_ENCNAME
+What's your secret weapon?
+#GORNCANNON_SHORTDESC
+goodbye
+#GORNCANNON_LONGDESC
+Load your weapon and shoot with all your might. To go out
+#CAMERAGUN_ENCNAME
+A beautiful picture
+#CAMERAGUN_SHORTDESC
+Medium orange
+#CAMERAGUN_LONGDESC
+Kan-on approaches the reporter's cell. The camera is just the right height.
+#ICEGIANT_ENCNAME
+A giant snowman
+#ICEGIANT_SHORTDESC
+Fish in the hole
+#ICEGIANT_LONGDESC
+Melts nearby enemy grenades.
+
+Frost giants always use this weapon. I find it inconvenient to use. But the body is still there.
+#DEVOLVER_ENCNAME
+this is special
+#DEVOLVER_SHORTDESC
+Don't stay too long.
+#DEVOLVER_LONGDESC
+unknown (useless)
+
+i really need it
+#ORANGEITEM_ENCNAME
+orange
+#ORANGEITEM_SHORTDESC
+You are not Sikandar.
+#ORANGEITEM_LONGDESC
+Its style is classic orange. Bad security.
+#SEVENLEAF_ENCNAME
+A fox
+#SEVENLEAF_SHORTDESC
+I love you!
+#SEVENLEAF_LONGDESC
+This rare rabbit has a 7-4 card that can bring luck to its owner.
+#BOOMERANG_ENCNAME
+for recreation in the district
+#BOOMERANG_SHORTDESC
+I will be back
+#BOOMERANG_LONGDESC
+Arrows are the best weapons of art, but they are also useful in difficult situations. He won!
+#FULLHEART_ENCNAME
+my heart is full
+#HALFHEART_ENCNAME
+a little
+#KEY_ENCNAME
+election
+#ARMOR_ENCNAME
+Attorney
+#CHESTDEMO_ENCNAME
+The result is an empty frame.
+#CHESTDEMO_SHORTDESC
+without control
+#CHESTDEMO_LONGDESC
+Update the contents of the broken box.
+
+Lesson learned from the Treasure Hunter series. This interesting book explains how exotic particles work.
+#CHESTVAMPIREITEM_ENCNAME
+A book about vampires.
+#CHESTVAMPIREITEM_SHORTDESC
+Not Madeira
+#CHESTVAMPIREITEM_LONGDESC
+The chest wound is healing.
+
+The front of the hard chest.
+#REVENGEITEM_ENCNAME
+He wants revenge
+#REVENGEITEM_SHORTDESC
+Interested in your opinion.
+#REVENGEITEM_LONGDESC
+the enemy fled
+
+Sometimes it comes back.
+#POXCANNON_ENCNAME
+activator
+#POXCANNON_SHORTDESC
+bad clothes
+#POXCANNON_LONGDESC
+Clear this shirt quickly with an energy weapon.
+
+Destroy defeated enemies and leave debris behind.
+#PAXGUN_ENCNAME
+active
+#PAXGUN_SHORTDESC
+rice
+#PAXGUN_LONGDESC
+When the weapon runs out, it is destroyed, revealing your treasure.
+
+Ancient wizards used this book as a spell book. After years of use, most of the shields are gone and broken.
+//Below needs translation
+#RANDOMBULLETS_ENCNAME
+The list of links is random.
+#RANDOMBULLETS_SHORTDESC
+A good random number generator
+#RANDOMBULLETS_LONGDESC
+Other charged weapons may explode.
+
+The bullet hit each shield several times, leaving a small hole in each shield.
+#STOUTBULLETS_ENCNAME
+Very good
+#STOUTBULLETS_SHORTDESC
+Confusion
+#STOUTBULLETS_LONGDESC
+increased shadow damage
+
+This gem was part of the Freefall collection, but was acquired first.
+#BLOODY9MM_ENCNAME
+9mm of blood
+#BLOODY9MM_SHORTDESC
+well
+#BLOODY9MM_LONGDESC
+The gun went off.
+
+Speaking of bullets, remember that they will kill your enemy.
+#LAMENTBOX_ENCNAME
+sad expression
+#LAMENTBOX_SHORTDESC
+Take the fish
+#LAMENTBOX_LONGDESC
+Play upbeat music while solving puzzles.
+
+Who believes in spiritual miracles?
+#CHARMBULLETS_ENCNAME
+beauty
+#CHARMBULLETS_SHORTDESC
+Dear
+#CHARMBULLETS_LONGDESC
+This new material is the result of extensive research. soft hands
+
+It vanished like a tear as it spread across Kenny's stomach.
+#DRAGONBOOTS_ENCNAME
+summer shoes
+#DRAGONBOOTS_SHORTDESC
+double jump
+#DRAGONBOOTS_LONGDESC
+The time will come.
+
+He was the first to reach the top and was amazed by the legendary ornithologist. The war was taken up by Gandhi's intellectuals. What works.
+#BATTLESTANDARD_ENCNAME
+find life
+#BATTLESTANDARD_SHORTDESC
+hurry up
+#BATTLESTANDARD_LONGDESC
+Intense heat increases the effectiveness of allies and enemies.
+
+Angry families danced around the flag to protest his resignation.
+#JUNKSHRINE_ENCNAME
+Cannes Consumer Awards
+#JUNKSHRINE_SHORTDESC
+night bus
+#ZOMBIEBULLETS_ENCNAME
+zombie bomb
+#ZOMBIEBULLETS_SHORTDESC
+unknown place
+#ZOMBIEBULLETS_LONGDESC
+Sometimes the gun will fire after being activated.
+
+Then he died. You want to get results that you have never seen before in your life.
+#HYPERLIGHTGUN_ENCNAME
+Click on the bulb
+#HYPERLIGHTGUN_SHORTDESC
+A powerful skill
+#HYPERLIGHTGUN_LONGDESC
+Arrows fly and kill enemies.
+
+This is a powerful weapon, but this ability weakens over time. I said it was my fault.
+#FLAKBULLETS_ENCNAME
+send him away
+#FLAKBULLETS_SHORTDESC
+Title!
+#FLAKBULLETS_LONGDESC
+I took birth control.
+
+Unfortunately, Kangaku works on simple principles. Guns are not for war.
+#GOLDBULLETS_ENCNAME
+golden ball
+#GOLDBULLETS_SHORTDESC
+warrior
+#GOLDBULLETS_LONGDESC
+happy rich
+
+Gun Rich is the king of driving simulators.
+#MAGICBULLETS_ENCNAME
+magical sign
+#MAGICBULLETS_SHORTDESC
+very expensive
+#MAGICBULLETS_LONGDESC
+All fields can be changed.
+
+This chakra was created by a powerful deity. It looks very old.
+#METROIDBOMBS_ENCNAME
+roller pump
+#METROIDBOMBS_SHORTDESC
+use of light
+#METROIDBOMBS_LONGDESC
+Avoid the ball while running.
+
+The opposite process causes a huge explosion.
+#JUNKAN_ENCNAME
+touch touch
+#JUNKAN_SHORTDESC
+and therefore when
+#JUNKAN_LONGDESC
+A fun and exciting car. It's like hunting.
+#SILVERBULLETS_ENCNAME
+Indian money
+#SILVERBULLETS_SHORTDESC
+according to steel
+#SILVERBULLETS_LONGDESC
+The party's losses quickly mounted. Perfect for the home owner.
+
+This missile is specially designed for firefighting.
+#CHAOSBULLETS_ENCNAME
+Hit
+#CHAOSBULLETS_SHORTDESC
+Get up
+#CHAOSBULLETS_LONGDESC
+Missiles go through enemies.
+
+You will be amazed by the ever-changing landscape. Don't be angry, don't be angry!
+#BLANKVEST_ENCNAME
+Clothes for pregnant women
+#BLANKVEST_SHORTDESC
+Protect now
+#BLANKVEST_LONGDESC
+When vulnerabilities are discovered, available patches are automatically installed.
+
+A great sequel to the original Kong game with a laser timer. Know when users are at risk.
+#FAIRWEATHERFRIEND_ENCNAME
+Your friend is not happy
+#FAIRWEATHERFRIEND_SHORTDESC
+If everything goes fine.
+#FAIRWEATHERFRIEND_LONGDESC
+Health and success.
+#GLASSGUONSTONE_ENCNAME
+floating stone
+#GLASSGUONSTONE_SHORTDESC
+temporary protection
+#GLASSGUONSTONE_LONGDESC
+Block the bombs, but they will attack and destroy you from all sides.
+
+Oh Mary
+
+Angry Canadians pray to three gods
+#DUELINGLASER_ENCNAME
+Laser war
+#DUELINGLASER_SHORTDESC
+always happy
+#DUELINGLASER_LONGDESC
+I don't have coal, but I need coal
+
+These weapons are used in battles against thousands of worlds on rival planets. People do not use the land. But the reception is good. Current price:
+#BLANKBULLETS_ENCNAME
+to know
+#BLANKBULLETS_SHORTDESC
+I'm still waiting...
+#BLANKBULLETS_LONGDESC
+This program creates a small collection of clothes.
+
+Bullets are not only dangerous weapons, they are designed to destroy bullets and ice.
+#BULLETGUN_ENCNAME
+in this area
+#BULLETGUN_SHORTDESC
+that's all:
+#BULLETGUN_LONGDESC
+This battery is not intended to be used as a battery.
+
+Another fun and simple fishing game.
+#SHOTGUNGUN_ENCNAME
+paper
+#SHOTGUNGUN_SHORTDESC
+Pedestrian
+#SHOTGUNGUN_LONGDESC
+picture
+
+This cartridge is designed for use in revolvers.
+#BASEBALLBAT_ENCNAME
+birthday
+#BASEBALLBAT_SHORTDESC
+summer 50
+#BASEBALLBAT_LONGDESC
+It's about hitting the ball, not hitting it. Hit the ball with your best skills.
+
+Nothing happened until the light came on.
+#HAMMEROFDAWN_ENCNAME
+But the stars
+#HAMMEROFDAWN_SHORTDESC
+satellite distribution
+#HAMMEROFDAWN_LONGDESC
+Fires a projectile chosen by the enemy.
+
+The mirror is there until it breaks.
+#STARPEW_ENCNAME
+star
+#STARPEW_SHORTDESC
+plants and plants
+#STARPEW_LONGDESC
+Upload more photos.
+
+Britkin used artificial irrigation without understanding the principles of agriculture.
+#BALLOONGUN_ENCNAME
+the political bubble
+#BALLOONGUN_SHORTDESC
+time to have fun
+#BALLOONGUN_LONGDESC
+The plane may crash. But as soon as they collided, there was an explosion. Reusable ink cartridges.
+
+Jacobean tiles are everywhere and hidden ones are hard to find.
+#CRITICALGUN_ENCNAME
+Warburg
+#CRITICALGUN_SHORTDESC
+0.50 marks
+#CRITICALGUN_LONGDESC
+Funny sometimes
+
+This legendary weapon was created hundreds of years ago by an innocent blacksmith. I will destroy your power. Always consider your options.
+#SHRINE_GLASS_ENCNAME
+Chevrefe
+#SHRINE_GLASS_SHORTDESC
+Fishing
+#HELIXBULLETS_ENCNAME
+Cake
+#HELIXBULLETS_SHORTDESC
+difficult
+#HELIXBULLETS_LONGDESC
+Chakra revealed another weapon placed next to the queen. A bit sad
+
+Fossils and forgotten animal DNA
+#EMPTYBOTTLE_ENCNAME
+General introduction:
+#EMPTYBOTTLE_SHORTDESC
+Heart problems
+#EMPTYBOTTLE_LONGDESC
+You can save the seeds or fruit for later use. Use it once to collect items and then eat again.
+#STRAFEGUN_ENCNAME
+STRAFE® Shuttle
+#STRAFEGUN_SHORTDESC
+good game
+#STRAFEGUN_LONGDESC
+light the fire
+
+This model is based on the version published by Columella (1996).
+#REMOTEBULLETS_ENCNAME
+the results
+#REMOTEBULLETS_SHORTDESC
+but secretly
+#REMOTEBULLETS_LONGDESC
+The ball can be thrown for arrows.
+
+The device can be controlled remotely, allowing the user to change direction.
+#RELODESTONE_ENCNAME
+original work
+#RELODESTONE_SHORTDESC
+The center of the north
+#RELODESTONE_LONGDESC
+In the end, the opponent catches the ball and turns it into a real ball.
+
+Of course, from the outside, the atoms are vertical and all the circles point in the same direction.
+#RADGUN_ENCNAME
+red coach
+#RADGUN_SHORTDESC
+very happy
+#RADGUN_LONGDESC
+Active Reload is a useful tool for strangers.
+#CROWNOFGUNS_ENCNAME
+Hexagonal crown
+#CROWNOFGUNS_SHORTDESC
+together
+#CROWNOFGUNS_LONGDESC
+It spreads rapidly in all directions.
+
+This huge crown is a symbol of royalty.
+#CURSEBULLETS_ENCNAME
+And talk a little more
+#CURSEBULLETS_SHORTDESC
+It scared me
+#CURSEBULLETS_LONGDESC
+Cursing partners increases damage.
+
+Straight from hell
+#YELLOWCHAMBER_ENCNAME
+yellow camera
+#YELLOWCHAMBER_SHORTDESC
+"Live Concert"
+#YELLOWCHAMBER_LONGDESC
+Earth's most famous planet
+
+He will catch you baby
+#CUCCO_ENCNAME
+vibration
+#CUCCO_SHORTDESC
+new apartment
+#CUCCO_LONGDESC
+This new toilet looks like a chicken coop.
+
+How important is it?
+#CHESTTELEPORTER_ENCNAME
+Box door
+#CHESTTELEPORTER_SHORTDESC
+One of the public apartments
+#CHESTTELEPORTER_LONGDESC
+Pay taxes
+
+This exotic adventure pushes boundaries.
+#UBERBOTGUN_ENCNAME
+The robot is on the left.
+#UBERBOTGUN_SHORTDESC
+until we meet again
+#UBERBOTGUN_LONGDESC
+The robot hit the person on the left.
+
+They use different types of boats.
+//second update?
+#BANKBAG_ENCNAME
+There are many ways.
+#BANKBAG_SHORTDESC
+outside
+#BANKBAG_LONGDESC
+She held back tears and lowered her head.
+
+The perfect combination of travel and entertainment. Not for information.
+#PAYDAYDRILL_ENCNAME
+outside
+#PAYDAYDRILL_SHORTDESC
+every day and night
+#PAYDAYDRILL_LONGDESC
+Close the open box tightly.
+
+These devices have been used since ancient times to retrieve important information. Economical design and easy assembly and disassembly. In the previous passage, the word "tree" usually comes before and after the first part.
+#PAYDAYMASK_ENCNAME
+The original mask
+#PAYDAYMASK_SHORTDESC
+Anonymous User
+#PAYDAYMASK_LONGDESC
+Anonymity and confidentiality
+
+This version shows the ancient mask of the silver orb. Today it is called "Norma" and was the main religion of the time. The mild climate of Manzoa allows people to live in peace.
+#HUNTERWAVE_ENCNAME
+hero (laughing)
+#HUNTERICE_ENCNAME
+Sample (ice cream)
+#HUNTERPLASMA_ENCNAME
+heroin (plasma flow)
+#HUNTERHYPER_ENCNAME
+Champion (Super Jet)
+#RUBERIFLE_ENCNAME
+Rubenstein's animal
+#RUBERIFLE_SHORTDESC
+00 points
+#RUBERIFLE_LONGDESC
+A very useful bow.
+
+Made of RUBE-ADINE material with patented design. This carabiner features maximum fire resistance and a compact design.
+#MEGAHAND_AIR_ENCNAME
+Fireworks
+#MEGAHAND_HEAT_ENCNAME
+Nuclear fuel
+#MEGAHAND_BUBBLE_ENCNAME
+A balloon is a balloon.
+#MEGAHAND_CRASH_ENCNAME
+emergency pump
+#MEGAHAND_WOOD_ENCNAME
+sword and shield
+#MEGAHAND_METAL_ENCNAME
+iron and metal
+#MEGAHAND_QUICK_ENCNAME
+This is not a boomerang.
+#MEGAHAND_FLASH_ENCNAME
+Tatar
+#PLATINUMBULLETS_ENCNAME
+platinum guard
+#PLATINUMBULLETS_SHORTDESC
+We offer over a million products
+#PLATINUMBULLETS_LONGDESC
+Everyone has authority in his country.
+
+This beautiful box should be used 10,000 times, 100,000 times.
+#TURKEY_ENCNAME
+Peru
+#TURKEY_SHORTDESC
+tab 3
+#TURKEY_LONGDESC
+Hit 3 times in a row to get ammo.
+
+Historically, projectiles fired by birds were called "wings" to kill animals.
+#GEGG_ENCNAME
+funny eggs
+#GEGG_SHORTDESC
+magic weapon
+#GEGG_LONGDESC
+Sometimes I think about other things.
+
+Chang'an finds a mysterious Easter egg. sometimes rich
+#DEVOLVERBULLETS_ENCNAME
+after
+#DEVOLVERBULLETS_SHORTDESC
+two steps back
+#DEVOLVERBULLETS_LONGDESC
+All opponents are less likely to hit the ball.
+
+All weapons are set as standard. He didn't run away.
+#RACCOON_ENCNAME
+rounding
+#RACCOON_SHORTDESC
+to talk about the pain
+#RACCOON_LONGDESC
+It helps you find dangerous places.
+
+Raccoons are sometimes good thieves. But then he joined the administration and stopped appropriating the property of Kamband.
+#CRITICALBULLETS_ENCNAME
+generous:
+#CRITICALBULLETS_SHORTDESC
+At the same time
+#CRITICALBULLETS_LONGDESC
+Sometimes they drop a special weapon that does a lot of damage.
+
+Good rap comes when you want it and when you don't.
+#RRRING_ENCNAME
+Science
+#RRRING_SHORTDESC
+No matter
+#RRRING_LONGDESC
+You only go through this cycle once. The first small enemy.
+#CONTROLLER_ENCNAME
+The third part of the group.
+#CONTROLLER_SHORTDESC
+Focus on direct management
+#CONTROLLER_LONGDESC
+You can directly control your opponent.
+
+I bought a gift for my daughter Han Junxi who came for the first time. Unfortunately, these animals are rapidly disappearing due to high pressure and unstable climate.
+
+This is a castle
+#GOLDJUNK_ENCNAME
+I'm losing money
+#GOLDJUNK_SHORTDESC
+human feces
+#GOLDJUNK_LONGDESC
+go
+
+Garbage bags are usually made of pure gold.
+#CRISISSTONE_ENCNAME
+Subtitle
+#CRISISSTONE_SHORTDESC
+That said, it can be used in a variety of ways.
+#CRISISSTONE_LONGDESC
+Fill the lid opening.
+
+The stone vibrates in the fourth dimension and lifts the user from reality. Surprisingly, this only works in some cases.
+#FOLDINGTABLE_ENCNAME
+Offer to buy
+#FOLDINGTABLE_SHORTDESC
+Know when to clean.
+#FOLDINGTABLE_LONGDESC
+Modern polymers are changing kitchen surfaces.
+#BLANKPERSONALITY_ENCNAME
+Empty bottle
+#BLANKPERSONALITY_SHORTDESC
+dry ship
+#BLANKPERSONALITY_LONGDESC
+Cannot be used when Overload bomb is destroyed.
+
+With the arrival of hunter-gatherer families, some of these skills disappeared.
+#DARUMA_ENCNAME
+HI
+#DARUMA_SHORTDESC
+magic
+#DARUMA_LONGDESC
+It is useful immediately after firing the double ball.
+
+The man is a gentleman. This is the first victory in the war.
+#BRITTLEBULLET_ENCNAME
+Play volleyball online
+#BRITTLEBULLET_SHORTDESC
+Laughter is a gift
+#BRITTLEBULLET_LONGDESC
+Significantly increased firepower. Incoming bullets deal damage.
+
+It's crazy and scary.
+#BEEBULLETS_ENCNAME
+but here it is
+#BEEBULLETS_SHORTDESC
+priest, priest
+#BEEBULLETS_LONGDESC
+It is a type of bee.
+
+This layer consists of small cells. Bees and bees are examples of good behavior.
+#SNOWBULLETS_ENCNAME
+error
+#SNOWBULLETS_SHORTDESC
+character
+#SNOWBULLETS_LONGDESC
+throw the ball
+
+This releases lead particles that pass through the air and slowly dissolve. Collect items and buy ammo for fun. Usually something appears on the screen.
+#TABLETECHSHOTGUN_ENCNAME
+Bad advice
+#TABLETECHSHOTGUN_SHORTDESC
+I am stupid
+#TABLETECHSHOTGUN_LONGDESC
+If the environment changes, the old data will be lost.
+
+Official Schedule of Chapter 6. Both parties must agree to create a temporary program and permanently cancel the other program.
+#TABLETECHHOLE_ENCNAME
+General advice on art
+#TABLETECHHOLE_SHORTDESC
+Forget the fight
+#TABLETECHHOLE_LONGDESC
+The table can be assembled, disassembled and assembled at the same time.
+
+There is a hidden sadness that we cannot overcome.
+#TABLETECHLIFE_ENCNAME
+Good eating habits
+#TABLETECHLIFE_SHORTDESC
+he is a man
+#TABLETECHLIFE_LONGDESC
+This method goes beyond the scheme.
+
+Confidential "margin paper". Like the existing 3D electronic map, the electronic map has 4 dimensions.
+#BIGSHOTGUN_ENCNAME
+use this
+#BIGSHOTGUN_SHORTDESC
+Nice gun
+#BIGSHOTGUN_LONGDESC
+Strange
+
+More than a tool
+#WOODBEAM_ENCNAME
+he drinks
+#WOODBEAM_SHORTDESC
+He rarely speaks
+#WOODBEAM_LONGDESC
+Wooden beams are often used in construction.
+
+Technically, the problem is not with the weapon. But it's a fire retardant bullet.
+#CUEBULLETS_ENCNAME
+I play football
+#CUEBULLETS_SHORTDESC
+beautiful face
+#CUEBULLETS_LONGDESC
+The number of murders of bank employees increased dramatically. Enemies take physical damage.
+
+Famous legend Eddie Winchester used this ball to defeat his opponent at the Battle of Winchester.
+#ARMOREDGUN_ENCNAME
+USA - 3:00 p.m
+#ARMOREDGUN_SHORTDESC
+It
+#ARMOREDGUN_LONGDESC
+and armed aircraft
+
+In the past, military engineers tried to design systems that would allow missiles to reach their targets. But the calculations are too complicated to ignore. I'm not saying that.
+#GIANTHEAD_ENCNAME
+Stone formation
+#GIANTHEAD_SHORTDESC
+good form
+#GIANTHEAD_LONGDESC
+Language, fear
+
+This massive fossil was carved from an extremely rare skull plate. An image of an evil god
+#BOXINGGLOVE_ENCNAME
+to confront
+#BOXINGGLOVE_SHORTDESC
+work
+#BOXINGGLOVE_LONGDESC
+Put on your boxing gloves and go!
+
+Funny glove that kills evil rats.
+#BUBBLER_ENCNAME
+management
+#BUBBLER_SHORTDESC
+Ball
+#BUBBLER_LONGDESC
+bladder rupture
+
+This can be very useful in certain situations. This is a fun game for kids.
+#COMBINE_ENCNAME
+hands
+#COMBINE_SHORTDESC
+help
+#COMBINE_LONGDESC
+Fear is born and virtue is fostered by the school.
+
+Humans have used space technology to free 17 planets.
+#EXOTICGUN_ENCNAME
+with the help of
+#EXOTICGUN_SHORTDESC
+experimental group
+#EXOTICGUN_LONGDESC
+A Molotov cocktail exploded nearby. go with good friends
+
+The weapon was rare, but Goody eventually left.
+#GLASSCANNON_ENCNAME
+addicted
+#GLASSCANNON_SHORTDESC
+almost dead
+#GLASSCANNON_LONGDESC
+Strong but weak.
+
+Otherwise, the crystal armor will be destroyed immediately, but the projectile power item is almost useless.
+#GUNDERTALE_ENCNAME
+evening:
+#GUNDERTALE_SHORTDESC
+it's a good thing
+#GUNDERTALE_LONGDESC
+They don't lie and gradually become both enemies and allies.
+
+Now the old spider is gone...
+#LIFEORB_ENCNAME
+Life is a ball
+#LIFEORB_SHORTDESC
+Your heart is mine
+#LIFEORB_LONGDESC
+The power of the enemy will also weaken.
+
+arms control. You can use this weapon to fight your enemies.
+#PLANETGUN_ENCNAME
+they forgive
+#PLANETGUN_SHORTDESC
+The ball is in the car.
+#PLANETGUN_LONGDESC
+A set of 8 simulated planets in a virtual star system.
+
+Changing perspective We see the world from two perspectives. Planets made of this material are less than natural. But there are many stars.
+#RECHARGEGUN_ENCNAME
+Song about pain
+#RECHARGEGUN_SHORTDESC
+for general use
+#RECHARGEGUN_LONGDESC
+Each tank increases damage.
+
+A few years ago, a famous explorer invented a gun that fired faster than a human hand. I don't know why I don't want to.
+#TACHYONGUN_ENCNAME
+Fatty sugars
+#TACHYONGUN_SHORTDESC
+Actually
+#TACHYONGUN_LONGDESC
+he has a gun
+
+Because the speed of tachyons is greater than the speed of light particles. It has long been used for communication between the earth and the inhabitants of this planet. Many skills can be important. But our form is constantly changing. So it's hard to get there.
+#TEAPOTGUN_ENCNAME
+Riley
+#TEAPOTGUN_SHORTDESC
+We are making progress
+#TEAPOTGUN_LONGDESC
+Get closer when enemies attack.
+
+When brewing tea, H2O is converted to monohydrate.
+#TRIGUN_ENCNAME
+3 fields
+#TRIGUN_SHORTDESC
+Football:
+#TRIGUN_LONGDESC
+You can switch between different modes. Depends on ammo type
+
+At first glance, it's more than a weapon. However, this is a very rare weapon to restore.
+#BLACKREVOLVER2_ENCNAME
+black pistol
+#BLACKREVOLVER2_SHORTDESC
+tempt him
+#BLACKREVOLVER2_LONGDESC
+This weapon is for the doomed, terrorists have little advantage over the enemy when they succeed.
+
+Here is the proof.
+#SPRENITEM_ENCNAME
+worse
+#SPRENITEM_SHORTDESC
+The road will be blocked by a gun crossing.
+#SPRENITEM_LONGDESC
+A powerful emergency weapon
+
+The Internet is an effective tool in all cases. He often demonstrated his skill in building and maintaining bridges. But if power, like force or will, is not enough, it is secondary.
+#SPRENGUN_ENCNAME
+BACK
+#TEAPOT_ENCNAME
+Water heater
+#TEAPOT_SHORTDESC
+with one eye
+#TEAPOT_LONGDESC
+Shoot nearby enemies while acting as an ally.
+
+The furnace heats water with H2O therapeutic value.
+#SHOVEL_ENCNAME
+but a knight
+#SHOVEL_SHORTDESC
+number two
+#SHOVEL_LONGDESC
+Equip yourself and fight with enemy weapons.
+
+This elegant knife is the first gift for any hunter.
+#CHEESE_ENCNAME
+organizational activity
+#CHEESE_SHORTDESC
+go to the hole
+#CHEESE_LONGDESC
+defeat the enemy
+
+I don't like Ghost Mouse because he has locked arms, but I think he's cool.
+#TURTLE_PROBLEM_ENCNAME
+Violence is a problem
+#TURTLE_PROBLEM_SHORTDESC
+Good, very good
+#TURTLE_PROBLEM_LONGDESC
+printing ink
+
+That's a good question
+#HUNGRYBULLETS_ENCNAME
+Play the hunger game.
+#HUNGRYBULLETS_SHORTDESC
+i'm hungry
+#HUNGRYBULLETS_LONGDESC
+Anyone can eat oysters.
+
+Ugly weapons are like magic weapons because they break the rules. What a feeling
+#SHRINE_BLOOD_ENCNAME
+letter
+#SHRINE_BLOOD_SHORTDESC
+against the government
+#BABYMIMIC_ENCNAME
+Be a good role model for your children.
+#BABYMIMIC_SHORTDESC
+I read a book
+#BABYMIMIC_LONGDESC
+Abandoned Toys focuses on his first encounter with his missing sister.
+#MACHOBRACE_ENCNAME
+I use
+#MACHOBRACE_SHORTDESC
+project cost
+#MACHOBRACE_LONGDESC
+This instruction set supports the manufacture of batteries. This force was destroyed after the attack. speed is not affected
+
+Practicing requires a lot of effort and energy.
+#CHEESEWHEEL_ENCNAME
+He ate half the cheese
+#CHEESEWHEEL_SHORTDESC
+for about 40 years
+#CHEESEWHEEL_LONGDESC
+Translator of games.
+
+A few years ago it was nonsense.
+#RATBAG_ENCNAME
+The history of the stone
+#RATBAG_SHORTDESC
+Rats are rats
+#RATBAG_LONGDESC
+The enemy stole weapons from the sky. Taking photos secretly
+
+But the real thief's bag is ready: 13 injectors.
+#RATBOOTS_ENCNAME
+Pointed shoes
+#RATBOOTS_SHORTDESC
+email opened
+#RATBOOTS_LONGDESC
+He was silent for a while and ran to the mouth of the cave.
+
+A story about the deliberate capture of rats. Help him steal the traveler's broken tools.
+#COMPANIONSHRINE_ENCNAME
+Total
+#COMPANIONSHRINE_SHORTDESC
+i need a friend
+#DRAGUNPURP_ENCNAME
+Play fire dragon online
+#DRAGUNPURP_SHORTDESC
+satisfy
+#DRAGUNPURP_LONGDESC
+Better than the competition
+
+When the weapon was discovered, it was the infamous legacy of an unprecedented prison.
+#RATNOTE1_LONGDESC
+I will do my best to convince you! - Cheap
+#RATNOTE2_LONGDESC
+There are some red squares, but most are blue. Run away from everyone
+
+Thanks for the content, subscribe to %TUSI.
+#RATNOTE3_LONGDESC
+I can't get enough of this face On this page you will find the products and brands you are looking for.
+
+Thanks for your help. He laughs
+#RATNOTE4_LONGDESC
+I should have killed you, but it wasn't funny, I stole the joke.
+
+Jesus rose from the dead! - They are coming
+#RATNOTE5_LONGDESC
+I fell to my knees when I took it. Wait, I'm a big cheese. --.Wonderful
+#RATNOTE6_LONGDESC
+I'm looking for an answer, but it's not enough. How Internet Scams Work - Rs.
+#RATNOTEMIMIC_LONGDESC
+Others took it as a joke. But I am full of anger. Cats are hard to find on this site!
+
+Examination - Exemption
+#SUNLIGHTSPEAR_ENCNAME
+Sun
+#SUNLIGHTSPEAR_SHORTDESC
+best band ever
+#SUNLIGHTSPEAR_LONGDESC
+Burn your enemies with a bright fire.
+
+He was born from the chemistry of two heroes who defeated a group of clones.
+#VOIDCOREROCKET_ENCNAME
+passive weapon
+#VOIDCOREROCKET_SHORTDESC
+an important project
+#VOIDCOREROCKET_LONGDESC
+Vacuum tubes are primarily used in ship-to-ship combat and high-speed firing of plasma cannons.
+
+This laptop is specially designed to support flash memory.
+#KALIBERPISTOL_ENCNAME
+the highest
+#KALIBERPISTOL_SHORTDESC
+savior of souls
+#KALIBERPISTOL_LONGDESC
+You can steal the souls of your enemies.
+
+It is also a powerful anti-aircraft weapon.
+#FINISHEDGUN_ENCNAME
+and weapons
+#FINISHEDGUN_SHORTDESC
+Thanks for the match
+#FINISHEDGUN_LONGDESC
+Gun control
+
+Now I don't like the missing option at all. So I took some and painted it.
+#EVOLVER_ENCNAME
+children
+#EVOLVER_SHORTDESC
+does not contain:
+#EVOLVER_LONGDESC
+Take care of your weapons.
+
+Although weapons cannot change shape or adapt to new situations, this is proof that this phenomenon exists. The number of employees increased by four percent.
+#CATBULLETKINGTHRONE_ENCNAME
+The cat is playing
+#CATBULLETKINGTHRONE_SHORTDESC
+Cat faith
+#CATBULLETKINGTHRONE_LONGDESC
+Manual verification
+
+This project is the first version of his career. If the grid changes, the team is still to blame.
+#KALIBERITEM_ENCNAME
+it is true
+#KALIBERITEM_SHORTDESC
+Get some perspective
+#KALIBERITEM_LONGDESC
+Mr. 6 act as prosthetic legs. Maybe secretly
+
+Some magic patterns seem insurmountable.
+#TABLETECHHEAT_ENCNAME
+thermotechnics
+#TABLETECHHEAT_SHORTDESC
+I slept for a while.
+#TABLETECHHEAT_LONGDESC
+New technology heats the table and distributes the heat throughout the table.
+
+Appendix 5 "I see the grill" Smoke detectors, lawnmowers.
+#ORBITALBULLETS_ENCNAME
+Line opening:
+#ORBITALBULLETS_SHORTDESC
+deadly revolution
+#ORBITALBULLETS_LONGDESC
+Otherwise the context is wrong.
+
+Diane is a role model for young people.
+#BABYSHELLETON_ENCNAME
+Dear Sheldon
+#BABYSHELLETON_SHORTDESC
+WAY
+#BABYSHELLETON_LONGDESC
+The dead butler disappeared from your shed.
+
+Many armed families were bombed.
+#ENCIRCLER_ENCNAME
+ban
+#ENCIRCLE_SHORTDESC
+Ski coach
+#ENCIRCLE_LONGDESC
+The enemy is surrounded
+
+The wheels are round which makes it look like a playground.
+#PREDATOR_GUN_ENCNAME
+You get paid for what you do.
+#PREDATOR_GUN_SHORTDESC
+I am
+#PREDATOR_GUN_LONGDESC
+Soldiers aim for the blood of the enemy.
+
+Aliens use a plasma source. Warriors normally take no damage, but can use this weapon for a long time.
+#JK47_ENCNAME
+K-47
+#JK47_SHORTDESC
+Higher
+#JK47_LONGDESC
+Yes, they are afraid of their enemies.
+
+Pasta is an important part of every meal. But I was afraid of encouraging hypocrisy. In his new complaint, he said that the cake was heavy and burnt.
+#MOONCROWN_ENCNAME
+moon
+#MOONCROWN_SHORTDESC
+But women
+#MOONCROWN_LONGDESC
+Lunch on the moon
+
+Ancient boars were obtained from Ganymede, which symbolized a spiritual community. Strange beards and ancient crowns of kings from the other side of the world. He said he went to the palace, but returned.
+#UPPERCASE_R_ENCNAME
+North West*
+#UPPERCASE_R_SHORTDESC
+In alphabetical order
+#UPPERCASE_R_LONGDESC
+Dr
+
+Although the upper R doesn't look like a weapon, the usual letter for a weapon is a curve between two letters. Others are born
+#GUNNER_ENCNAME
+Celebration
+#GUNNER_SHORTDESC
+Bags are not included in the delivery.
+#GUNNER_LONGDESC
+This incompleteness of his art is very difficult for the variable shape. I hope you like it!
+#GLAIVE_ENCNAME
+Cultural context
+#GLAIVE_SHORTDESC
+see the picture
+#GLAIVE_LONGDESC
+Shop with lost coins. The poor mother was sold to an antique dealer. Finally, the man promised the woman that he would take what was given to him. Unfortunately, after his death, she lost hope and purpose. is gold
+#GUNDERFURY_ENCNAME
+for people
+#GUNDERFURY_SHORTDESC
+status
+#GUNDERFURY_LONGDESC
+thank you
+
+This shield blocks arrows and prevents accidental attacks. All ideas are discussed.
+
+The elite troops of Gunder. After months of being pursued by the one-armed prince, Bach finally arrived.
+#KIRBYGUN_ENCNAME
+Movement \ movement \ change
+#KIRBYGUN_SHORTDESC
+A hero's dream
+#KIRBYGUN_LONGDESC
+close the door
+#CHAMBERGUN_ENCNAME
+discount
+#CHAMBERGUN_SHORTDESC
+biology
+#CHAMBERGUN_LONGDESC
+What can I do in the bedroom?
+
+This weapon uses high quality and memory. Ships react to environmental stimuli and become weapons along the way. Ammo affects the appearance of this cool gun.
+#LUTE_ENCNAME
+special representative
+#LUTE_SHORTDESC
+always purple
+#LUTE_LONGDESC
+Isn't it weird that this guy has a girlfriend?
+
+This tool was used many years ago by an unknown idol worshiper. who is a known idol worshiper The description of this man is so detailed that historians speak of his dangers. Rejected the document I wrote... But historians have no ink. So the comparison is meaningless.
+#MAGAZINERACK_ENCNAME
+like a newspaper
+#MAGAZINERACK_SHORTDESC
+and direct mail
+#MAGAZINERACK_LONGDESC
+Endless buildings and ghosts
+
+All the common shelves in the room were full of magazines. Even if you are not a professional shooter, a visit to the theater should end with respect and admiration.
+#KAGEBUNSHIN_ENCNAME
+Shadow pattern
+#KAGEBUNSHIN_SHORTDESC
+HERE
+#KAGEBUNSHIN_LONGDESC
+Teamwork.
+
+it's hard to believe me! This copy path is empty.
+
+Don't confuse it with modeling. But the clones gave me a second chance at life. His darkness laughs in the shadow of death.
+#RATCHETSCANNER_ENCNAME
+He plays
+#RATCHETSCANNER_SHORTDESC
+Quality control
+#RATCHETSCANNER_LONGDESC
+Visual feedback to increase accuracy and damage in combat.
+
+Scooter provides detailed information about nearby enemies. The name "Kartok" on the lips.
+#LUTE_LONGDESC_V2
+They help a group of friends.
+
+It's not a gun, it's a guitar tuner. At least that's what they say.
+
+The blue flame does not burn.
+#GLAIVE_LONGDESC_V2
+Cold steel bought from old dealers. When the farmer comes to the field, the mother sells manure. The man promised that one day he will be punished. Unfortunately, when this Canadian died, he was left alone and destitute.
+#KATANA_ZERO_ENCNAME
+I bought this
+#KATANA_ZERO_SHORTDESC
+pay the driver
+#KATANA_ZERO_LONGDESC
+The ball hits the target and continues to fall.
+
+The sword was fast and light enough to be thrown from the air.
+#ROBOTBULLETS_V2_LONGDESC
+Fill in all fields. Better accuracy
+
+This is a breakthrough for human health. But the victim learns to fear the inevitable bullets.
+#GUNHAND_V2_LONGDESC
+His right hand is powerful, most moves deal more damage when performed.
+
+Simple and reliable car battery system, ideal for short trips. HE is the key.
+#MEATBUN_LONGDESC_V2
+Severe damage can cause further damage.
+
+Delicious fresh bread! Sometimes it's better that way.
+#MUSTACHE_LONGDESC_V2
+Spend your money with confidence.
+
+Add hairstyles directly to your purchase and offer upgrade options with each purchase.
+#BRACELETRED_SHORTDESC_V2
+I ask
+#BRACELETRED_LONGDESC_V2
+It does not move even if it is thrown or dropped. Create a unique walking effect.
+
+When the last chance came, Gojon finally found himself in trouble.
+
+Criminals rarely go to jail these days. He tossed the Ancient Celebration Sapphire, raised his shield, and spun around.
+#CARDBOARDBOX_LONGDESC_V2
+Encryption makes it vulnerable to random attacks.
+
+No one can ignore the advice of scientists.
+#SYRINGEGUN_LONGDESC_V2
+Start the surgery and aspirate the toxic sputum.
+
+The doctor takes your blood with a needle. The alarm went off. Fishermen put fresh fish in a big bowl.
+#EMPTYBOTTLE_LONGDESC_V2
+It contains hearts, balloons or other items that you can use later. Use once to save, use again to send.
+
+#SLINGER_GUN_ENCNAME
+Of course
+#SLINGER_GUN_SHORTDESC
+comedy!
+#SLINGER_GUN_LONGDESC
+- a familiar voice was heard from behind the table.
+
+Their enemy is called Deathstrike, not by wisdom and strength. But this was due to the unusual habit of wearing magical accessories and weapons instead of millions of weapons.
+///end of file

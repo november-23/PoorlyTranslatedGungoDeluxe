@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 558240596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99b08fa5b140aee7d4cc3b186155ae71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/intro_weird.txt
+- Assets/ui_weird.txt
+- Assets/items_weird.txt
+- Assets/english_weird.txt
+- Assets/synergies_weird.txt
+- Assets/enemies_weird.txt
+Dependencies: []

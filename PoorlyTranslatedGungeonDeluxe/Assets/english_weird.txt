@@ -1,0 +1,3947 @@
+//REMEMBER TO ADD THIS AGAIN AFTER LOC
+#MAINMENU_NEW_QUICKSTART
+I am a student
+//-------------------------------------Controls
+#CONTROL_INTERACT
+teacher teacher teacher
+Wait a minute
+Some
+#CONTROL_DODGEROLL
+Good choice
+L1;
+leave the river alone
+#CONTROL_ALT_DODGEROLL
+wheel
+distance
+bad
+#CONTROL_AIM
+a mouse
+good credit
+thank you
+#CONTROL_FIRE
+with the left mouse button
+first year
+attached to the right
+#CONTROL_RELOAD
+yes
+The beach is beautiful.
+falcon
+#CONTROL_MAP
+only me
+L2:
+three guests
+#OPTIONS_BUTTON
+My
+#OPTIONS_ALT_BUTTON
+More important than ever
+#WIRELESS_CONTROLLER
+open screw
+#CONTROL_RMB
+right mouse key.
+#CONTROL_LMB
+Left button
+//-------------------------------------Symbols
+#SYMBOL_TELEPORTER
+sent code
+#YES
+just a little
+#NO
+he didn't do
+#AND
+: Information
+//-------------------------------------player names (%PLAYER_NAME)
+#PLAYER_NAME_PILOT
+Boat, a boat
+#PLAYER_NAME_CONVICT
+Fine for damage
+#PLAYER_NAME_ROBOT
+robot
+#PLAYER_NAME_NINJA
+Ninja
+#PLAYER_NAME_COSMONAUT
+far away
+#PLAYER_NAME_SOLDIER
+Oceania
+#PLAYER_NAME_GUIDE
+fisherman
+#PLAYER_NAME_COOPCULTIST
+please keep it a secret
+#PLAYER_NAME_BULLET
+measurement point
+#PLAYER_NAME_RANDOM
+Finally
+#PLAYER_NAME_GUNSLINGER
+DUTY
+//-------------------------------------player nicknames (%PLAYER_NICK)
+#PLAYER_NICK_PILOT
+In other words, babies fly.
+Safety
+I can
+worse
+#PLAYER_NICK_CONVICT
+a crime
+Change the file.
+he was arrested
+#PLAYER_NICK_ROBOT
+When?
+clothing
+human form
+robot
+empty road
+Robert
+Four Numbers
+cabbage rings
+four
+Metal head
+#PLAYER_NICK_GUIDE
+human
+it is snowing
+goodbye
+boy
+#PLAYER_NICK_NINJA
+question
+#PLAYER_NICK_COSMONAUT
+day
+IBM
+#PLAYER_NICK_SOLDIER
+It is unlimited.
+a person
+#PLAYER_NICK_COOPCULTIST
+Kyung Joo
+men
+Employee
+in the room
+Adam is still the main character.
+Available to users.
+Mobile phone
+#PLAYER_NICK_BULLET
+the gardens
+Armed
+symbol
+Manager
+He's still a kid
+a traitor
+#PLAYER_NICK_RANDOM
+ask questions
+I'm still standing
+Not good
+instant panic
+this is funny
+#PLAYER_NICK_GUNSLINGER
+Near the river
+//--------------------------------------insults (%INSULT)
+#INSULT_NAME
+A professional killer
+difficult
+in:
+animals
+failure
+Are you listening or are you listening?
+*****
+I am near
+Forest fires
+@#$%$:
+General process
+he was arrested
+Find out
+the boss
+#THIEF_NAME
+punish
+to be alienated
+Thief
+sorcerer
+He will be executed
+department:
+//------------------------------------Co-op Rebukes - these are to make fun of and send away the co-op cultist if he tries to talk to an npc. Some NPC's will have overrides for this if they speak in a particular way.
+#COOP_REBUKE
+Everything is fine
+I don't want to talk to my assistant.
+hand? congressman
+What do you mean? What do you think?
+to kill someone
+It's not just for me.
+I'm not the first here.
+I want to talk to the players
+//------------------------------------ui messaging
+#AMMO_SINGLE_GUN_REFILLED_HEADER
+road
+#AMMO_SINGLE_GUN_REFILLED_BODY
+pressure
+//------------------------------------strings
+//-------------Foyer Character Select
+#CHARACTER_SELECT_CHANGE_QUESTION
+Behavioral changes?
+#CHARACTER_SELECT_COOP_START
+Are you ready for pure cooperation?
+#CHARACTER_SELECT_COOP_END
+Does pain need to give way?
+#COINS
+Properties
+#STEAL
+<good>
+#GENERIC_ELIPSES
+Everyone, everyone
+//-------------------------------------Loading Screen Lore Nuggets
+//TODO Loading Screen Nugget
+#LOAD_SCREEN_LORE_NUGGETS
+Upload the presentation to your website.
+//-----------------------------------------MISC
+#SMALL_NOTIFICATION_UNLOCKED
+My name
+//-------------------------------------Tutorial Foyer
+#TUT_FOYER_REPEAT
+! Thanks for your comment!
+#TUTKNIGHT_RUNBASEDMULTILINE_FOYER
+forgive me for all that I can do
+good revenge
+Always talk about sun protection and safety.
+I cried after his death.
+I finally felt like I needed to rest. he wanted revenge
+I was skeptical until this happened. If you can't, {vj} can help you.
+I knew it was time to raise the shield. you can take revenge on me
+A year later... my theory was finally confirmed.
+Thank you, I understand your subscription.
+Interestingly, new entrants are available in limited quantities. I thought it was a mistake...
+#TUTKNIGHT_RUNBASEDMULTILINE_STOPPER
+usually
+//-------------------------------------Tutorial Room 001---Tutorial Start
+#TUT_INTRO_PLAYER_ENTER_001
+strong! Press %CONTROL_INTERACT to invite a conversation!
+#TUT_INTRO_INTERACT_001
+I'm Mr. Nellit.
+Look, I'm going to teach you how to get rid of doubts.
+Enter the door and start the defense.
+#TUT_INTRO_INTERACT_AGAIN_001
+Do students have questions?
+#TUT_INTRO_INTERACT_AGAIN_002
+First! I recommend
+#TUT_INTRO_INTERACT_AGAIN_003
+Sable: The hero is the king of all.
+... {vj} options are everywhere.
+don't worry
+#TUT_PLAYER_WALK_AWAY
+Mind! Most of them!
+I am waiting for tomorrow
+It is his
+#TUT_PLAYER_QUESTION_001
+How long can you hold the gun?
+#TUT_PLAYER_QUESTION_002
+Who are you?
+#TUT_KNIGHT_RECOGNISE_PLAYER
+Spirit, press %CONTROL_INTERACT...sigh.
+#PLAYER_DO_TUTORIAL_AGAIN
+Where?
+#TUT_KNIGHT_WHOLE_THING
+... work?
+#PLAYER_RES_NOIMGOOD
+antipathy
+#TUT_KNIGHT_ALRIGHT_AHEM
+Well... {w} *um* {w}
+And the soul! Welcome to the message center
+#TUT_KNIGHT_MENU_GO_AWAY
+Rice
+#TUT_KNIGHT_FORGET_HOW_TO_DODGE_ROLL
+Forgot how to stop traffic?
+Do you want the latest version?
+another boy
+#TUT_KNIGHT_REVENGE_REMINDER
+Be careful when you see obstacles.
+#TUT_KNIGHT_REVENGE_GIVEN
+Already have a blog? Click [Square]. {employee}
+I will take my revenge in the street and I will never forget it.
+Stop at {p}. {b} etc. for the first time
+come to us
+I know! Buy {vk} votes from merchant.
+This is my favorite
+I hate it.
+#TUT_KNIGHT_BASKING
+The Crown cannot say
+//----------------------------------Tutorial Room 002---interactables
+#TUT_KNIGHT_R2_PLAYER_ENTER_001
+They also move places or frames. %CONTROL_INTERACT
+#TUT_KNIGHT_R2_PLAYER_ENTER_002
+If you are nearby, you can bury your face in the white sand.
+#TUT_KNIGHT_R2_PLAYER_NEED_TO_FLIP_001
+Set %CONTROL_INTERACT to string
+Otherwise, you can close the box.
+Everyone is locked in the room.
+otherwise bad
+#TUT_KNIGHT_R2_PLAYER_INTERACT_001
+The closer it is, the whiter it is.
+#TUT_KNIGHT_R2_COMPLETE_001
+Good contact with all students. go to the next room
+#TUT_KNIGHT_R2_PLAYER_INTERACT_TOO_MUCH_001
+Nothing happened after that. %PLAYER_NICK!
+A white ship can summon any ship except Earth.
+go to the next room
+You have been working on this series for a long time.
+good mother
+how to prepare
+#TUT_KNIGHT_R2_PLAYER_FLIP_TABLE_001
+The incident was swept under the rug.
+I am crazy!
+#TUT_KNIGHT_R2_PLAYER_BREAK_SHIT_001
+I don't know why, but I want to stop.
+#TUT_KNIGHT_R2_PLAYER_ROLL_BARREL_001
+Does not matter! Damaged pages will be repaired later.
+#TUT_KNIGHT_R2_PLAYER_DODGE_ROLL_001
+Prizes will be awarded later.
+avoid this number
+%PAIER_NICK does not drive high performance.
+Except the future
+Excellent
+Mom:
+#TUT_SIGN_OO1
+folder search
+//----------------------------------Tutorial Room 003---didgeroll pits
+#TUT_KNIGHT_R3_PLAYER_ENTER_001
+Attractive! Books, books, etc.
+#TUT_KNIGHT_R3_PLAYER_INTERACT_001
+Go to the end and press %CONTROL_DODGEROLL to enter the room.
+This blank space must be filled.
+#TUT_KNIGHT_R3_PLAYER_CROSS_FIRST_PIT_001
+World Security Organization! I am waiting for you!
+#TUT_KNIGHT_R3_PLAYER_ENTER_SECOND_ZONE_001
+The horse is happy
+#TUT_KNIGHT_R3_PLAYER_ENTER_SECOND_ZONE_002
+The doors open and the rear seats fold down to provide plenty of space.
+#TUT_KNIGHT_R3_PLAYER_INTERACT_0s04
+An amazing first step!
+#TUT_KNIGHT_R3_PLAYER_INTERACT_003
+near the door
+Death
+you know how i feel
+#TUT_KNIGHT_R3_PLAYER_FALLS_INTO_PIT_BY_WALKING_001
+Click %CONTROL_DODGEROLL to open it.
+Communication
+You are right
+Browse the %PLIER_NICK app
+look at me
+#TUT_KNIGHT_R3_PLAYER_FALLS_INTO_PIT_BY_DODGEROLLING_001
+i think you are brave
+Last %CONTROL_DODGEROLL
+Your feet are red.
+#TUT_KNIGHT_R3_PLAYER_DODGEROLLS_NOT_OVER_PIT_001
+go into the hole
+But on!
+Good video
+limited cooperation
+Loneliness
+//----------------------------------Tutorial Room 004---dodgeroll bullets
+#TUT_KNIGHT_R4_DR_BACK_FROM_DEATH
+Do you want private lessons? Not everyone can say that.
+#TUT_KNIGHT_R4_DR_EXPLANATION_001
+This is the main lesson. Click to eject the disc. Command %CONTROL_DODGEROLL
+#TUT_KNIGHT_R4_SPEAK_AGAIN
+Once he starts walking, he won't hurt you anymore, but if you hit the ground, you'll take damage
+Avoid bullets and other random objects. I'm not in a hurry either.
+He said open the door. Press {vk} in the right corner of the room to avoid death {v}
+Wait until the last minute to start and press %CONTROL_DODGEROLL. Are you ready for the exam?
+#TUT_KNIGHT_R4_DR_EXPLANATION_002
+#TUT_KNIGHT_R4_HOW_TO_DODGE_ROLL
+Not to be confused with %CONTROL_DODGEROLL.
+#TUT_KNIGHT_R4_PLAYER_DODGEROLLS_IN_PLACE
+I have nothing!
+very close
+you like
+I have to say
+#TUT_R4_PLAYER_NOT_READY
+Repeat.
+#TUT_R4_PLAYER_READY
+Finally
+#TUT_KNIGHT_R4_READY
+Fireworks...
+#TUT_KNIGHT_R4_GO
+A!
+#TUT_KNIGHT_R4_SUCCESS
+You should be happy
+#TUT_KNIGHT_R4_D4_PLAYER_INTERACT_001
+Chakma is the archer's prayer for victory over the adversary.
+No one knew why he was working with the gun or what he had.
+A good weapon is usually required.
+Visit this page for both meanings.
+#TUT_KNIGHT_R4_D4_PLAYER_INTERACT_001_CONTROLLER
+Dodge is designed for conservatives and gun enthusiasts.
+No one knows why audience management is better than audience building.
+If you use a keyboard, use %CONTROL_ALT_DODGEROLL to avoid this problem.
+You have to be an artist to get out of Guernsey.
+Enter the next room and run for 2 hours.
+#TUT_KNIGHT_R4_PLAYER_INTERACT_WHILE_BULLETS_ARE_ON_SCREEN
+Use %CONTROL_DODGEROLL to dodge points
+Wait until it's ready to smoke.
+Wherever you go
+#TUT_KNIGHT_R4_GOOD_DODGE
+beauty
+I did it on Thursday!
+professional!
+#TUT_KNIGHT_R4_HIT_DURING_ROLL
+It's morning and we're waiting for the results.
+Quickly
+will not be.
+#TUT_KNIGHT_R4_HIT_BEFORE_ROLL
+Do not forget the makeup.
+Now they are running
+it becomes
+uncle
+elementary school
+hurry up
+Remember your victory against %CONTROL_DODGEROLL?
+//----------------------------------Tutorial Room 004.5 blanks
+#TUT_KNIGHT_BLANKS_FIRST_TALK
+The first and best way to prevent death in a fire is prevention.
+#TUT_KNIGHT_BLANKS_CONTINUED_01
+But sometimes there is too much music.
+Read more!
+#TUT_KNIGHT_BLANKS_CONTINUED_02
+It's called a hole.
+Use rockets to attack all the enemies in the room and don't burn them for a while.
+Lose enemies. If you want to change the time, no problem.
+i am waiting
+#TUT_KNIGHT_BLANKS_PICKTHEMUP
+buy an island
+menu!
+#TUT_KNIGHT_BLANKS_KEYBOARD_CONTROL
+Click to use %CONTROL_USEBLANK.
+#TUT_KNIGHT_BLANKS_CONTROLLER_CONTROL
+Collection and use of registered %CONTROL_L_STICK_DOVN and %CONTROL_R_STICK_DOVN
+#TUT_KNIGHT_BLANKS_USEONENOW
+Clean the pipe material and insert it into the hole.
+#TUT_KNIGHT_BLANKS_KEYBOARD_CONTROL_REMINDER
+Click delete account
+Press %CONTROL_USEBLANK to activate.
+Use space bar to move the ball.
+#TUT_KNIGHT_BLANKS_CONTROLLER_CONTROL_REMINDER
+Intelligence!
+Press %CONTROL_L_STICK_DOVN and %CONTROL_R_STICK_DOVN at the same time to enter idle mode.
+Use the arrow keys to click on the device.
+#TUT_KNIGHT_BLANKS_TOOSLOW
+Another request from the missile center
+Human being!
+every-time!
+#TUT_KNIGHT_BLANKS_DODGEROLL
+You cannot avoid problems.
+But you will know when I come back.
+Don't run, take your place
+#TUT_KNIGHT_BLANKS_TOOKDAMAGE
+will lose the ball
+members use
+from the other side
+#TUT_KNIGHT_BLANKS_SUCCESS
+enough!
+Each table has its own space that can be used as needed.
+Wherever you are, don't be shy
+Internet!
+#TUT_KNIGHT_BLANKS_EXTRA_TALK
+The vacuum causes the walls to move and collapse.
+When you see a hole in the wall, shoot a rocket.
+Okay
+friendship
+Very confident!
+//----------------------------------Tutorial Room - Healing
+#TUT_KNIGHT_MEDKIT_OVER_HERE
+already...!
+#TUT_KNIGHT_MEDKIT_GET_SHOT
+fisherman
+Do not get behind the wheel on an active day.
+#TUT_KNIGHT_MEDKIT_DONE
+personal question
+I said
+#TUT_KNIGHT_TELEPORTER_FIRST_TALK_MEDKIT
+Pay attention!
+He can shoot, turn and shoot the ball but he has a lot to learn.
+Available items can be used as weapons.
+This is an example of first aid. modest
+#TUT_KNIGHT_TELEPORTER_FIRST_TALK_MEDKIT_USE_MEDKIT
+Type %CONTROL_INTERACT and read.
+#TUT_KNIGHT_TELEPORTER_FIRST_TALK_MEDKIT_PICKITUP
+I can not wait!
+% press the CONTROL_INTERACT button next to it to get the potion
+Let's go!
+transfer coefficient
+#TUT_KNIGHT_TELEPORTER_FIRST_TALK_MEDKIT_PICKEDUP
+Click %CONTROL_USEITEM to use it.
+#TUT_KNIGHT_TELEPORTER_FIRST_TALK_MEDKIT_FULL_HEALTH
+don't use {w}
+However, specifying the %CONTROL_USEITEM option is optional.
+#TUT_KNIGHT_TELEPORTER_FIRST_TALK_MEDKIT_MID_HEALTH
+We hope you enjoy our other games too.
+Specifies whether to use %CONTROL_USEITEM or not.
+#TUT_KNIGHT_TELEPORTER_FIRST_TALK_MEDKIT_LOW_HEALTH
+It's not summer yet. Hurry up.
+Attention: %CONTROL_USEITEM!
+#TUT_KNIGHT_TELEPORTER_FIRST_TALK_MEDKIT_DONE
+NOW!
+//----------------------------------Tutorial Room 005---gun
+#TUT_KNIGHT_R5_PLAYER_INTERACT_001
+The default is %PLIER_NICK I think you deserve this award.
+but depending on your size and experience
+#TUT_KNIGHT_R5_WAITING_FOR_PLAYER_TO_OPEN_CHEST_001
+open
+#TUT_KNIGHT_R5_PLAYER_INTERACT_BEFORE_PICKING_UP_GUN
+A gift for students of all ages!
+Get a gun
+#TUT_KNIGHT_R5_PLAYER_PICKED_UP_GUN
+I miss it
+#TUT_KNIGHT_R5_SHOOT_MORE_STUFF
+Don't be afraid to fly.
+#TUT_KNIGHT_R5_SHOOT_COME_BACK
+It works as expected
+#TUT_KNIGHT_R5_SPAWN_ENEMY
+Use %CONTROL_AIM to activate % and %CONTROL_FIRE.
+Reload: %CONTROL_RELOAD
+But first I need some advice.
+One of the largest inhabitants of the Ganges, a merciless and merciless killer.
+#TUT_KNIGHT_R5_SHOT_BY_PLAYER
+understand
+below
+You can't hurt me because I'm in the circle of death.
+This is bad
+#TUT_KNIGHT_R5_KILL_HIM_001
+Now...
+#TUT_KNIGHT_R5_KILL_HIM_002
+you are the winner
+#TUT_KNIGHT_R5_KILL_HIM_003
+come
+{vj} {content} ago
+Dry alcohol is not prohibited.
+#TUT_KNIGHT_R5_PLAYER_SHOOT_KNIGHT_WHILE_BULLETMAN_IS_ALIVE
+It fits me perfectly!
+i am
+No more
+#TUT_KNIGHT_R5_PLAYER_INTERACT_WHILE_BULLETMAN_IS_ALIVE
+Say less and share more.
+#TUT_KNIGHT_R5_KILLED_HIM
+you are very cruel.
+#TUT_KNIGHT_R5_GOOD_LUCK_FINAL
+Then came the war.
+Kill all the enemies in each room to open the door.
+Look at the clothes
+#TUT_KNIGHT_R5_PLAYER_INTERACT_AFTER_ROOM_COMPLETION
+Don't forget to reset the key. %CONTROL_RELOAD:
+If you have another weapon, you can switch to %CONTROL_QUICKSWITCHGUN.
+Take the weapon %CONTROL_SWITCHGUN_ALT.
+The machine gun has unlimited ammo. Some weapons also contain explosives.
+Load your favorite weapon.
+Sometimes you can come back to the other side.
+#TUTORIAL_KNIGHT_GUNS_NOTE_01
+Switch weapons with %CONTROL_QUICKSWITCHGUN
+#TUTORIAL_KNIGHT_GUNS_NOTE_02
+If you have multiple weapons, press %CONTROL_QUICKSWITCHGUN. Choosing the right coolant - yes
+//----------------------------------Tutorial Room - Teleporter
+#TUT_KNIGHT_TELEPORTER_FIRST_TALK
+You can see it from the other side. there is a door
+Then the game begins.
+#TUT_KNIGHT_TELEPORTER_EXPLANATION_CONTROLLER_001
+First press %CONTROL_MAP, select the symbol, then select %SIMBOL_TELEPORTER and press %CONTROL_INTERACT to open the map. Register with this code.
+Glue or sand?
+#TUT_KNIGHT_TELEPORTER_EXPLANATION_KEYBOARD_001
+To use %CONTROL_MAP, first click on the %SYMBOL_TELEPORTER symbol. A network map opens.
+Or do you need clarification?
+#TUT_KNIGHT_TELEPORTER_OK_THEN
+Now use the teleporter to cross the path.
+#PLAYER_TELEPORTER_RESPONSE_PLAYER_READY
+everything]
+#PLAYER_TELEPORTER_RESPONSE_PLAYER_NOT_READY
+repeat
+#TUT_KNIGHT_TELEPORTER_EXPLANATION_OTHER_SIDE
+They don't have to be in the same place on the map. However, the war is not over yet.
+Press %CONTROL_INTERACT to return to the previous screen.
+I'll be waiting here in the office, wanna see? best weapon {vj} {v}
+#TUT_KNIGHT_TELEPORTER_ANOTHER_QUESTION
+what is your question
+#PLAYER_TELEPORTER_RESPONSE_003
+NOW
+#PLAYER_TELEPORTER_RESPONSE_004
+I can't fix everything.
+#TUT_KNIGHT_TELEPORTER_EXPLANATION_RETURNING
+Open the window that appears and click on it. %CONTROL_INTERACT is the first window.
+#TUT_KNIGHT_TELEPORTER_MEET_AHEAD
+Nice to meet you
+//----------------------------------Teleporter Room Derision
+#TUTORIAL_KNIGHT_TELEPORTER_SHOTBYPLAYER
+Like it or not, we're all underground.
+this area
+always healthy
+Not so anymore.
+it is a good product
+The disease spreads
+{VJ}...Solution...{VJ}
+please
+...
+#TUT_KNIGHT_TELEPORTER_FELLINPIT
+help during childbirth
+Your patience
+They want to share.
+#TUT_KNIGHT_TELEPORTER_JUMPEDINPIT
+There are many causes of pain.
+Unfortunately, I think it's completely official news.
+i want to die
+Need a remote control?
+//----------------------------------Tutorial Room 007---boss
+#TUT_KNIGHT_R7_PLAYER_ENTER_001
+If you have a good match, say {sk}. {here}
+#TUT_KNIGHT_R7_PLAYER_INTERACT_001
+Are you ready to try everything you've learned?
+#TUT_R7_PLAYER_QUESTION_001
+Not yet
+#TUT_KNIGHT_R7_PLAYER_INTERACT_002
+like a cookie
+#TUT_KNIGHT_R7_PLAYER_ROLLS_AROUND
+What do you think I'm doing?
+#TUT_R7_PLAYER_QUESTION_002
+why?
+#TUT_KNIGHT_R7_PLAYER_INTERACT_003
+I share...
+bring me
+#TUT_KNIGHT_FIGHT_BEGIN_002
+Purpose:
+#TUT_KNIGHT_R7_TAUNT_001
+What should I do!
+It hurts!
+Life
+#TUT_KNIGHT_R7_PLAYER_WIN_001
+#TUT_KNIGHT_R7_PLAYER_TAKES_DAMAGE_001
+no
+#TUT_KNIGHT_FIGHT_SUCCESS_001
+Conflict
+You live... My name is Dido Manuel.
+I spend a lot of time on the tape. But people love you with all their hearts.
+He was strengthened at the hands of Mwalimo Manuel and Mwalimo Kongo.
+Win the game if you can.
+I hope he dies again.
+meet {vk} {vb}
+big
+{wq} {w} All right
+with you
+Soul
+I screamed
+information
+Room {a} {a}
+paper {vk}{vb}
+what should i say
+it's a trip}
+{wq} read {w}
+domain name {vk} {vb}
+Must be {v}.
+accident
+Because you are important to me
+product {wq} {w}
+Delivered
+I'm listening {in} {in}
+{wq} vs. {w}
+anus
+I miss you from the bottom of my heart
+Good!
+{v} We {vb}
+{vk} big [noun]
+decision
+window {wq} {w}
+volcano
+{vk} Search {v}
+for pressure
+contact {vk} {ant}
+play {wq} {w}
+what are you doing
+{v} to cry {v}
+{vk}save}
+name
+{vk} {v} laugh
+go away
+bath
+{vk} unicorn {v}
+How are you?
+{VK} or {V}
+Should you frown, cry, or stop?
+yell
+#TUT_R7_PLAYER_LIFE_STORY_001
+#TUT_R7_PLAYER_LIFE_STORY_002
+Talk to life
+#TUT_KNIGHT_R7_HASSHIELD_01
+Wait for it...guns.
+Result}...
+if you know my bad secret {vk}
+Yes, but Jonjo is gone. Isn't that too short?
+shame on you, bully!
+#TUT_KNIGHT_R7_SHIELD_PLAYER_RESPONSE_01
+what is that?
+#TUT_KNIGHT_R7_SHIELD_PLAYER_RESPONSE_02
+I asked him: what are you waiting for?
+#TUT_KNIGHT_R7_HASSHIELD_02
+Black snake! {wj} tell me what you think {w}
+And when he entered he was ignored.
+upstairs room
+I called for help but no one came. I thought they were going to kill me.
+Looks like you need a weapon. But it is not necessary
+#TUT_KNIGHT_R7_HASSHIELD_02A
+black snake
+#TUT_KNIGHT_R7_HASSHIELD_02B
+He tried to steal like an old friend.
+Lots of arrow skills.
+But when the final image appeared, the black disappeared.
+At night the wall became tangled. and me too
+#TUT_KNIGHT_R7_SHIELD_PLAYER_RESPONSE_03
+Thanks, I'm here
+#TUT_KNIGHT_R7_SHIELD_PLAYER_RESPONSE_04
+I don't know how
+#TUT_KNIGHT_R7_HASSHIELD_04
+If Brueckner makes haste, he will never reach the river.
+But I'm still here...
+Or a steel structure ball bearing
+#TUT_KNIGHT_R7_HASSHIELD_05
+If you see it, delete it if you understand it.
+#TUT_KNIGHT_R7_SHIELD_PLAYER_RESPONSE_05
+hot
+#TUT_KNIGHT_R7_SHIELD_PLAYER_RESPONSE_06
+I want to die
+#TUT_KNIGHT_R7_HASSHIELD_06
+I'm not talking about murder.
+But it is true
+#TUT_KNIGHT_R7_HASSHIELD_07
+but we have nothing
+Good luck with your kanji.
+#TUT_KNIGHT_R7_HASSHIELD_07B
+Find your target anonymously: %PLAYER_NAME
+#TUT_KNIGHT_R7_HASSHIELD_08
+smooth communication
+If you know Blake, if you know him, check out this guy.
+Tell me next time, I'm a thousand times stronger than I was before.
+I was fired
+#TUT_KNIGHT_R7_HASSHIELD_09
+where are you going
+If you have ever met Bruckner, you will know him in red and black.
+The next time you go to school, your skills will improve.
+beech
+#TUT_TEST_001
+I wouldn't be here if I hadn't broken the roof!
+#TUT_TEST_002
+So I agree
+#TUT_TEST_003
+I am a child
+#TUT_TEST_004
+not yet. foot print
+#TUT_TEST_SHOTAGAIN_beforefight
+information
+LION
+it is incomplete
+Come here if you want to fight!
+#TUT_TEST_SHOTAGAIN_notinterested
+interesting post
+No need to smoke
+Fix it
+you are the worst
+The bathroom is very nice.
+Play the original game now!
+,
+#TUT_TEST_SHOTAGAIN_interested
+Thanks!
+block name.
+Unfortunately, this is not the case.
+I want to tell you about my life.
+Do not interfere in other people's affairs.
+closer
+They are cows
+i hear you
+You are the worst
+{vk} unhappy!
+Now to the real question.
+...
+,
+//----------------------------------Manuel's Rival
+#RIVAL_ENTERED_ROOM_01
+Be careful on the road! Wait, this is also a shooter.
+#RIVAL_MANY_ROLLS_01
+How would you describe this role?
+#RIVAL_MANY_TAKEPLAYERDAMAGE_BEFORE_AGGRO
+You play well! I like your style
+I will continue to fight
+#RIVAL_FIRST_TALK_01
+Hello friends!
+Where did you buy this gun?
+#RIVAL_FIRST_RESPONSE_01
+Looking for a gun like everyone else?
+#RIVAL_FIRST_RESPONSE_02
+i know why i'm here
+#RIVAL_SECOND_TALK_01
+Oh, what a relief!
+... Yes
+Disconnect and end the task.
+Based on the interests of tourists
+#RIVAL_ALT_TALK_01
+This is another question
+#RIVAL_ALT_RESPONSE_01
+you have nothing
+#RIVAL_ALT_RESPONSE_02
+I am here for you
+#RIVAL_ALT_TALK_02
+Bake
+#RIVAL_SECOND_TALK_02
+i don't know
+Kill the old man.
+#RIVAL_SECOND_RESPONSE_01
+most information:
+#RIVAL_SECOND_RESPONSE_02
+i am very glad
+#RIVAL_THIRD_TALK_01
+Ah...that's what he said.
+why do not you play
+I laugh
+#RIVAL_THIRD_TALK_02
+Fire
+I thought you didn't fall.
+#RIVAL_FINAL_RESPONSE
+they start talking
+#RIVAL_RUN_AWAY
+perplexed...
+yes
+#RIVAL_FINAL_TALK
+I loved these
+Time to kill.
+#RIVAL_KILLED_01
+success
+student...
+Attack {VK}! {Palace}
+i want to say more
+I don't understand why he dropped the ball... I don't understand.
+of things
+#RIVAL_FOYER_FIRST
+Branches of the maze. It's not that! You... you... haven't changed at all.
+i'm still soft
+...
+//-----TODO write some more here if you want- maybe flesh the story out a bit
+#RIVAL_RUNBASEDMULTILINE_FOYER
+I thought it was for you, but no.
+What is a bad friend?
+But death is not an option here.
+should be here
+I don't think it will change for the rest of my life. But always on weekends.
+Manny and I don't have guns in the restaurant. Everything is made of solid metal.
+He finally learned to forgive.
+#RIVAL_RUNBASEDMULTILINE_STOPPER
+,
+//----------------------------------Gungeon Guardians
+#GUNGEON_GUARDIAN_DO_TUTORIAL
+Waiting for %PLAYER_NAME. Read a good book on the subject before you go.
+#GUNGEON_GUARDIAN_TUTORIAL_COMPLETE
+Now you can start…
+#GUNGEON_GUARDIAN_PLAYER_AFFIRM
+You are looking for a manual.
+#GUNGEON_GUARDIAN_PLAYER_NEGATE
+Colleagues work together.
+Discipline on the feet!
+#GUNGEON_GUARDIAN_INFORM
+On the left is the wording.
+#GUNGEON_GUARDIAN_REGRET
+Welcome to another death!
+#GUARDIAN_RUNBASEDMULTILINE_FOYER
+Player_NICK The Gunjian awaits you.
+Next week?
+Let's get started!
+Weapons are banned by both sides.
+How long do you think it will take?
+stronger than
+finally give up
+#GUARDIAN_RUNBASEDMULTILINE_STOPPER
+The famous city of %PLAYER_NAME.
+//-------------Crestfallen Lizard Man
+//-------------Sad, despondent, but somewhat amused at your hope.
+#CRESTFALLEN_INTERACT_001
+what do we have here you started
+You are here to reflect on the past and change it. Hello, you are the first.
+But there is none.
+I can change the past if I want to.
+i have no future...
+Hahaha...
+#CRESTFALLEN_INTERACT_003
+Whenever I want...
+Talk to him before entering.
+behind the door
+let me see...
+Why have you come to curse the temple?
+Hahaha...
+#CRESTFALLEN_INTERACT_004
+Have you ever seen this crazy mask?
+How to prepare the skin
+I really hated it when he got home.
+None
+#CRESTFALLEN_INTERACT_005
+It's amazing how places and people have changed.
+Unless the bird hits the big ball...
+Please do not bring pets in...
+Plant or grow...
+#CRESTFALLEN_INTERACT_BEHOLSTER
+is suppressed
+But he really wanted it. This is a bad example.
+I'm coming
+#CRESTFALLEN_INTERACT_BASHELLISK
+Snakes have killed many people.
+It must come out of another shell.
+But now...
+They should be sentenced to death
+#CRESTFALLEN_INTERACT_DOORMIMIC
+This animal is very rare.
+Don't like Ugbe Racing app?
+laugh outloud...
+#CRESTFALLEN_INTERACT_GORGUN
+You are lazy...you are lazy.
+Have you ever noticed that the dirt on your eyelids has turned to stone?
+#CRESTFALLEN_INTERACT_BULLETKING
+Was the king prevented from marrying me?
+Thank you very much...
+#CRESTFALLEN_INTERACT_BULLETBROS
+Two bad traitors
+I have a big question for you.
+#CRESTFALLEN_INTERACT_TANK
+Reset everything, including memory.
+First, they tried to occupy the country by force.
+But enjoy your success. This is a gift that...
+A lot of laughter
+#CRESTFALLEN_INTERACT_POWDERSKULL
+Here is the web link...
+You are in a deep hole
+And a big skull?
+Everything happens fast here. But the legs stay
+but I'm not sure
+,
+#CRESTFALLEN_INTERACT_DEMONWALL
+i fell from the balcony
+Don't worry, you've come to the right place.
+... very nervous
+So don't worry
+You can try again
+not so big...
+#CRESTFALLEN_INTERACT_STATUES
+He appears to be the fourth of four children of the late Hummel Padbold.
+The remains are also in the picture.
+Tell me... it's okay
+Take it there
+i see it in your eyes
+Research This is the result of several studies.
+#CRESTFALLEN_INTERACT_OLDKING
+... The king is dead.
+They have an eternal end. Now you can see the building with your own eyes.
+They barely speak
+... proud?
+project...
+#CRESTFALLEN_INTERACT_BLOBULORD
+Wow, it's not just fashion.
+No one has ever dug so deep.
+.. Comments on this article?
+to play...
+#CRESTFALLEN_INTERACT_BLOCKNER
+Are you following these instructions?
+your only friend
+#CRESTFALLEN_INTERACT_BUNKER
+Very ugly mirror
+end of life...
+... New?
+teacher...
+#CRESTFALLEN_INTERACT_DRAGUN
+kill the monsters...
+... with us?
+... good
+#CRESTFALLEN_INTERACT_LICH
+Conversation number 6...
+Why bother me
+Why are you bothering me so much?
+What is in this room?
+leave me alone
+#CRESTFALLEN_INTERACT_HIGHPRIEST
+...His time has passed
+... I have to agree. I didn't expect to see you today.
+Units...
+#CRESTFALLEN_INTERACT_RESCUED_SORCERESS
+because
+Will God come back to save?
+...
+#CRESTFALLEN_INTERACT_RESCUED_FRIFLE_AND_MAUSER
+In the background you will see an unhappy couple.
+Now he has no chance
+So it is no different from others.
+forget...
+#CRESTFALLEN_INTERACT_ACTIVATED_META_SHOP
+angry businessman
+In planning...
+It is protected by a large metal box.
+It seems to work.
+#CRESTFALLEN_NO_MORE
+i ask
+and go away
+#CRESTFALLEN_NO_MORE_2
+It's time
+many questions
+#CRESTFALLEN_POST_BEAT
+Kill the past and live in the present?
+How much do you know about time travel?
+Or something else...
+#CRESTFALLEN_RUNBASEDMULTILINE_FOYER
+I don't even know why you think that.
+It's not crazy
+want to drink
+what happened...?
+Nothing has changed, nothing is possible.
+How are you Venus?
+#CRESTFALLEN_RUNBASEDMULTILINE_STOPPER
+I agree.
+,
+And
+#CRESTFALLEN_PARADOX
+I drink...
+hmm... you are very smart
+to cut...
+//-----------------------------------------SORCERESS & ROYAL GUARDS
+#SORCERESS_JAIL_RESCUE
+Lack of empathy when working with children.
+But I think the word "respect" is unnecessary in this case.
+Thanks for your help
+read now
+#SORCERESS_JAIL_REPEAT
+he couldn't stop himself
+Good morning
+#SORCERESS_JAIL_TAKEDAMAGE
+to know!
+i will do it
+#GUARD_JAIL_RESCUE
+,
+#SORCERESS_FIRST_MAGIC_INTRO
+Do not forget! I asked him
+I do not love you
+I already have
+Or maybe something interesting... making money.
+#SORCERESS_MAGIC_INTRO
+I'm back with another helping.
+You need a blessing.
+#SORCERESS_ACCEPT
+<%NPCNUMBER1%META_CURRENT_SYMBOL>
+#SORCERESS_DECLINE
+Not now
+#SORCERESS_NOT_ENOUGH_MONEY
+You are not my blessing. The story begins here
+#SORCERESS_ACCEPTED
+he likes to fly
+#SORCERESS_DECLINED
+...everything's fine.
+//---what you get when you talk to her out
+#SORCERESS_RUNBASED_MULTILINE_GENERIC
+Hopefully it will be worth another try.
+I don't want that, I need space
+If I can break this vicious cycle, my power will no longer depend on who built this city.
+#SORCERESS_RUNBASED_MULTILINE_STOPPER
+I have to go
+Everything is fine
+#SORCERESS_GUARD_RUNBASED_MULTILINE_GENERIC
+The angry mother blesses him and leaves.
+The movement is not fast, but smooth.
+please, do not worry
+#SORCERESS_GUARD_RUNBASED_MULTILINE_STOPPER
+I lost weight.
+//-----------------------------Truth Knower
+#TRUTH_KNOWER_INTRO_A
+My name is Dan Albarn and I know a few things.
+#TRUTH_KNOWER_INTRO_B
+Custom edit link {sk}...
+#TRUTH_KNOWER_QUESTION
+0.25 | $ed$ is the correct color
+0.25 | {WK}{W} What kind of cereal? Sulfur, carbon and potassium nitrate are magical ingredients.
+0.25 | Romanian dollar is right, dollar is wrong
+0.25|What's for breakfast? $ In the form of barley. mad dollar
+0.25 | are you happy $yes $no
+0.25 | The cost is $9.10.
+Take $0.25 for $10.90?
+What is 0.25? How big do you want to be? Total $$
+0.25 | Where does the ball come from? Great home purchase at a great price
+0.25 | Have you ever been scammed for E$$?
+#COLOR_RED
+red
+#COLOR_BLUE
+the sky
+#TRUTH_KNOWER_RESPONSE
+When will the original hero return? Get a gift
+#TRUTH_KNOWER_BETRAYAL
+Many! pole!
+//-----------------------------Witches
+#WITCH_BEAKIE_FIRST_MEETING
+But what?
+#WITCH_BEAKIE_STANDARD
+Something in our bathroom.
+#WITCH_STANDARD_RESPONSE_01
+<I'm still innocent>
+#WITCH_STANDARD_RESPONSE_02
+<free memory>
+#WITCH_BEAKIE_COMPLETE
+i won't be back...
+#WITCH_HUNCHIE_LAUGH
+something strange
+#WITCH_SQUINTIE_SCREECH
+To count!
+#WITCH_TAKE_DAMAGE
+he kissed her
+Spaceline!
+Soldier!
+//-----------------------------------------jellyfish goop shop
+#JELLY_JAIL_INTRO
+Thank you for your help. I am the president of this university.
+I went to the shop and found a beautiful animal!
+Study at Brobro Technical University.
+I started swimming in the lake a few years ago.
+#JELLY_JAIL
+Possible!
+#JELLY_ROOM_ENTER
+to earn
+#JELLY_FIRST_INTRO
+Satyricon! Open shop, more info!
+#JELLY_INTRO
+All proceeds go to my research.
+#JELLY_PURCHASED
+thanks for the help
+You obviously want to stand out!
+#JELLY_FAILED
+%CURRENCI_SYMBOL is...
+#JELLY_FAILED_META
+%META_CURRENT_SYMBOL This...
+#JELLY_GOODBYE
+How are you!
+#JELLY_TAKEPLAYERDAMAGE
+You are angry!
+He is
+Why
+#JELLY_RUNBASEDMULTILINE_GENERIC
+Which animals leave the body?
+You are the worst person I have ever met
+His betrayal must be punished.
+#JELLY_RUNBASEDMULTILINE_STOPPER
+at the same time
+//-----------------------------------------blank shop
+#BLANK_JAIL_INTRO
+He also mentioned...
+...suitable! Thanks for the help.
+For business enthusiasts. maybe i'm here
+my eyes have changed
+#BLANK_JAIL
+Let's get back to work.
+#BLANK_TAKEPLAYERDAMAGE
+murderer
+Long live your king!
+#BLANK_RUNBASEDMULTILINE_GENERIC
+The exiles brought here demanded
+Fireworks
+You don't know where I am, but you know where you are.
+To avoid air bubbles, open the grill first.
+Do something else and you'll be half satisfied.
+I don't care, I'll go to another room.
+#BLANK_RUNBASEDMULTILINE_STOPPER
+Young people here
+#BLANK_LEFT
+to fly
+#BLANK_SHOP_PURCHASED
+Nurse
+irreligious
+#BLANK_PURCHASE_FAILED
+a neighbor
+//-----------------------------------------curse shop
+#CURSE_JAIL_INTRO
+alternating current
+help...
+... Why
+#CURSE_JAIL
+...
+#CURSE_TAKEPLAYERDAMAGE
+very good!
+general
+crazy...
+#CURSE_RUNBASEDMULTILINE_GENERIC
+All of my items are for sale.
+I want to talk
+All
+You can use music
+...back...?
+Help solve the problem.
+#CURSE_RUNBASEDMULTILINE_STOPPER
+On
+#CURSE_SHOP_PURCHASED
+... you found me
+,
+#CURSE_PURCHASE_FAILED
+... Decoration
+... Goodbye.
+//-----------------------------------------key shop
+#KEY_JAIL_INTRO
+my faith
+You don't know them, but your friend promises to save you.
+A small but necessary sacrifice.
+Come if you want
+You will find many useful products in my store.
+#KEY_JAIL
+Burn it! This opens up a world of practical products.
+#KEY_INTRO_FIRST
+This is my main store %KEI_SYMBOL.
+Find out what's out there! {Nurse} Kiki Kiki Kiki! {asthma}
+#KEY_INTRO
+Tanned
+#KEY_TAKEPLAYERDAMAGE
+Location:
+I can't do anything!
+#KEY_RUNBASEDMULTILINE_GENERIC
+All keys in this text are capitalized.
+It takes your breath away if you let it. He is waiting for someone to speak.
+I am one of them. In the middle of the night the walls shook and he left the door open.
+Change the key so the old flower doesn't die
+#KEY_RUNBASEDMULTILINE_STOPPER
+But you know
+#KEY_SHOP_PURCHASED
+Law:
+We are working! Doubt!
+#KEY_PURCHASE_FAILED
+should be closed
+//-----------------------------------------truck shop
+#TRUCK_ROOM_ENTER
+Good morning
+#TRUCK_FIRST_INTRO
+Here is the mouth. Need a shopping companion?
+#TRUCK_DUNGEON_PERSISTENTMULTILINE
+The product has arrived.
+symbol {wj}{w}
+My grandmother used this site.
+he stood up
+#TRUCK_DUNGEON_STOPPER
+take it or leave it
+#TRUCK_PURCHASED
+THANKS
+what is the difference
+#TRUCK_FAILED
+{vj} or {v}
+World Health Organization
+I don't have a payment contract
+But %CURRENT_SYMBOL
+#TRUCK_READY_FOR_FOYER
+Hackers sell their friends
+#TRUCK_IN_FOYER_FIRST
+This is a simple question. But I will try.
+According to him, it is his signature.
+#TRUCK_GOODBYE
+He continued from Hyde
+Finish
+#TRUCK_TAKEDAMAGE
+$#&^%
+I want to hear
+confidential
+#TRUCK_FOYER_PURCHASED
+dad
+We met on the street and went with friends.
+Thanks
+#TRUCK_FOYER_CANCELLED
+I refused, but no one came.
+Player_NICK is not eligible for policy interest deduction.
+#TRUCK_RUNBASEDMULTILINE_GENERIC
+You're angry, but you have nothing to prove.
+I sat on the shelf and did something.
+I don't want to share profits I don't know what it is
+I don't know where the ATMs are. discount
+#TRUCK_RUNBASEDMULTILINE_STOPPER
+Try
+the message
+Question
+//-----------------------------------------artful dodger
+#DODGER_FIRST_INTRO_01
+I'm awake! I'm awake!
+Do you think your aim is correct? my game!
+Congratulations %PLAIER_NICK!
+#DODGER_EXPLANATION_QUESTION_01
+My name is Winton and I play for you.
+Do you want to study law?
+#DODGER_ANSWER_A
+explanation"
+#DODGER_ANSWER_B
+I do not know;
+#DODGER_INTRO_01
+a set of payments
+#DODGER_INTRO_02
+%NPCNUMBER1%CURRENT_SYMBOL matches only 3 values.
+#DODGER_ACCEPT_OPTION
+Game Value: <%NPCNUMBER1 %CURRENCY_SYMBOL>.
+#DODGER_REJECT_OPTION
+Not now
+#DODGER_PROVIDE_GUN_01
+Select %player_NICK on the right.
+shooting a target
+Happiness
+Good talent!
+This happens once a minute.
+#DODGER_FAILURE_01
+very good
+Money is not returned.
+#DODGER_VICTORY_01
+Absolute beauty.
+myself
+#DODGER_GOOD_VICTORY_01
+Not bad.
+White white
+#DODGER_GREAT_VICTORY_01
+I love this idea! Is that your business?
+Know the price of death!
+#DODGER_NOMONEY_01
+My bag is light
+#DODGER_OUTRO_01
+thanksgiving game
+#DODGER_HIT_01
+I mıss you
+#DODGER_EXPLANATION_01
+In this game you have to shoot several times to reach the target.
+Click on each arrow several times. until it disappears.
+The more expensive the better.
+he smiled
+#DODGER_FOYER_REBUFF
+I lost my job
+I don't care
+Right
+#DODGER_FOYER_FIRST_CHAT
+When the eyes die
+Play for real money Want to risk your life again?
+what i have is very expensive
+#DODGER_FOYER_SECOND_CHAT
+He is still alive...
+I haven't seen a movie like yours in a long time.
+You want to die, do it
+#DODGER_FOYER_THIRD_CHAT
+I wonder what brought you here?
+Maybe I should go…
+what do you read
+#DODGER_WALK_AWAY
+have
+Now
+Remember, the writer always wins.
+#DODGER_POST_BEAT
+That's great!
+Did you expect all this?
+#DODGER_NOTIFY_ACHIEVEMENT_READY
+appearance
+You can see what I've collected.
+Take off your pants and talk to me, I want something special
+Thanks for your work
+You are on your own...
+#DODGER_NOTIFY_ACHIEVEMENT_OFFER
+I am providing this page without your permission.
+Send the money to the buyer.
+I hope it works.
+You will probably need all the help you can get.
+product
+#DODGER_RUNBASEDMULTILINE_GENERIC
+Are you a real gamer? Would you risk your life for a second chance?
+I've never seen a cat like you.
+Impossible...
+Another game?
+small
+Finally, you will reach your goal.
+#DODGER_RUNBASEDMULTILINE_STOPPER
+...
+//-----------------------------------------pit dweller / Sell Creep
+#PITDWELLER_FIRST_INTRO
+Bell
+save??? It doesn't matter :)
+#PITDWELLER_NORMAL
+friend
+Here
+Company: Shipping *
+%CURRENT_SYMBOL I want to show this menu
+:) :) :)
+I have thousands of %CURRENT_SYMBOLS. like
+How many times have you told me
+we are friends of friends
+#PITDWELLER_SOLD_SOMETHING
+doctor
+I
+;)
+,
+You know
+he thought
+Very close
+monthly
+It must be done
+//-----------------------------------------lost adventurer
+#LOSTADVENTURER_NOTIFICATION_HEADER
+I have a plan
+#LOSTADVENTURER_NOTIFICATION_BODY
+In front of you!
+#LOSTADVENTURER_JAIL
+Thank you for your help
+i think you are here
+we can be happy
+#LOSTADVENTURER_JAIL_02
+Back to my question
+#LOSTADVENTURER_INTRO
+...they are different
+check...
+... No, the other half is at the door.
+where are you going
+#LOSTADVENTURER_GREETING
+Hello, I appreciate you!
+#LOSTADVENTURER_GREETING_AGAIN
+But! second part!
+#LOSTADVENTURER_EXPLANATION
+I don't think this relationship will end, at least not for a long time.
+As you can see, the wall is constantly changing.
+He demanded a lot from every prisoner.
+#LOSTADVENTURER_QUESTION
+Do you think I can give you a map of the city?
+#LOSTADVENTURER_QUESTION_2
+Will you take me to this city?
+A gift for those in the box.
+#LOSTADVENTURER_ANSWER_A
+I'm sure of that
+#LOSTADVENTURER_ANSWER_B
+We talked a lot...
+#LOSTADVENTURER_QUEST_ACCEPT
+When love stops it should flow
+#LOSTADVENTURER_QUEST_DENIED
+Well, the result is not for everyone. If you change your mind, we're here.
+#LOSTADVENTURER_CHANGED_YOUR_MIND
+What are you thinking; What are you thinking?; What are you thinking; What are you thinking?
+#LOSTADVENTURER_ALREADY_MAPPED
+Meaning: But! We have tickets for this series!
+#LOSTADVENTURER_QUEST_STATUS
+How does the program work?
+#LOSTADVENTURER_QUEST_NOT_COMPLETE
+practical
+#LOSTADVENTURER_QUEST_RESPONSE_A
+<in the legal system>
+#LOSTADVENTURER_QUEST_RESPONSE_B
+<Do not send files>
+#LOSTADVENTURER_QUEST_COMPLETE
+Is this acceptable or not? Thanks dude, I know.
+#LOSTADVENTURER_CORE_COMPLETE
+Thank you for your help.
+like pants
+Now you have to accept it.
+#LOSTADVENTURER_ADVCORE_COMPLETE
+Very useful
+We met on the bridge and in our car.
+You have to live a little
+#LOSTADVENTURER_CORE_COMPLETE_ACHIEVEMENT_OFFER
+Hey, what are you looking for!
+I have seen many caves over the years.
+We will give you food
+I live longer, I don't think it's too dangerous.
+dance
+#LOSTADVENTURER_ADVCORE_COMPLETE_REWARD
+Fish
+We live in difficult times. I see what I like the most.
+I'm your friend again!
+#LOSTADVENTURER_MAP_DENIED
+Dining table!
+He! How are you
+#LOSTADVENTURER_OUTRO_QUESTION
+Thanks again, how can I help you?
+both of us
+It flows like a river.
+...{vk}{v}?
+#LOSTADVENTURER_INFO_QUESTION
+Because you exist.
+#LOSTADVENTURER_SMALL_CHAT
+Really?
+#LOSTADVENTURER_INFO_CASTLE
+According to the prison, he usually goes to the park.
+#LOSTADVENTURER_INFO_GUNGEON
+I put the key under the shelf. That's the key.
+#LOSTADVENTURER_INFO_MINES
+This is important when buying explosives.
+#LOSTADVENTURER_INFO_CATACOMBS
+I want to compete with others here.
+No big ice cubes
+#LOSTADVENTURER_INFO_FORGE
+Real men think about the people they know
+#LOSTADVENTURER_INFO_HELL
+How can I buy?
+Is not enough
+#LOSTADVENTURER_INFO_SEWER
+What is
+He has weapons, but they are too weak for him.
+#LOSTADVENTURER_INFO_CATHEDRAL
+Thank you for opening the door. Now you know what to do.
+#LOSTADVENTURER_INFO_GENERIC
+Not everyone is your friend. But I was wrong.
+#LOSTADVENTURER_OUTRO
+Now the road is safe for me.
+#LOSTADVENTURER_SHOOT
+City
+there is no
+Not very strong.
+#LOSTADVENTURER_STEAL
+Hello!
+%PLAIER_NICK is required
+Oh and
+#LOSTADVENTURER_POTBREAK
+As you know, there is nothing in the newspaper bed.
+Children are prisons, not sidewalks. What do you want?
+#LOSTADVENTURER_RUNBASEDMULTILINE_FOYER_GENERIC
+Fortunately, hackers are not as good as other criminals.
+I will see if there is a copy of the letter.
+You can see some posts created by other users.
+I found an interesting article in the corner of an old travel magazine.
+There is a fuel switch and an on/off button on the back.
+Some important things are subject to change.
+There is a heater in bedroom 1 but it is still not on.
+all
+Don't you see the grave in room 2? It is a holy place...
+I don't know what you are doing in the hotel.
+I can't find my old map.
+#LOSTADVENTURER_RUNBASEDMULTILINE_FOYER_STOPPER
+month...
+I will call you
+//-----------------------------------------ledge goblin / helmet goblin
+#GOBLIN_JAILED_INTRO
+Garbage and dust! Thank you for your help
+We
+We hope to meet again.
+#GOBLIN_DUNGEON_FIRST_EXPLANATION
+Thanks for the download, I'll give it a try.
+As you can see, I'm wearing a hat.
+Is it coincidence or coincidence?
+#GOBLIN_DUNGEON_SECOND_EXPLANATION
+do it again
+I don't know what you did, but don't do it again
+He has no choice but to rule.
+#GOBLIN_DUNGEON_THIRD_EXPLANATION
+it seems
+What kind of meat is this?
+Grab your hat and enjoy!
+I have a hat
+Be patient!
+#GOBLIN_DUNGEON_OUTRO
+We will see each other.
+Everything is fine
+#GOBLIN_A_FIRST_01
+First time?
+#GOBLIN_A_DISTRESS_01
+,
+because you
+#GOBLIN_A_ANNOYED_01
+Now we have to go back...
+#GOBLIN_B_FIRST_01
+Everything in the bag.
+#GOBLIN_B_DISTRESS_01
+Name/Value or:
+The list has been deleted
+#GOBLIN_B_ANNOYED_01
+{WK} I don't want to talk to you now.
+#GOBLIN_C_FIRST_01
+We will go together
+#GOBLIN_C_DISTRESS_01
+truth
+you are the smallest
+#GOBLIN_C_ANNOYED_01
+Nothing special
+#GOBLIN_GOTO_FOYER
+My feet hurt when I go on stage.
+#GOBLIN_D_FIRST_01
+First, take off your hat.
+I haven't done that in a while.
+But now that {Z} is in jail, I know I have to get out.
+Everything I ordered exceeded my expectations.
+I'm looking for a train with a gun. Hope this helps.
+If you find it there, you can use it.
+It doesn't mean you have personal values.
+Information
+#GOBLIN_D_IDLE_01
+We are not friends yet.
+#GOBLIN_D_DISTRESS_01
+A jacket
+No time for conversation
+#GOBLIN_RUNBASEDMULTILINE_FOYER_GENERIC
+I don't want to be there
+I heard... is that true?
+I know
+Suddenly he seemed to come out.
+At first I thought it was destroyed.
+Eventually you will see the world change.
+We found this place along the way.
+I don't think he died in the wrong place. Can you wake up and go back in time?
+I finally understand what happened.
+My advice to everyone, don't waste your time, all shipping costs are included.
+Then I came... and now I am here.
+hmm
+#GOBLIN_RUNBASEDMULTILINE_FOYER_STOPPER
+,
+... I am waiting
+#GOBLIN_DAMAGED
+Respect
+a shame?
+//-----------------------------------------gunsling king
+#GUNKING_CELL_INITIAL
+Perfect! Get out of jail you bastard
+maybe you can
+Meet the new manager. See you again
+Go to the service
+#GUNKING_CELL_REPEAT
+After the trial, the boy returned. Found in Britain.
+#GUNKING_INTRO
+Scary...
+#GUNKING_CHALLENGE_A
+I cried because he couldn't clean my room.
+There is nothing more dangerous than that!
+#GUNKING_CHALLENGE_B
+Our goal is to prevent scammers like you from using our servers...
+fixed!
+#GUNKING_CHALLENGE_C
+I can't leave the other room.
+NPCs change over 100%!
+#GUNKING_CHALLENGE_OFFER_REWARD
+Tell me what can I do, I agree.
+Otherwise, %NPCNUMBER1 %CURRENT_SYMBOL is returned, which was not part of the successful request.
+#GUNKING_CHALLENGE_NOMONEY
+Return %NPCNUMBER1 %CURRENCY_SYMBOL to confirm.
+#GUNKING_CHALLENGE_ACCEPT
+<BET%NPCNUMBER1%CURRENCY_SYMBOL> answers the call
+#GUNKING_CHALLENGE_REJECT
+No one will help!
+#GUNKING_CHALLENGE_ACTIVE
+Better than _____! I found a lot of interesting things on your site. Rules:
+#GUNKING_CHALLENGE_REJECTED
+The Palestinians know how strange this is.
+#GUNKING_CHALLENGE_TALK_AFTER_COMPLETE
+Use your own judgment.
+#GUNKING_CHALLENGE_TALK_AFTER_FAILURE
+Yes, I am a farmer. They are not interested
+#GUNKING_SUCCESS_HEADER
+Solve the case
+#GUNKING_SUCCESS_BODY
+Return to Archer King.
+#GUNKING_FAIL_HEADER
+The process is not over yet.
+#GUNKING_FAIL_BODY
+someone or something...
+#GUNKING_CHALLENGE_SUCCESS
+The cake is very healthy! Viktor: Tamara
+#GUNKING_CHALLENGE_REWARD
+We will pay our employees, suppliers and wages fairly. % NPCNUMBER1 % CURRENCY_SYMBOL
+#GUNKING_CHALLENGE_FAILURE
+Do not send invalid signals to %PLAYER_NAME.
+#GUNKING_ALREADY_CLEARED
+Show your amazing talent. See you soon... Have fun!
+#GUNKING_ACED_10
+You are not responsible for our party.
+If not, please contact us.
+but now...
+#GUNKING_ACHIEVEMENT_REWARD
+seems reasonable to me
+Don't say I don't like it.
+The product has been sent to the orders department
+Now doubts
+#GUNKING_TAKE_PLAYER_DAMAGE
+Palestine!
+I am
+I'm not lying!
+#GUNKING_FOYER_CHAT
+Start a new project
+Within the walls of your body is your soul.
+I will watch the game after the break.
+Discover us and our resources.
+Now we rest.
+#GUNKING_RUNBASEDMULTILINE_FOYER_GENERIC
+friendship
+Your success is your greatest wealth, because you still live in a prison full of weapons.
+He is a very friendly waiter. Tell us your opinion.
+But integration will not be possible. We do not understand the concept of infinity.
+#GUNKING_RUNBASEDMULTILINE_FOYER_STOPPER
+I will help you
+//-----------------------------------------manservantes
+#MANSERVANT_CELL_REPEAT
+...
+#MANSERVANT_INTRO
+And
+#MANSERVANT_REWARD
+So...you...%CURRENT_SYMBOL
+#MANSERVANT_FAILURE
+,
+#MANSERVANT_RUNBASEDMULTILINE_FOYER_GENERIC
+,
+,
+,
+,
+And:
+I
+That's why I'm here.
+I don't want to go out
+#MANSERVANT_RUNBASEDMULTILINE_FOYER_STOPPER
+You
+//-----------------------------------------oldman
+#OLDMAN_INTRO_A
+Another Dangerous Journey!
+#OLDMAN_GIFT_A
+Accept it and let the silent pain fill your heart.
+#OLDMAN_INTRO_COOP
+I don't need your help.
+Please!
+#OLDMAN_OUTRO_A
+Too bad we're not together!
+- Who needs that?
+#OLDMAN_HIT_A
+Astonishing!
+What are you talking about! Just make threats!
+I heard
+I lost my life
+//-----------------------------------------Blacksmith
+#BLACKSMITH_FIRST_INTERACTION_01
+It belongs to a very distant past
+I want to kill you of course I tried everything.
+#BLACKSMITH_FIRST_INTERACTION_02
+Everything seems simple, but something is wrong.
+#BLACKSMITH_INITIAL_EXPLANATION_A
+what did you say
+#BLACKSMITH_INITIAL_EXPLANATION_B
+i know what i want
+#BLACKSMITH_INITIAL_EXPLANATION_01
+Guns kill people, not bullets.
+Or...infinite magic...infinite magic
+Same army, but for how long?
+you can go here
+Move forward and change the past.
+A special drill {b} {vj} is required to make the second hole.
+It is possible, but the problem is very complex.
+#BLACKSMITH_EXPLANATION_DECLINED_01
+take the rope
+#BLACKSMITH_SECONDARY_EXPLANATION_A
+You can say whatever you want
+#BLACKSMITH_SECONDARY_EXPLANATION_B
+Who are you and what do you think of yourself?
+#BLACKSMITH_INITIAL_IDENTITY_EXPLANATION_01
+I didn't even have time to think about taking a picture.
+You are not the first.
+#BLACKSMITH_PRELIST_FIRST_TIME
+woman...
+#BLACKSMITH_PRELIST
+So what do you need…
+#BLACKSMITH_SHARED_ELEMENT_01
+There are no rooms on the second floor.
+#BLACKSMITH_SHARED_ELEMENT_02
+They find a hidden weapon in the center of the Congo
+#BLACKSMITH_SHARED_ELEMENT_03
+When the beads collided, there was a massive explosion.
+#BLACKSMITH_SHARED_ELEMENT_04
+The obsidian shell contains the teeth of large animals.
+#BLACKSMITH_INITIAL_CLOSURE_01
+Your whole life is mine...and I will find it for you.
+#BLACKSMITH_REPEAT_WELCOME_01
+I will say
+#BLACKSMITH_REPEAT_A
+i am something
+#BLACKSMITH_HAVENOTHING_LEAVE
+Congratulations!
+#BLACKSMITH_TOTAL_WASTE_OF_TIME
+you do not have
+#BLACKSMITH_ASK_FOR_SPECIFIC
+You must enter %NPCRPLACEMENT.
+#BLACKSMITH_BROUGHT_SOMETHING_TWICE
+Using %NPPLACEMENT
+#BLACKSMITH_GIVE_ITEM
+Enter <%NREPLACEMENT> here.
+#BLACKSMITH_DONT_GIVE_ITEM
+No, I can't now.
+#BLACKSMITH_GIVEN_ITEM
+OK thank you
+#BLACKSMITH_DENIED_ITEM
+other
+trust me
+But there is still time.
+I think you have all the time in the world.
+#BLACKSMITH_THANKS_STILL_NEED_MORE
+He asked her a few questions.
+#BLACKSMITH_DENIED_ITEM_GOODBYE
+You have to lose to get out.
+#BLACKSMITH_COOPCULTIST_GO_AWAY_01
+no time to study
+#BLACKSMITH_RECEIVED_EVERYTHING_01
+Hmm... you said it was good.
+Do not use this medicine for a long time.
+Two cups of coffee are enough. If not the first...
+//---this line should unlock the achievement
+//---Also PT1 should be followed by the PT2 below, both for the first time, and for the "back again"
+#BLACKSMITH_COMPLETED_PT1_BULLET_01
+You are there for me
+#BLACKSMITH_REPEAT_B
+Everything you need
+#BLACKSMITH_WAS_THERE_SOMETHING_ELSE
+Changes are being made
+#BLACKSMITH_SOMETHING_ELSE_A
+Because you are here
+#BLACKSMITH_SOMETHING_ELSE_B
+Yes
+#BLACKSMITH_RECEIVED_BACK_FOR_ANOTHER_BULLET_PT1
+The medicine seems to be starting to work.
+It was the bomb.
+#BLACKSMITH_BULLET_PT2_FOR_PILOT
+Rare result
+#BLACKSMITH_BULLET_PT2_FOR_CONVICT
+Oh... he doesn't go to school.
+#BLACKSMITH_BULLET_PT2_FOR_MARINE
+Put the soldiers on the beach.
+#BLACKSMITH_BULLET_PT2_FOR_HUNTER
+Long time no see. Everything will be fine.
+#BLACKSMITH_IDENTITY_EXPLANATION_01
+He tried to soften the hand of the founder of the Kingdom.
+The mage took control and his eyes fell on the weapon. But I love pure music.
+she still loves him
+Some people use only one eye and walk with a cane.
+They were afraid of losing this magical weapon in the ancient world.
+I think that's true...
+Then I hit a big ball and never looked back.
+#BLACKSMITH_IDENTITY_EXPLANATION_02
+It will be reviewed soon.
+No wonder he is a frequent guest in Israel.
+The space in front of the Canto was packed with people who had arrived in the morning.
+#BLACKSMITH_IDENTITY_EXPLANATION_03
+Their paths crossed and the legend of Kangwondo was born.
+two, failure, success, success, victory
+For those who heard this song, there is a demo version. Or at least some people think so.
+#BLACKSMITH_IDENTITY_EXPLANATION_04
+Why it started and where it came from is still unknown.
+Phone:
+#BLACKSMITH_IDENTITY_EXPLANATION_05
+My brother bought a new gun, a new invention.
+Sometimes you want to lose count…
+I work in this building.
+#BLACKSMITH_IDENTITY_EXPLANATION_06
+When can we start...
+My head is spinning again.
+Because I'm not there.
+But I don't think we'll run out of ammo.
+Pure power is given to those who know the world.
+//------------------------Blacksmith Runbased Multiline
+#BLACKSMITH_RUNBASED_MULTILINE_GENERIC
+Hey, let's do something else.
+I hope one day
+You have an army and you have to do something.
+Good morning! I have more power, it's interesting
+The growth here has been phenomenal. But I have to take care of my children.
+#BLACKSMITH_RUNBASED_MULTILINE_STOPPER
+in the field
+you don't talk
+I want to suffer
+//------------------------Arm Quest
+#BLACKSMITH_ARM_PICKUP
+Manas could raise the bull's arm if he wanted to.
+Still full to try to get out.
+Looking forward to getting more
+We need to find a way...
+#BLACKSMITH_ARM_PICKUP_AGAIN
+I am sure he will be very happy.
+Again please.
+//-----------------------------------------blacksmith Robot
+#BLACKSMITH_BROUGHT_BUSTED_TV
+turn on the tv! beauty...
+No
+#BLACKSMITH_GIVE_BUSTED_TV
+<back%NPREPLACEMENT>
+#BLACKSMITH_THANKS_BUSTED_TV
+Thank you...
+#BLACKSMITH_DENIED_BUSTED_TV
+Why do you buy?
+//---robot comes to life, says this, does the chest open animation, and teleports out. then you get the achievement
+#ROBOT_FIRST_COME_TO_LIFE
+AND
+#BLACKSMITH_AFTER_ROBOT
+Sound like a lot?
+//----------------------------------------Sherpa Initial Encounter
+#SHERPA_INITIAL_CONTACT_01
+: specify
+#SHERPA_INITIAL_QUESTION_01
+What it means?
+#SHERPA_INITIAL_QUESTION_A
+Who are you?
+#SHERPA_INITIAL_QUESTION_B
+I don't want anything
+#SHERPA_INITIAL_EXPLANATION_01
+I am a traveler and have traveled a long time.
+I think he will die one day.
+#SHERPA_QUESTION2_A
+But it was his duty.
+#SHERPA_QUESTION2_B
+Hello sir or madam, I need my birth certificate.
+#SHERPA_INITIAL_EXPLANATION_02
+First floor only...
+But you can learn a lot with the right tools.
+The key combination is %PLIER_NICK.
+#SHERPA_QUESTION3_A
+How should it be treated?
+#SHERPA_QUESTION3_B
+I can not call!
+#SHERPA_INITIAL_EXPLANATION_03
+I'm angry, it's not easy. {small}
+#SHERPA_NO_DOUBT
+Mr! It takes time.
+#SHERPA_HEADED_TO_BREACH
+Come back in fashion and let me know if you have a chance.
+#SHERPA_INITIAL_BRIEF_GOODBYE_01
+amazing...
+#SHERPA_INITIAL_GOODBYE_01
+Hello
+It was worth the price.
+#SHERPA_DAMAGE
+where did you come from!
+He continues!
+I think we are a team!
+//-----------------------------------------Elevator Sherpa, In Foyer Before Unlocked
+#SHERPA_FIRST_FOYER_CONVERSATION
+Yes, thank you again
+I stay here because there are many elevators in this room.
+But there's still a lot to do.
+Room 2 is opposite the elevator.
+#SHERPA_REPEATED_FOYER_CONVERSATION
+It was a tough day. creatively
+In this case, use the front door.
+Meet in the room by the elevator.
+#SHERPA_PRESS_DEMO_WALKAWAY_01
+Reported page: %PLAIER_NICK.
+Anti
+truth
+//----------------------------------------Elevator Sherpa, Elevator Room
+#SHERPA_ELEVATOR_ROOM_FIRST_TIME
+Are you here?! Thanks for your comment
+Discover the results together.
+Take the elevator to the first floor.
+#SHERPA_ONE_ELEVATOR_TALK
+It's not that hard. The rest is empty.
+Look at the third room.
+#SHERPA_TWO_ELEVATOR_TALK
+There are only 2 lifts and 1 stairway in the building.
+Hello Sir or Madam, I am waiting for 4 items.
+#SHERPA_THREE_ELEVATOR_TALK
+Finally, the last step! All values above are *$%#@^
+Go to room 5 to check cleanliness.
+#SHERPA_PRESS_DEMO_PLAYER_DAMAGED
+Do not bring weapons here.
+#SHERPA_SHORTCUT_GUNGEON
+Is it another location on Earth 2?
+#SHERPA_SHORTCUT_MINES
+The Complete Adventure 3! number
+#SHERPA_SHORTCUT_CATACOMBS
+Relevant: Case 4
+#SHERPA_SHORTCUT_FORGE
+5. Avoid mistakes.
+#SHERPA_SHORTCUT_BOSSRUSH
+drop it!
+#SHERPA_SHORTCUT_SUPERBOSSRUSH
+What a unique challenge!
+The Prime Minister's work continues.
+//------use this next one for each unlock.
+#SHERPA_UNLOCK_DONE_REWARD
+while working on the elevator I found something useful
+But he didn't know where to look, so he squeezed her shoulder. lie
+Who knows what's in that hole...
+#SHERPA_BOSSRUSH_ELEVATOR_UNLOCK
+You are funny
+Now that you've saved me, I feel like I can do more for you.
+I looked at some of the sources you listed.
+And the first one is free!
+//---Requires having beat the sewer, resourceful rat, rival, shopkeep, cathedral, and bullet hell, and beat normal boss rush.
+#SHERPA_SUPER_BOSSRUSH_ELEVATOR_UNLOCK
+Hi, I have a new elevator. Avoid hackers
+#SHERPA_BOSSRUSH_COSTWARN
+The only downside to this elevator is that you have to build it yourself, so you have to pay to use it.
+Valid path: %NPCNUMBER1 % META_CURRENCI_SYMBOL
+#SHERPA_BOSSRUSH_COST_REMIND
+This is %NPCNUMBER1 %META_CURRENCY_SYMBOL
+#SHERPA_BOSSRUSH_NOMONEY
+%NPCNUMBER1 does not contain %META_CURRENT_SYMBOL. Unfortunately, I cannot work alone.
+#SHERPA_BOSSRUSH_COST_RESPONSE_OK
+Let's get together! The key is <%NPCNUMBER1%META_CURRENCY_SYMBOL>
+#SHERPA_BOSSRUSH_COST_RESPONSE_NO
+thanks again
+#SHERPA_BOSSRUSH_COST_CONFIRM
+You can drive.
+#SHERPA_BOSSRUSH_COST_RESPONSE_NOPE
+And the end
+#SHERPA_RUNBASEDMULTILINE_GENERIC
+Use the elevator
+Thank God I have a secret
+Winchester... I think he's a nice guy.
+Better you have your own room. The green lizard turned into a tree.
+I can't remember the names of these adventurers, but I love them.
+It is important to know what happened. I want to play with Oki.
+I want to go
+#SHERPA_RUNBASEDMULTILINE_STOPPER
+description:
+//----------------------------------------Sherpa Unlock 1, Step1
+#SHERPA_UNLOCK1_STEP1_INITIAL
+Good morning! I followed your solution but I need information about this problem.
+The bullet deals damage. I have something to give
+Cancel %NPCNUMBER1% BLANK_SYMBOL
+#SHERPA_UNLOCK1_STEP1_REMINDER
+EXPORT %NPCNUMBER1% AS BLNK_SYMBOL Run it here when you find it.
+#SHERPA_UNLOCK1_STEP1_HAVE
+Lift %NPCNUMBER1 %BLNK_SYMBOL Lift available?
+#SHERPA_UNLOCK1_STEP1_RESPONSE_GIVE
+<%NPCNUMBER1%BLNK_SYMBOL>Continue
+#SHERPA_UNLOCK1_STEP1_THANK_YOU
+Thank you very much!
+//-----------------------Generic stuff, should fit with each step, put here so the first one is readable.
+#SHERPA_RESPONSE_KEEP_GENERIC
+It seems to be over
+#SHERPA_NEED_MORE_GENERIC
+It wasn't there before
+I kissed you
+We are a good team
+#SHERPA_NOPE_GENERIC
+Come back if you change your mind
+#SHERPA_EVERYTHING_GENERIC
+from where? Tag me if you're around.
+See you at the party!
+We are a big team.
+#SHERPA_EVERYTHING_CLEAR_MORE_BOSSES
+You just have to wait for the right person to come along.
+#SHERPA_MASTERY_TOKEN_GENERIC_NOTPOWERFULENOUGH.
+A powerful spell, but not far.
+Can I order something stronger?
+#SHERPA_NOTE_NOT_HERE
+thank you for this product
+
+shape you
+//----------------Shortcut Unlock1, Step 2
+#SHERPA_UNLOCK1_STEP2_INITIAL
+You can delete the number. But you have to back it up.
+Can you help me find %NPCNUMBER1%CURRENCY_SYMBOL and %NPCNUMBER2%KEY_SYMBOL?
+#SHERPA_UNLOCK1_STEP2_REMINDER
+When you see %NPCNUMBER1% CURRENT_SYMBOL and %NPCNUMBER2% KEI_SYMBOL.
+#SHERPA_UNLOCK1_STEP2_HAVE
+What are you doing here! I have %NPCNUMBER1% CURRENT_SYMBOL and %NPCNUMBER2% KEI_SYMBOL to boot!
+can
+#SHERPA_UNLOCK1_STEP2_RESPONSE_GIVE
+then <%NPCNUMBER1% CURRENCI_SYMBOL and %NPCNUMBER2% KEI_SYMBOL>
+#SHERPA_UNLOCK1_STEP2_THANK_YOU
+Thank you very much
+//----------------Shortcut Unlock1, Step 3
+#SHERPA_UNLOCK1_STEP3_INITIAL
+There are many ideas. But I want to emphasize one thing.
+%NPCNUMBER1% looking for META_CURRENT_SYMBOL?
+#SHERPA_UNLOCK1_STEP3_REMINDER
+%NPCNUMBER1% needs META_CURRENCI_SYMBOL to work.
+#SHERPA_UNLOCK1_STEP3_HAVE
+Can I order this item %NPCNUMBER1% META_CURRENCI_SYMBOL?
+#SHERPA_UNLOCK1_STEP3_RESPONSE_GIVE
+This is <INSERT%NPCNUMBER1%META_CURRENCI_SYMBOL>.
+#SHERPA_UNLOCK1_STEP3_THANK_YOU
+Thank you very much, I wrote!
+//----------------Shortcut Unlock1, Step 4
+#SHERPA_UNLOCK1_STEP4_INITIAL_MULTILINE
+I feel like eating something
+First, you will need the magic tool {wj}{w}. Do not apply the product directly to the ear.
+Can you offer something similar?
+#SHERPA_UNLOCK1_STEP4_REMINDER_SEQUENTIAL
+The elevator requires more magic power than the first room.
+I heard that Gunjan commands a powerful guard and gives powerful things.
+#SHERPA_UNLOCK1_STEP4_HAVE
+NOW! %CHAMBER1_MASTERI_TOKEN_SYMBOL You need this token to use the elevator.
+#SHERPA_UNLOCK1_STEP4_RESPONSE_GIVE
+<%CHAMBER1_MASTERY_TOKEN_SYMBOL> Save and continue.
+#SHERPA_UNLOCK1_STEP4_THANK_YOU
+beauty! Thank you for the correction.
+//----------------------------------------Sherpa Unlock 2, Step1
+#SHERPA_UNLOCK2_STEP1_INITIAL
+You planted a big tree. Can you provide %NPCNUMBER1% ARMOR_SYMBOL?
+#SHERPA_UNLOCK2_STEP1_REMINDER
+Requires %NPCNUMBER1% ARMOR_SYMBOL. If so, find out here.
+#SHERPA_UNLOCK2_STEP1_HAVE
+%NPCNUMBER1% ARMOR_SYMBOL Remove?
+#SHERPA_UNLOCK2_STEP1_RESPONSE_GIVE
+Enter <%NPCNUMBER1%ARMOR_SYMBOL>.
+#SHERPA_UNLOCK2_STEP1_THANK_YOU
+thank you everything is going well he is working
+//----------------Shortcut Unlock2, Step 2
+#SHERPA_UNLOCK2_STEP2_INITIAL
+I have a tree and I want to order another one.
+Can I use %NPCNUMBER1% CURRENT_SYMBOL and %NPCNUMBER2% KEI_SYMBOL?
+#SHERPA_UNLOCK2_STEP2_REMINDER
+If you have %NPCNUMBER1% CURRENT_SYMBOL and %NPCNUMBER2% KEI_SYMBOL, you will find them here.
+#SHERPA_UNLOCK2_STEP2_HAVE
+User of %NPCNUMBER1 CURRENCY_SYMBOL and %NPCNUMBER2% KEY_SYMBOL
+Disagreement
+#SHERPA_UNLOCK2_STEP2_RESPONSE_GIVE
+My location is <%NPCNUMBER1% CURRENCI_SYMBOL and %NPCNUMBER2% KEY_SYMBOL>
+#SHERPA_UNLOCK2_STEP2_THANK_YOU
+I looked for the text
+//----------------Shortcut Unlock2, Step 3
+#SHERPA_UNLOCK2_STEP3_INITIAL
+He especially needs an anointing.
+Can you enter %NPCNUMBER1% META_CURRENCI_SYMBOL?
+#SHERPA_UNLOCK2_STEP3_REMINDER
+The input must be %NPCNUMBER1% META_CURRENT_SYMBOL.
+#SHERPA_UNLOCK2_STEP3_HAVE
+%NPCNUMBER1% - META_CURRENT_SYMBOL Is there a specific site?
+#SHERPA_UNLOCK2_STEP3_RESPONSE_GIVE
+<SELECT HERE %NPCNUMBER1%META_CURRENCY_SYMBOL>
+#SHERPA_UNLOCK2_STEP3_THANK_YOU
+Thank you, your order has been cancelled!
+//----------------Shortcut Unlock2, Step 4
+#SHERPA_UNLOCK2_STEP4_INITIAL_MULTILINE
+Now it's hard, I want something stronger than before.
+Take the elevator to the next room and up the stairs.
+#SHERPA_UNLOCK2_STEP4_REMINDER_SEQUENTIAL
+You need two numbers to enter the elevator. If you find something, bring it here.
+#SHERPA_UNLOCK2_STEP4_HAVE
+Turn! %CHAMBER2_MASTERI_TOKEN_SYMBOL is required for the above update.
+#SHERPA_UNLOCK2_STEP4_RESPONSE_GIVE
+The value is <%CHAMBER2_MASTERY_TOKEN_SYMBOL>.
+#SHERPA_UNLOCK2_STEP4_THANK_YOU
+What power! You have to do a lot of work.
+//----------------------------------------Sherpa Unlock 3, Step1
+#SHERPA_UNLOCK3_STEP1_INITIAL
+%ESCAPE_ROPE_SYMBOL is required for security reasons.
+Can you find %ESCAPE_ROPE_SYMBOL?
+#SHERPA_UNLOCK3_STEP1_REMINDER
+You must use %ESCAPE_ROPE_SYMBOL to get here.
+#SHERPA_UNLOCK3_STEP1_HAVE
+Can you decipher %ESCAPE_ROPE_SYMBOL?
+#SHERPA_UNLOCK3_STEP1_RESPONSE_GIVE
+Type <ESCAPE_STRING_SYMBOL> here.
+#SHERPA_UNLOCK3_STEP1_THANK_YOU
+Thanks, I'm a doctor and I know that. no
+//----------------------------------------Sherpa Unlock 3, Step1 ALTERNATE
+#SHERPA_UNLOCK3_STEP1_INITIAL_ALT
+{vk} Yes, I am hungry.
+Did you find %NPCNUMBER1% JUNK_SYMBOL?
+#SHERPA_UNLOCK3_STEP1_REMINDER_ALT
+You can replace %NPCNUMBER1 with %JUNK_SYMBOL. You don't need money to start this business.
+#SHERPA_UNLOCK3_STEP1_HAVE_ALT
+You have %NPCNUMBER1 %JUNK_SYMBOL. Fortunately, it can be done!
+#SHERPA_UNLOCK3_STEP1_RESPONSE_GIVE_ALT
+<date%NPCNUMBER1%JUNK_SYMBOL>.
+#SHERPA_UNLOCK3_STEP1_THANK_YOU_ALT
+wait... what are we eating? Not sweet enough
+//----------------Shortcut Unlock3, Step 2
+#SHERPA_UNLOCK3_STEP2_INITIAL
+Now we are angry. New parts are needed.
+Can you find %NPCNUMBER1% CURRENCI_SYMBOL and %NPCNUMBER2% KEI_SYMBOL?
+#SHERPA_UNLOCK3_STEP2_REMINDER
+If you see %NPCNUMBER1% CURRENCY_SYMBOL and %NPCNUMBER2% KEY_SYMBOL, put them here.
+#SHERPA_UNLOCK3_STEP2_HAVE
+This is a good day %NPCNUMBER1% CURRENCI_SYMBOL and %NPCNUMBER2% KEI_SYMBOL. You can change the name.
+He understood me
+#SHERPA_UNLOCK3_STEP2_RESPONSE_GIVE
+Enter <%NPCNUMBER1% CURRENCI_SYMBOL and %NPCNUMBER2% KEI_SYMBOL>.
+#SHERPA_UNLOCK3_STEP2_THANK_YOU
+Thanks for the work!
+//----------------Shortcut Unlock3, Step 3
+#SHERPA_UNLOCK3_STEP3_INITIAL
+Honestly, I didn't expect this. Special President!
+Can %NPNUMBER1% set META_CURRENCI_SYMBOL?
+#SHERPA_UNLOCK3_STEP3_REMINDER
+%NPCNUMBER1 requires %META_CURRENCI_SYMBOL
+#SHERPA_UNLOCK3_STEP3_HAVE
+Can I order a %NPCNUMBER1% META_CURRENT_SYMBOL replacement?
+#SHERPA_UNLOCK3_STEP3_RESPONSE_GIVE
+Returns <%NPCNUMBER1%META_CURRENT_SYMBOL.
+#SHERPA_UNLOCK3_STEP3_THANK_YOU
+Thank
+//----------------Shortcut Unlock3, Step 4
+#SHERPA_UNLOCK3_STEP4_INITIAL_MULTILINE
+Now I prefer something more reliable than the third method.
+They are different
+#SHERPA_UNLOCK3_STEP4_REMINDER_SEQUENTIAL
+Music is needed to take the elevator to room 3. If you're looking for something, bring it to me.
+#SHERPA_UNLOCK3_STEP4_HAVE
+There is no one here! %CHAMBER3_MASTERI_TOKEN_SYMBOL TIN MUST be set
+#SHERPA_UNLOCK3_STEP4_RESPONSE_GIVE
+Enter <%CHAMBER3_MASTERI_TOKEN_SYMBOL> here.
+#SHERPA_UNLOCK3_STEP4_THANK_YOU
+Thanks Kim! love is hard to find
+//----------------------------------------Sherpa Unlock 4, Step1
+#SHERPA_UNLOCK4_STEP1_INITIAL
+I think this is the end.
+Unfortunately the only way is to remove everything.
+Let me know if you see anything like this.
+#SHERPA_UNLOCK4_STEP1_REMINDER
+I have to steal
+#SHERPA_UNLOCK4_STEP1_HAVE
+I need help around, can I use the lift?
+#SHERPA_UNLOCK4_STEP1_RESPONSE_GIVE
+Enter <%NREplacement>
+#SHERPA_UNLOCK4_STEP1_THANK_YOU
+Tora knelt down and thanked him.
+//----------------------------------------Sherpa Unlock 4, Step1 ALTERNATE
+#SHERPA_UNLOCK4_STEP1_INITIAL_ALT
+It's over, I can't believe it took so long.
+But it really turns me on. I don't know if I can fix it or not
+I don't know if anyone knows.
+We need incentives to open up to more people.
+% NPCNUMBER1 % HEART_SYMBOL ok.
+#SHERPA_UNLOCK4_STEP1_REMINDER_ALT
+If you don't see the %NPCNUMBER1% HEART_SYMBOL symbol, you're dead.
+#SHERPA_UNLOCK4_STEP1_HAVE_ALT
+She is a delightful creature! All happiness! %NPCNUMBER1% - ROI. wash well
+#SHERPA_UNLOCK4_STEP1_RESPONSE_GIVE_ALT
+But... <sigh>
+#SHERPA_UNLOCK4_STEP1_THANK_YOU_ALT
+Thanks a lot! From there is happiness.
+//----------------Shortcut Unlock4, Step 2
+#SHERPA_UNLOCK4_STEP2_INITIAL
+The volcanoes are almost extinct. I bought a lot of equipment.
+Can I use %NPCNUMBER1%CURRENT_SYMBOL and %NPCNUMBER2%KEI_SYMBOL?
+#SHERPA_UNLOCK4_STEP2_REMINDER
+%NPCNUMBER1 must be %CURRENCI_SYMBOL. Here you will find %NPNUMBER2 KEI_SYMBOL!
+#SHERPA_UNLOCK4_STEP2_HAVE
+Come to think of it! %NPCNUMBER1 %CURRENT_SYMBOL and %NPCNUMBER2 %KEI_SYMBOL
+As in the picture
+#SHERPA_UNLOCK4_STEP2_RESPONSE_GIVE
+LOG: <%NPCNUMBER1% CURRENT_SYMBOL and %NPCNUMBER2% KEI_SYMBOL>
+#SHERPA_UNLOCK4_STEP2_THANK_YOU
+thank you
+//----------------Shortcut Unlock4, Step 3
+#SHERPA_UNLOCK4_STEP3_INITIAL
+If you know the rules, follow them.
+Is %NPCNUMBER1% of META_CURRENT_SYMBOL class?
+#SHERPA_UNLOCK4_STEP3_REMINDER
+This command requires %NPCNUMBER1% META_CURRENCI_SYMBOL
+#SHERPA_UNLOCK4_STEP3_HAVE
+%NPCNUMBER1% is similar to META_CURRENT_SYMBOL. Can I order spare parts?
+#SHERPA_UNLOCK4_STEP3_RESPONSE_GIVE
+This is <%NPCNUMBER1%META_CURRENT_SYMBOL>.
+#SHERPA_UNLOCK4_STEP3_THANK_YOU
+Thanks for stopping by.
+//----------------Shortcut Unlock4, Step 4
+#SHERPA_UNLOCK4_STEP4_INITIAL_MULTILINE
+To complete the quest, you need to find 4 powerful items in the room. when will this end
+It hurts but I believe you
+#SHERPA_UNLOCK4_STEP4_REMINDER_SEQUENTIAL
+This job requires efficient management of four elevators. If you see it, write here!
+#SHERPA_UNLOCK4_STEP4_HAVE
+%CHAMBER4_MASTERI_TOKEN_SYMBOL works. Fixed.
+#SHERPA_UNLOCK4_STEP4_RESPONSE_GIVE
+Go and enter <%CHAMBER4_MASTERI_TOKEN_SYMBOL>.
+#SHERPA_UNLOCK4_STEP4_THANK_YOU
+What happened! As now
+//-----------------------------------------smash tent
+#SMASH_DRSMASH_FULLHEALTH
+No, you are not lucky to see good things.
+#SMASH_DRSMASH_PRECURE_IDLE
+I'm sorry, but I must go on.
+#SMASH_DRSMASH_POSTCURE_IDLE
+i saw them
+#SMASH_DRGREET_FULLHEALTH
+Are you sure this is normal?
+#SMASH_DRGREET_GREET
+revives the soul
+#SMASH_DRGREET_ACCEPT
+we!
+#SMASH_DRGREET_DECLINE
+I can't say for sure.
+#SMASH_DRGREET_TREATMENT
+Now you're here...
+#SMASH_DRGREET_CURE
+You! That's wrong! Welcome to HM Medical School.
+We are glad
+that
+#SMASH_DRGREET_POSTCURE_IDLE
+will lose
+serious medical illness.
+#SMASH_DRGREET_TAKE_PLAYER_DAMAGE
+We are very fair!
+This is against Sana's permission.
+Enjoy the afternoon
+//-----------------------------------------metashopkeep - Cadence & Ox
+//-------Jailed
+#METASHOP_JAIL_CADENCE_INTRO
+finally!
+I know some people here. serious
+I met you!
+However, its sale was closed for a long time.
+Don't miss this opportunity, we are ready if you like.
+#METASHOP_JAIL_CADENCE_TALKAGAIN
+I go back to my apartment.
+Been there...experienced it?
+#METASHOP_JAIL_OX
+Thanks for the suggestions...
+First part...
+#METASHOP_JAIL_OX_CADENCE_PIPEUP
+OK let's start.
+you are still a little man
+#METASHOP_JAIL_OX_TALKAGAIN
+thank you -
+#METASHOP_JAIL_OX_TALKAGAIN_CADENCE_POPUP
+become a princess
+#METASHOP_OX_DAMAGED
+repair
+Accounting
+#METASHOP_GIRL_DAMAGED
+Surprise.Surprise.Beautiful!!!
+SO THAT
+//--------In Shop
+#METASHOP_SIGN
+Welcome to the Gandhi team.
+We share the power here. You can use %META_CURRENCI_SYMBOL. Craft new weapons and star gear
+On request, this product is available in the following collections:
+As with all Canzone treasures, use them as soon as you find them.
+Thank you very much for your apology. I am happy now
+//----first time, cadence and robot must be at counter.
+#METASHOP_CADENCE_BREACH_INITIAL
+This is the last one! Thanks for getting me out of this room
+Chicken box
+Enter %META_CURRENCI_SYMBOL. There are also new weapons and collectibles.
+Although rarely seen here, aliens persisted even after X-Mon.
+#METASHOP_CADENCE_BREACH_INITIAL_PLAYERRESPONSE_A
+we say good time
+#METASHOP_CADENCE_BREACH_INITIAL_PLAYERRESPONSE_B
+Right
+#METASHOP_CADENCE_BREACH_INITIAL_02
+Park or museum?
+Now let's fix everything.
+Luckily, X-Mon has to face the Rebels every now and then, so there's always a new challenge. Not everything is for sale!
+#METASHOP_CADENCE_BREACH_INITIAL_03
+Once your order has been placed, your item will be shipped in a new container.
+Make a to-do list and come back later.
+i know
+#METASHOP_CADENCE_BREACH_OX
+thanks for the help -
+The shop was full
+//------Normal behavior
+#METASHOP_PLAYERENTERED_CADENCE
+maintenance
+I don't want to thank you
+#METASHOP_PLAYERENTERED_OX
+work work
+Main.
+//------purchasing
+#METASHOP_PURCHASE_CADENCE
+nationality
+this line
+I want to call you
+#METASHOP_PURCHASE_OX
+Thanks for the help -
+They have options.
+temperature -
+#METASHOP_PURCHASE_NOMONEY_CADENCE
+we are not here
+Want more H$?
+You need more confidence
+I do not
+I was surprised that they removed the paint.
+suicide
+#METASHOP_PURCHASE_NOMONEY_OX
+You don't have enough money.
+Returns %META_CURRENT_SYMBOL
+#METASHOP_GIRL_LATER
+they still love it
+//-----drip drip TODO
+#METASHOP_CADENCE_RUNBASEDMULTILINE_GENERIC
+Talk to Demi about what to buy. No communication with customers.
+Sometimes my sister and I talk, but not much.
+But a nurse helped him.
+A call came from somewhere, but he didn't answer.
+#METASHOP_CADENCE_RUNBASEDMULTILINE_STOPPER
+extended period *{years}
+{} minutes}
+//---TODO below
+#METASHOP_OX_RUNBASEDMULTILINE_GENERIC
+On the wall...
+I do not know what you mean...
+I am interested in Miss Tully, but I have a plan…
+One day they ran happily.
+#METASHOP_OX_RUNBASEDMULTILINE_STOPPER
+,
+//----Arm Quest Stuff
+#METASHOP_ARM_UP_ONE_LEVEL_HEADER
+Public transport!
+#METASHOP_ARM_UP_ONE_LEVEL_BODY
+He walked to the corner of the room.
+//---If the arm has spawned in the foyer, they both must be at the counter
+#DELIVER_ARM_TO_OX_01
+...
+that's the plan
+#DELIVER_ARM_TO_CADENCE_01
+Cow! This is a new pair of jeans
+A grandmother is a mother.
+it can be big
+#DELIVER_ARM_TO_OX_02
+sore throat
+#DELIVER_ARM_TO_CADENCE_02
+what the hell
+it must be sugar
+And it will happen
+#DELIVER_ARM_TO_OX_03
+emotional response
+Well thank you
+#DELIVERED_ARM_OX_TALK_AGAIN_THANKS
+a good man -
+#DELIVERED_ARM_CADENCE_TALK_AGAIN_THANKS
+Thank you
+//-----------------------------SHOPKEEP
+#SHOP_ENTER
+1 Oh, you're still alive.
+0 | They didn't kick him out
+#SHOP_REENTER
+I forgot something
+#fakefakeremovethisafterE3
+It's incredible
+But I'm still alive
+Please take it
+Check out my products!
+#SHOP_EXIT
+0.6|Brain
+0.05|Great!
+0.15|Don't forget to reload.
+0.3| Another channel!
+#SHOP_NOMONEY
+I think it's important to fill your wallet.
+#fakefakefakeremoveaftere3
+there is such a thing
+%CURRENT_SYMBOL It's small, I forgot.
+be a dreamer
+It did not happen
+i like cats
+#SHOP_STEAL_COMMAND
+<address>
+#SHOP_PURCHASE
+a good choice.
+Now you can escape from the prison!
+peach
+The bark falls from the trees.
+Download and create a great blog
+Thanks a lot!
+Thanks for collaboration!
+#SHOP_RUNBASEDMULTILINE_GENERIC
+Focus on the ball.
+I'm following!
+Pucker your lips. This function is not available.
+Sticky lips don't hurt, but they do.
+Remember that buying a gun is risky.
+Others took grenades and did not shoot. Hello
+life and death are here
+Use %CURRENT_SYMBOL.
+die
+A card reader is required. I didn't find this store because I found it.
+I'm tired, but I can't go home
+There is a separate place in the house. Some say yes. I also think the same
+You have to sleep on the floor. Please keep your question confidential.
+The products they sell are different. I'm not telling the truth.
+Clean the cracks in the wall.
+If you don't have the key, open the chest, changing is not a good idea.
+My cat Ocelot and Gonzo get along well. I think we are the devil.
+Aliens are colonists, but most humans are not.
+You live in a very nicely decorated house.
+Sagittarius shows that human nature is wild and brutal.
+Call me a big-eyed freak with a 20 caliber and a shotgun, I don't want to see you.
+We sell weapons, accessories, hearts, keys and weapons and this is a huge advantage in the market.
+Reloading takes a long time, so save ammo.
+No one knows why people like guns but nothing else.
+#SHOP_RUNBASEDMULTILINE_STOPPER
+He doesn't want to talk
+Buy or download.
+to do
+#SHOPKEEP_BETRAYAL_WARNING
+Let's take it back.
+shake hands! There are no pictures in stock
+Chinese plum! More pictures
+#SHOPKEEP_ANGRYTOWN
+Double the price!
+stay with us
+Come on!
+#SHOPKEEP_ANGRY_CHAT
+i hate now
+Shop in my store
+Don't miss the business opportunity.
+If you want to see, the price will go up
+#SHOPKEEP_PURCHASE_ANGRY
+We have double the price.
+Deaf!
+Any size!
+We are proud to be your private client.
+#SHOPKEEP_CAUGHT_STEALING
+You must be very happy!
+we won't be back
+#SUBSHOP_GENERIC_CAUGHT_STEALING
+a thief
+#SHOP_GENERIC_NO_SALE_LABEL
+Function %PLIER_THIEF not found.
+//--------------SHopkeep Mimic
+#SHOPKEEPMIMIC
+Well... you're right.
+{VJ} Please buy my art.
+Current price
+#SHOPKEEPMIMIC_SAVED
+famous
+J is wrong
+And we...
+we are well
+//-----------------------------------------notes
+//--------------------------secret room notes
+#NOTE_BLOBULON_ARMY_001
+Dear brothers and sisters!
+
+You should come back in two weeks
+Our needs require your training.
+
+lost forever
+5. Medical staff of Hong Kong
+#NOTE_BLOBULON_ARMY_002
+A simple doll for children
+
+This is a very important message. thank you lord
+
+Read this article about older men with bangs.
+
+Second Lieutenant
+#NOTE_BLOBULON_ARMY_003
+A very beautiful flower!
+
+If you haven't seen it yet, think again.
+
+I sat down and they took me away. i know i love you
+
+I am here, always
+vegetative
+#NOTE_BLOBULON_ARMY_004
+0147:
+
+Smile when you get a message. Have you read all the posts?
+
+- opinion
+#SKELETON_NOTE_001
+Until further notice.
+
+I leave everything to the teacher.
+
+Ben Shamzi is cruel and unjust.
+#SKELETON_NOTE_002
+Very delicious.
+
+But I have a plan. This album is insane.
+#SECRET_NOTE_LB_01
+They can be saved in any format.
+
+Unfortunately, the only way to protect yourself from scammers is to be vigilant and careful.
+#SECRET_NOTE_LB_02
+Finding a place is important.
+
+I leave you, happy hunting and happy adventuring!
+#SECRET_NOTE_W_01
+I never thought the sun would rise.
+
+I'm not dead yet, sorry.
+#SECRET_NOTE_W_02
+put the gun down
+
+new
+#SECRET_NOTE_FM_01
+Lock him in another secret room.
+
+Wait for Maus to return. I don't know what I'm missing.
+#SECRET_NOTE_A_01
+Oh, you don't understand me! you asked
+
+- Radiation - Radiation
+#SECRET_NOTE_01
+I'm stuck even though I once thought I was dead
+
+I think it's a bad weapon.
+#SECRET_NOTE_02
+Print this page for future reference.
+#SECRET_NOTE_03
+the walls are shaking
+
+But it is very important! content!
+#SECRET_NOTE_04
+Not a stupid parrot with big eyes.
+
+I understand you have been here for a while.
+//-------------------------------other notes
+#TELEPORTER_TUTORIAL_NOTE_001
+Use the map to reach the teleport point.
+#PIT_TUTORIAL_NOTE_001
+You can avoid dents and cavities.
+
+- Conquest Beach
+#TABLE_TUTORIAL_NOTE_001
+White and removable.
+repeat
+
+- High
+//-----------------------------------------cathedral entrance
+#CATHEDRAL_PROMPT
+empty altar
+#CATHEDRAL_YES
+<Tradition>
+#CATHEDRAL_NO
+<Nu>
+//-----------------------------------------shrines
+#SHRINE_GENERIC_SPENT
+The ghost disappeared from the church.
+#SHRINE_HERO_DISPLAY
+家庭房设计思路 photos.
+write something...
+
+"kill first"
+You know it's going to happen
+Again
+#SHRINE_HERO_PRAY
+<strong words>
+#SHRINE_HERO_DECLINE
+<Yes>
+#SHRINE_BLANK_DISPLAY
+Message: "Warning..."
+otherwise empty
+#SHRINE_OFFER_BLANK
+<angry voice>
+#SHRINE_YV_DISPLAY
+Kangal Temple
+#SHRINE_YV_ACCEPT
+<Scientific article>
+#SHRINE_YV_DECLINE
+<again>
+#SHRINE_DICE_DISPLAY
+In the throne of the customs officer.
+#SHRINE_DICE_ACCEPT
+<use of legs>
+//curse (0-3)
+#SHRINE_CLEANSE_ACCEPT
+<drink water>
+#SHRINE_CLEANSE_DISPLAY_01
+Listen, don't argue with me
+//curse (3-4)
+#SHRINE_CLEANSE_DISPLAY_02
+dark
+//curse 5-6
+#SHRINE_CLEANSE_DISPLAY_03
+darkness surrounded him
+//curse 7-9
+#SHRINE_CLEANSE_DISPLAY_04
+Long wait, wine
+//curse 10
+#SHRINE_CLEANSE_DISPLAY_05
+I can't help you
+#SHRINE_HEALTH_DISPLAY
+Scatter Orbs... for you?
+#SHRINE_AMMO_DISPLAY
+Sheldon Church Groceries
+#SHRINE_DEMON_AMMO_ACCEPT
+looking back...
+#SHRINE_DEMON_AMMO_COMPLETE
+my friend
+#SHRINE_FALLEN_ANGEL_DISPLAY
+Drops Serious angel bite.
+#SHRINE_ACCEPT
+<Aram knelt down>
+#SHRINE_DECLINE
+<Note>
+#SHRINE_OFFER_GUN
+<victim>
+#SHRINE_OFFER_HEART_CONTAINER
+<Slaughterhouse>
+#SHRINE_CHALLENGE_DISPLAY
+Dark energy enveloped the entire temple.
+We are waiting for this image.
+#SHRINE_CHALLENGE_ACCEPT
+<Tomorrow>
+#SHRINE_CHALLENGE_DECLINE
+<result>
+//--------------------------------------------COP ITEM
+#COP_IDLE_CHAT_01
+I've had a few bad weeks.
+In 3 weeks...I'm so old
+Do you have all the family photos?
+Send your daughter to college, she is a good person.
+I'm 30 today, I don't need to buy weapons.
+You are weak, but a good fighter.
+Mentioned in other books.
+Are you crazy like McNutt?
+#COP_DEATH_CHAT_01
+girl...listen! Today is my last day at work. I'm waiting for you...
+...but it's not your fault.
+everyone
+We want to share it with you.
+But it's not your fault.
+{vj}-es-{v}
+I am different from my parents. Tell them you love them.
+#COP_REVENGE_HEADER
+different
+#COP_REVENGE_BODY
+In the world
+//--------------------------------------------Resourceful Rat
+#RESRAT_NOTE_ITEM
+Thanks %point% for the insult.
+
+-rr [spriteicon_night_resourcefall_001"]
+#RESRAT_NOTE_ITEMSPEC
+Thanks for the document
+
+-RR [Talent_Knight_Icon_001]
+#RESRAT_NOTE_GUNSPEC
+Thank you!
+
+-rr ["icon_night_resource_001"]
+#RESRAT_NOTE_AMMOSPEC
+Thanks Idiot Mango.
+
+-rr [sprite "genium_path_icon_001"]
+#RESRAT_FOUND_ME_INTRO
+I'm ready! Very sweet and strong
+Haha, I hate my mistakes.
+#RESRAT_FOUND_ZERO_NOTES
+What!? what do you think of me
+Success or failure?
+#RESRAT_FOUND_ME_4_OR_LESS_NOTES
+I don't have all the details...
+Are you twice lucky or a liar?
+#RESRAT_FOUND_ME_ALL_5_NOTES
+I think there are 5 places.
+#RESRAT_FOUND_ME_ALL_6_NOTES
+Please read my message carefully.
+#RESRAT_FOUND_ME_INTRO_002
+I can, but now the mouse seems to be stuck.
+I've been with you since I've been here
+Well, you know that cheese is sweet?
+//TODO write more rat stuff
+//------------------------------------------------mask gun
+#MASKGUN_ROOMCLEAR_ENMITY
+Workers rushed to close the gap.
+So try to fix
+One hour
+You will not die
+entrance door}
+What am I doing here
+#MASKGUN_ROOMCLEAR_BEGRUDGING
+... they agree
+Everything is fine
+I think that's all right.
+Let's use iron correctly.
+3 or more
+Maybe I didn't understand you
+#MASKGUN_ROOMCLEAR_FRIENDS
+We have a great team.
+Traditional
+price!
+Define the market
+Parallel!
+sad
+#MASKGUN_JEALOUS
+I am also looking for a similar rifle. He has a lot.
+Some mosquitoes are shadows. But mine is different.
+You might think you need a long-term relationship with a regular dog, but I do. do you love them
+//------------------------------------------------gunber muncher
+#MUNCHER_TWO_GUNS_01
+Münster has two public holidays.
+#MUNCHER_NEEDS_MORE_01
+Moore thought he could use other weapons...
+I have many cameras
+#MUNCHER_ONE_GUN_01
+Pigs eat dogs.
+#MUNCHER_ACCEPT
+<Bring the necessary projectiles>
+#MUNCHER_DECLINE
+<slowly>
+#MUNCHER_RESULT_01
+Use a loaded weapon with a new weapon.
+Not without reason! A new weapon for you!
+#MUNCHER_UNINTERESTED
+Without hands
+#MUNCHER_SATED
+He was happy and slept well.
+//------------------------------------------------Evil gunber muncher
+#EMUNCHER_TWO_GUNS_01
+The mouse is trapped
+#EMUNCHER_NEEDS_MORE_01
+The monk was still very hungry.
+#EMUNCHER_ONE_GUN_01
+Food has always been a weakness.
+#EMUNCHER_RESULT_01
+The accident led to a terrible and unexpected event.
+#EMUNCHER_UNINTERESTED
+Eaters hate guns.
+#EMUNCHER_SATED
+Muncher survived the winter.
+//------------------------------------------------frifle
+#FRIFLE_JAIL_RESCUE
+One day people will wake up.
+Examples of misspelled words that can accidentally kill us.
+thanks for the help
+#FRIFLE_JAIL_COMPLETE
+Let's start again.
+if you want to hunt
+#FRIFLE_FIRST_HUNT_INTRO_01
+But you have to fight
+#FRIFLE_FIRST_HUNT_INTRO_02
+Try %PLIER_NICK
+If this happens again...
+church
+Below is the list of defeated monsters.
+#FRIFLE_FIRST_HUNT_INTRO_03
+complete
+#FRIFLE_FIRST_HUNT_ACCEPT
+in real life?
+#FRIFLE_FIRST_HUNT_DECLINE
+be polite
+#FRIFLE_FIRST_HUNT_INTRO
+Anointed
+#FRIFLE_DECLINED
+science
+#FRIFLE_HUNT_COMPLETE
+If you are a bad hunter, don't touch your friend's cat.
+Oh, that's it. They were stained with the blood of their enemies.
+Your article has been published. I will write a chorus for your song.
+First! The latest version is back!
+#FRIFLE_NEXT_HUNT_INTRO
+But the hunt continues.
+#FRIFLE_GOODBYE
+Next time: %PLAYER_NICK
+#FRIFLE_HUNT_INCOMPLETE
+I still want it
+#FRIFLE_REMINDER
+If you forgot...
+#FRIFLE_DAMAGED
+Oh the struggle!
+I taste death!
+#FRIFLE_RUNBASED_MULTILINE_GENERIC
+//TODO
+#FRIFLE_RUNBASED_MULTILINE_STOPPER
+//TODO
+//------------------------------------------------mauser
+#MAUSER_JAIL_RESCUE
+help your work
+hear my name...
+french grey!
+...Sing...
+But it curbed my desire.
+Thank you
+#MAUSER_JAIL_COMPLETE
+is looking for
+#MAUSER_FIRST_HUNT_INTRO_01
+Lily, you don't.
+recently
+#MAUSER_FIRST_HUNT_INTRO_02
+Can't buy a seat.
+#MAUSER_FIRST_HUNT_INTRO_03
+My friend has blonde hair...
+During adventures, we collect many sources of energy.
+I am happy to share this list.
+#MAUSER_HUNT_COMPLETE_01
+There will be one.
+#MAUSER_HUNT_COMPLETE_PLACEHOLDER
+This will save you money. I hope that helps
+Selected for use in purchasing departments.
+I understand that you wrote this to protect your privacy.
+#MAUSER_HUNT_INCOMPLETE
+now
+#FRIFLE_HUNT_INCOMPLETE_REMINDER
+Then it returns %NPCNUMBER1%NR.
+#MAUSER_REMINDER
+I want to know one more thing...
+#MAUSER_DAMAGED
+he kissed me
+You have a soul
+#MAUSER_RUNBASED_MULTILINE_GENERIC
+//TODO
+#MAUSER_RUNBASED_MULTILINE_STOPPER
+//TODO
+//------------------------------------------------hunts
+#HUNT_BULLETMEN
+Take a look at the first contract of the most dangerous opponent...
+explosion
+I'm afraid to click %NPCNUMBER1 to go back here.
+#HUNT_SHOTGUNMEN
+Your next goal is to defeat Brother Bullet Heart's family.
+Click on %NPCNUMBER1 to contact us.
+#HUNT_GHOSTS
+The victim and the kidnapper are clearly visible in the photo below.
+Number of NPC girls
+#HUNT_BLOBS
+Bag! Thick brown paper used to wrap things.
+Stun and heal enemies.
+#HUNT_GUNNUTS
+Courage meets courage.
+Help NPCNUMBER1 in real-time combat.
+#HUNT_WIZARD
+Fornication is the most difficult thing.
+hippocampus NPCNUMBER1 died
+#HUNT_MAIDENS
+A hunter is not afraid of death.
+%NPNNUBBER1.
+#HUNT_MINELETS
+Thanks for the effort but Mint had to go.
+Please contact us if you have %NPCNUMBER1.
+#HUNT_FUNGUNS
+I followed the huge mushroom to the end of the tunnel.
+Kill NPCNUMBER 1 as a bonus battle.
+#HUNT_SKULLETS
+He fell in love with us the first time we met. Now we have to kill the leader...
+Their souls crumbled like bones and they returned to kill %NPCNUMBER1.
+#HUNT_SHELLETONS
+There is nothing worse than what Sheldon has been through in the last four years.
+Prove you're strong by winning %NPNUMBER1!
+#HUNT_REVOLVENANT
+Ask this old man from Huck.
+fanatic! Enter %NPCNUMBER1 and click.
+#HUNT_GULL
+Cattle and shepherds.
+Kill NPNUMBER in battle for the prize.
+#HUNT_BEHOLSTER
+Check the information.
+Killing the giant NPCNUMBER1 once will make you rich.
+#HUNT_STATUES
+part of me
+There are four large statues in the depths of the cave. I saw the treasure with my own eyes.
+Last Win/Loss: %NPCNUMBER1.
+#HUNT_DRAGUN
+In the middle of the fifth room is a huge monster.
+I've never seen hair like that.
+Yes, your friend %NPNUMBER1. I am proud of your story.
+#HUNT_THEBEAST_GENERIC
+% Cultivation system.
+Today we are looking for candy.
+However, I have a few suggestions.
+Go to Njoko's location and start a new quest.
+#HUNT_GENERIC
+NPREC again.
+#HUNT_JAMMED_GENERIC
+The damage is limited in time.
+#HUNT_KILLNUMBER_GENERIC
+Play NPNUMBER1 and pick a winner.
+Press %NPCNUMBER1 and hear the recorded name!
+%NPCNUMBER1 Found Your gift code has been returned.
+Victory vs. game %NPNUMBER1.
+#HUNT_COMPLETE_HEADER
+The hunt is over.
+#HUNT_COMPLETE_BODY
+Gray calf and rat.
+//------------------------------------------------pasts
+//-----------------------------------------------PILOT PAST
+#PILOTPAST_PILOT_01
+pen! still!
+#PILOTPAST_Z_01
+Grab your space horse and wait for the right moment.
+But you don't have to go anywhere for that.
+suspect...
+Registration...
+#PILOTPAST_HEG_01
+The ship is about to leave. Update "sword".
+Your ship was scanned and found to be human.
+Most tractor driving.
+Disable all settings except safe mode.
+Discipline is unacceptable.
+Do this for 20 seconds.
+#PILOTPAST_Z_02
+Well, there's no time for regrets
+#PILOTPAST_PILOT_02
+But I don't understand your point.
+#PILOTPAST_Z_03
+starting with {wj} {in}
+#PILOTPAST_PILOT_03
+I miss you
+#PILOTPAST_Z_04
+Product!
+#PILOTPAST_FIGHT
+The system directs all energy to the right.
+#PILOTPAST_RUN
+i ate
+#PILOTPAST_FUCKTHAT
+not now not now
+#PILOTPAST_Z_VICTORY
+will happen! where did you learn to drive?
+#PILOTPAST_Z_VICTORY_COOP
+ok
+#PILOTPAST_PILOT_VICTORY
+... Other
+//so sad to lose this line but its too dumb. For now, let's get all this highly addictive and illegal spice to our child buyers.
+//TODO maybe write somethign better to end on here?
+#PILOTPAST_Z_VICTORY_02
+Don't mention it!
+//----------------------------------------------CONVICT PAST
+#CONVICTPAST_THOUGHTS_01
+... recently
+#CONVICTPAST_YOITSTHEHMON
+Should X be white?
+I don't know when it will come. Several members of the group were arrested.
+It is no longer necessary.
+If you're bored, we're all here.
+#CONVICTPAST_THATWASDOPE
+He is a very busy boss. you must attend
+for the car
+#CONVICTPAST_LL_01
+,
+What is that idiot doing there?
+#CONVICTPAST_BALDO_01
+This is our job.
+How long does LL last?
+The industry does not accept being a role model.
+#CONVICTPAST_LL_02
+We have lots of puppies for you!
+i will do it
+#CONVICTPAST_BALDO_02
+Thank you for your trust. However, this page is fully loaded.
+I have a job.
+#CONVICTPAST_BOOKING
+Hegemuniberger 83H4-Y59, real name Lillie Reiser, was arrested for conspiracy. other costs
+We also invest in tax avoidance. Armed robbery, credit fraud, real estate fraud, etc.
+Support for arms and drug trafficking...
+Many battles with assassinations and intrigues.
+#CONVICTPAST_BOOKING_END_SP
+Excuse me
+#CONVICTPAST_BOOKING_END_COOP
+Invite your friends to study.
+#CONVICTPAST_DECISION
+Keep your hands on the table.
+#CONVICTPAST_DONTGOQUIETLY
+Find <background image>
+#CONVICTPAST_GOQUIETLY
+<Turner> Professional development
+#CONVICTPAST_BACKUPGOQUIETLY
+It is possible
+#CONVICTPAST_FUCKTHAT
+I won't stay, I won't come back
+#CONVICTPAST_BALDO_BOSS_INTRO
+I'm not waiting
+But now you're out of the trap. You cannot survive in this room.
+my son...
+I play
+#CONVICTPAST_BALDO_DYING_01
+...Not me
+#CONVICTPAST_BALDO_LEAVING
+Unfortunately it's not worth it. this unit
+You won't succeed
+//-----------------------------------HUNTER PAST
+#DOG_YIP
+Appearance
+#DOG_YIPYIP
+That
+#DOG_RRR
+Change {v} to {v}
+#GUIDEPAST_INSPECTMACHINE
+I don't know what they used here, but I know it doesn't work.
+#GUIDEPAST_INSPECTCRYO
+This picture is 1000 years old.
+I don't want to see Cole.
+A member of the Cyber Black Army of the Frozen Universe.
+#GUIDEPAST_INSPECTNAZI
+The knight has a black sword. But he was in no hurry.
+#GUIDEPAST_ZIPIT
+if possible
+#GUIDEPAST_OMINOUS
+It is terrible
+#GUIDEPAST_WOLF_01
+Yes! At last they parted.
+#GUIDEPAST_GUIDE_01
+Club Doctor Saya...
+#GUIDEPAST_WOLF_02
+Since you care about me, I hope you will help me in my last attempt!
+#GUIDEPAST_GUIDE_02
+No, you and all religions are different. I am here to give you the best.
+#GUIDEPAST_WOLF_03
+Is it time to expand your technology?
+I do not believe
+maybe you don't care
+#GUIDEPAST_WOLF_04
+I'm pretty sure it shouldn't.
+Your new body isn't ready yet. I didn't expect it so soon!
+Enjoy safe and healthy frozen food.
+this made me laugh!
+#GUIDEPAST_NOTTHISTIME
+this is the last one
+#GUIDEPAST_USEBLANK
+About <access management>
+#GUIDEPAST_GIVEUP
+Love
+#GUIDEPAST_NEVERGIVEUP
+And never! it's not cool anymore
+#GUIDEPAST_WOLF_05
+What happened to this industry... {asthma}
+Do not worry
+#GUIDEPAST_OUTRO_01
+This is him
+At least in this case.
+Baby!
+#GUIDEPAST_OUTRO_COOP
+And you
+If you want to go back to Gagnon, I've been swimming for about a thousand years.
+//-----------------------------------------MARINE PAST
+#PRIMERDYNE_CRAZY_001
+I am asking...
+lap...
+automatic check
+Let's all come together…
+I am laughing
+Everything is fine...
+#PRIMERDYNE_CELL_THOUGHTS_01
+Now I'm in prison and thinking about getting out.
+#PRIMERDYNE_CELL_THOUGHTS_02
+It's the fault of the service, but I'm not afraid anymore, I'm not afraid
+#PRIMERDYNE_DYING_SCIENTIST_001
+...friends...
+I have not seen it
+An error occurred during testing.
+fall out of the hole
+emergency lights
+hey...
+#PRIMERDYNE_DYING_SCIENTIST_RESPONSE_A
+<meeting>
+#PRIMERDYNE_DYING_SCIENTIST_RESPONSE_B
+<click here to save the cube>
+#PRIMERDYNE_DYING_SCIENTIST_SOLDIER_NO
+Not now
+#PRIMERDYNE_DYING_SCIENTIST_APPROVAL
+You can help them…
+#PRIMERDYNE_MARINE_ENTRY_01
+come to an agreement
+#PRIMERDYNE_OUTRO_01
+Save money and update daily.
+#PRIMERDYNE_OUTRO_02
+Thank goodness
+many died
+#PRIMERDYNE_OUTRO_02_COOP
+We support you and your friends.
+#PRIMERDYNE_OUTRO_03
+I don't think so either.
+Juventus' victory is complete.
+I wonder what would have happened if I hadn't been there.
+You are a hero
+#PRIMERDYNE_MARINE_CANT_LEAVE
+I would like to go to the lab, but I can't right now
+//-------------------------------------------CO-OP Past
+#COOPPAST_COOP_01
+Hello %PLAYER_NAME.
+#COOPPAST_COOP_02
+Second, I'm sick
+#COOPPAST_PLAYER_01
+What's are you waiting for?
+#COOPPAST_COOP_03
+I wrote a story here and now it's my story.
+#COOPPAST_PLAYER_02
+... I don't see it
+#COOPPAST_COOP_04
+to run!
+#COOPPAST_COOP_WIN_01
+I'm finally a hero!
+#COOPPAST_COOP_WIN_02
+...I have to...
+... are we wrong?
+#COOPPAST_PLAYER_WIN_01
+... who are you?
+#COOPPAST_PLAYER_WIN_02
+Seven o'clock!
+#COOPPAST_UTILITY_01
+The first step
+#COOPPAST_UTILITY_02
+Comment!
+//-------------------------------------------ResourcefulRat Shop
+#RESRAT_SHOP_INTRO_01
+I like using the keyboard.
+This is a new patent.
+You know you're a good customer.
+#RESRAT_SHOP_EXPLANATION_01
+We have a special offer for you.
+No problem in this case.
+My favorite customer is the best game.
+#RESRAT_SHOP_TALK_BEFORE
+buy one
+#RESRAT_SHOP_CHOSEN
+It's good to choose
+Until we meet again
+Place:
+#RESRAT_SHOP_OUTRO
+He hates it
+then %PLIER_NICK
+Apart
+#RESRAT_SHOP_RUNBASEDMULTILINE_GENERIC
+It's a great tool. I apologize for the mistake.
+He wasn't even a superhero before.
+You will be amazed at what others are doing.
+catch the ball
+Funny scene at the end.
+Tourists are great at finding treasure. But that's not a problem.
+#RESRAT_SHOP_RUNBASEDMULTILINE_STOPPER
+Funny football
+Please make sure…
+#RESRAT_DAMAGED
+Be careful!
+*****
+Avalanche!
+#BTCKTP_STATUE
+At the top of the tower is a huge monument.
+#CRYOBUTTON_INTRODUCTION
+Glory to him! Beauty below. Want to write a description?
+#CRYOBUTTON_AGREE
+Confirm <Save and Exit>
+#CRYOBUTTON_DISAGREE
+A cat is not a cat.
+#CRYOBUTTON_BRINGING_CRYOELEVATOR
+but okay please
+#CRYOBUTTON_NOT_BRINGING_CRYOELEVATOR
+Army!
+#CRYOBUTTON_OUCH
+i will write
+#CRYOBUTTON_CHANGEDMIND
+Interchangeable
+#CRYOBUTTON_DIDCHANGEMIND
+I don't want to rest
+#CRYOBUTTON_DIDNTCHANGEMIND
+I do not want to talk
+#CRYOBUTTON_BRINGING_ELEVATOR
+he wants to see you
+#CRYOBUTTON_ANNOYED
+Everyone is wasting their time.
+#SHRINE_JUNK_DISPLAY
+Yukon, one of Gangon's strongest knights, looks like a god.
+#SHRINE_JUNK_OFFER_JUNK
+<the full list>
+#SHRINE_GLASS_DISPLAY
+In the snow
+#SHRINE_GLASS_OFFER_JUNK
+<clip>
+#DAISUKE_FIRST_INTRO
+Together
+She was a strong woman, if I remember correctly.
+Use the Echo!
+%PLAIER_NICK laughs at everything.
+I'm busy at work...
+or do you think higher?
+maybe too easy
+pray for your day
+#DAISUKE_INTRO
+Want to stretch your legs?
+#DAISUKE_ACCEPT
+Search for <%NPCNUMBER1%META_CURRENT_SYMBOL>.
+#DAISUKE_DECLINE
+no less
+#DAISUKE_CANT_AFFORD
+He always wears a silver crown.
+I want more books!
+#DAISUKE_ACCEPTED
+Well, maybe there's something else.
+#DAISUKE_DECLINED
+It is not good for you
+#DAISUKE_RUNBASED_MULTILINE_GENERIC
+My blessings like diamonds reflect your experience.
+shame on god
+Come on, don't go around here.
+#DAISUKE_RUNBASED_MULTILINE_STOPPER
+huh...
+to give
+father
+newspaper
+five
+6.
+7.
+eight hundred
+Eight
+ten
+: INFORMATION
+twelve
+13% TEST PLAYER_NICK
+14 hours
+fifteen
+Sixteen
+17!
+18!
+19:00
+20 good questions
+#DAISUKE_JAIL_RESCUE
+but thanks! You told the last lie!
+My name is doctor. I am a huge fan of Ecosadol.
+If you like spicy, try Khao Tan.
+slowly!
+#DAISUKE_JAIL_REPEAT
+The results are still average.
+You should be happy.
+#DAISUKE_OFFER_MEGA_CHALLENGE
+Looking for good {wq}{w} candidates? Remember, it's an honor, not a prize.
+#DAISUKE_MEGA_YES
+Click on <%NPCNUMBER1%META_CURRENCI_SYMBOL>.
+#DAISUKE_MEGA_NO
+<silence>
+#DAISUKE_MEGA_ACCEPTED
+And you don't want to be alone
+#DAISUKE_MEGA_DECLINED
+A good choice!
+#SMASH_DRGREET_ROBOT
+Everyone feels good
+protect me
+#SMASH_DRGREET_ROBOT_AFTER
+hello little robot
+#SMASH_DRSMASH_ROBOT
+We were born fighters.
+I can't stop thinking about it!
+//-------------------------------------------Robot Past
+#ROBOT_PAST_WELCOMEBOT_01
+Welcome to the EMP-R0R blog. Go to the beginning of the presentation.
+#ROBOT_PAST_WELCOMEBOT_02
+is hiding
+#ROBOT_PAST_EMPEROR_01
+Ah... my hero!
+They kill more than any other sect.
+Leader of the opposition, you have destroyed the last hope of humanity.
+... They want to suppress this little uprising.
+Now...
+sulphur
+#ROBOT_PAST_PLAYER_RESPONSE_001A
+<static file>
+#ROBOT_PAST_PLAYER_RESPONSE_001B
+<Serious crime>
+#ROBOT_PAST_PLAYER_CANTDOIT_THOUGHTBUBBLE001A
+< no unlock command,
+#ROBOT_PAST_EMPEROR_02
+Have fun! You saved the world from a humanitarian crisis.
+A team of robot assassins destroy the remaining bugs.
+Now our dream has come true. No additional skills are required.
+Switch the power supply to energy saving mode.
+,
+//-------------------------------------------Bullet Past
+#BULLET_PAST_OLD_MAN_01
+Man, only you can save us.
+I tried old guns, but the concept was new to me.
+I use it as a shooting target.
+#BULLET_PAST_OLD_MAN_02A
+So {vk} is also {v}.
+#BULLET_PAST_OLD_MAN_02B
+He could not put out the fire.
+#BULLET_PAST_OLD_MAN_02C
+{v indeed, but {v}
+Black Mage (UK) has magical…
+#BULLET_PAST_OLD_MAN_03
+Fear of losing everything
+I cough wherever I am.
+Bad
+Sweet angel...
+#BULLET_PAST_OLD_MAN_DIE_01
+{vi} *date* {v}
+#BULLET_PAST_AGUNIM_01
+How are you?
+simultaneously
+The design is almost perfect. Here are some tips I recommend.
+All swords belong to this prince.
+I'm ready to forgive! {first part of word}
+I worked with teachers for a long time. But I am different.
+You stole a secret!
+Now go back to {VJ}. Go to your room, poor class {VK}.
+I think you are right
+#BULLET_PAST_AGUNIM_START_01
+{wq} I'm here. {IN}
+#BULLET_PAST_AGUNIM_DIE_01
+{vk} no... {vk}
+#BULLET_PAST_AGUNIM_DIE_02
+{qv}---- errrrrrr---{qv}
+#BULLET_PAST_PLAYER_RESPONSE_001A
+I want to delete
+#BULLET_PAST_PLAYER_RESPONSE_001B
+<back to the room>
+#BULLET_PAST_PLAYER_CANTDOIT_THOUGHTBUBBLE
+I can't be strong, dad.
+#BULLET_PAST_COMPLETE_TEXT_01
+After Egan was defeated, Ganon returned to Chaos to attack the Lord's forces.
+The family returns to the table to eat. The farmer's secret dance is fun.
+And innocent? No...
+In another story...
+///---------------------------------------------------Poop SHop
+#POOP_JAIL_INTRO
+I'm fine!
+I always feel stuck here.
+#POOP_JAIL
+Thanks again and hope to see you soon.
+#POOP_ROOM_ENTER
+Bad!
+#POOP_FIRST_INTRO
+Duck Travel Store sells only the best products.
+I don't like crazy people
+I decided
+#POOP_INTRO
+beauty! The Aqueduct Travel Store is back! Another great product for me.
+#POOP_PURCHASED
+Dining table
+#POOP_FAILED
+The choice of color is a bit obvious. %META_CURRENT_SYMBOL More...
+Don't waste your time.
+The outcome is unknown
+#POOP_GOODBYE
+Deposit!
+#POOP_TAKEPLAYERDAMAGE
+Give it to her!
+#POOP_RUNBASEDMULTILINE_GENERIC
+If you've never seen go underground
+When the wind blows, you need money
+Maybe not because of work.
+In 1990, when blue bells rang in the sky, I left my country.
+We know that wars are fought in clandestine shops. I love traveling
+My products are always safe.
+//dropping
+#POOP_RUNBASEDMULTILINE_STOPPER
+forward?
+#POOP_RUNBASEDMULTILINE_SOLDOUT
+We will contact you shortly with further instructions.
+There is still time
+Give it to me, give it here!
+#POOP_RUNBASEDMULTILINE_SOLDOUT_FORGOOD
+You are my best customer.
+No matter how hard I try, I always come back empty handed.
+Thank you and you are very kind!
+//SECOND UPDATE
+#AMMO_SPREAD_REFILLED_BODY
+arm
+#CRESTFALLEN_INTERACT_MINEFLAYER
+The Lord of the Rings Project...
+Call me again
+you will be a good host
+#CRESTFALLEN_INTERACT_AGUNIM
+A surprise of surprises... who knows.
+#POOP_RUNBASEDMULTILINE_INDEFINITE_MORE
+Hello %player_NAME! I have many new recipes.
+It is a big forest.
+{vk} I have another interesting article {v}
+{What do you want to buy?! {fuck it}
+#GUNKING_CHALLENGE_D_FIRST_TIME
+chicken
+I see a damaged cartridge.
+I'm interested in your thoughts
+#GUNKING_CHALLENGE_D
+We recommend removing this page in the future.
+Uncomfortable
+#RIVAL_FOUGHTASPHANTOM
+I decided to do something to apologize for the trouble.
+#CRESTFALLEN_INTERACT_PHANTOM_BLOCKNER
+That was enough to kill Blakener.
+#SHRINE_BLOOD_DISPLAY
+Does he have anemia?
+#SHRINE_BLOOD_ACCEPT
+<Restore Health> potion
+#TONIC_FIRST_INTRO
+Are you late?
+Ever wanted to go beyond sound?
+#TONIC_INTRO
+You are in a hurry
+#TONIC_ACCEPT
+For example!
+#TONIC_DECLINE
+Thank you for your question
+#TONIC_ACCEPTED
+I understand
+#TONIC_DECLINED
+to be released
+#TONIC_ACTIVE_INTRO
+how fast
+#TONIC_ACTIVE_ACCEPT
+Is it easy to measure?
+#TONIC_ACTIVE_DECLINE
+they want to talk
+#TONIC_ACTIVE_ACCEPTED
+do you agree
+#TONIC_RUNBASED_MULTILINE_GENERIC
+i'm a good dog
+Have you seen my son Niko? It's a robot. All ships are old. call your doctor
+We can say that this weapon is more advanced than the previous one.
+I like casinos.
+#TONIC_RUNBASED_MULTILINE_STOPPER
+that I'm still alive
+#TONIC_JAIL_RESCUE
+My friend!
+He saved me
+I didn't think he was in this room.
+But tonic.
+Lots of dog food
+a question
+#TONIC_JAIL_REPEAT
+gram
+#TONIC_DAMAGED
+It's a minute!
+Situation!
+#SYNERGRACE_MEET_IN_CELL
+That
+No one has come yet.
+Miraculous!
+Thank you for bailing me out of this terrible situation
+You can help yourself a little after you recover.
+I think I'll see Marley.
+#SYNERGRACE_CELL_SECOND_TALK
+I don't like big parties. me now
+But sometimes it happens.
+#SYNERGRACE_CELL_REPEAT
+Everything is fine!
+#SYNERGRACE_INTRO
+leave!
+It's nice to see you again. Read a lot of books and eat a lot.
+I know you have many choices.
+But that's it. I'm a guy... you know?
+In some cases, we can help you find the best device for you.
+#SYNERGRACE_OFFER
+Hello friend
+I think it's good for you.
+What do you mean; What is your opinion?
+#SYNERGRACE_CANT_MATCH
+Picked...
+God, everything around you is beautiful
+#SYNERGRACE_ACCEPT
+Obvious! Click on <%NPCNUMBER1%CURRENT_SYMBOL>
+#SYNERGRACE_ACCEPTED
+He said, Amen, I say to you.
+Watch true love blossom on the battlefield.
+Contact
+#SYNERGRACE_POSTMAGIC
+This perfect pair could become your new favorite outfit!
+#SYNERGRACE_REJECT
+Anyway, thanks
+#SYNERGRACE_REJECTED
+Does blood really flow in veins?
+#SYNERGRACE_NOMONEY
+the game is not free
+#SYNERGRACE_DAMAGED
+Magic is a bad idea, right?
+And don't talk!
+#SYNERGRACE_CHAT
+According to the hat, unfortunately good hair.
+Miracles often happen in the Ganges. do not lie
+It's all good, but it's okay. But I think more efforts are needed to solve this problem. Who made it?
+#SYNERGRACE_CHAT_STOPPER
+I want it!
+#MONSTERMANUEL_FIRST_TIME
+Because I am an animal called Manuel.
+Listen, I'll show you the way out of this maze.
+... map!
+Thanks to these investments, we started producing machine guns.
+#MONSTERMANUEL_OTHER_TIMES
+Not my best student!
+#MONSTERMANUEL_GIVE_ITEM
+Watch the broadcast and ask.
+#MONSTERMANUEL_REPEAT_DUNGEON
+In some cases, the best answer is…
+Ever since you were mysteriously killed in a Vedic temple, I knew you were special.
+Don't be afraid of my scary face. I think so, old duck.
+A few days ago I discovered that it is difficult to imagine a new flight called Constitution.
+#MONSTERMANUEL_REPEAT_DUNGEON_BLOCKER
+I sold myself to the world because of you.
+#MONSTERMANUEL_DAMAGED
+number of visitors
+Another team!
+#MONSTERMANUEL_FOYER
+Don't be afraid, my clothes are ugly. I am your teacher and best friend.
+I built another shelter.
+#SHRINE_BEHOLSTER_DISPLAY
+World Hill Temple Weapons Update
+It seems like every tough guy has a gun.
+#SHRINE_BEHOLSTER_ACCEPT
+<Place your hands on the statue>
+#SHRINE_COMPANION_DISPLAY
+Member of Gangwon Yong Che Memorial Hall
+
+People are full of blood, but their hearts are full of joy.
+#SHRINE_COMPANION_ACCEPT
+<new author>
+#DRAGUNFIRE_CULTIST_INTRO
+Well!
+Since our ancestors entered these hallowed halls, the culture of weapons has changed greatly.
+I stood up as everyone walked ahead of me.
+.. Lies are a powerful weapon to kill the past!
+To adore forever
+address
+#DRAGUNFIRE_CULTIST_AFTER_REVEAL
+This is not our paradise. People died from conventional weapons.
+you can not...
+#DRAGUNFIRE_CULTIST_REPEAT_INTRO
+Good luck:
+Our offer is very strong. but we will change
+#DRAGUNFIRE_CULTIST_CHAT
+After the shutdown, the site grew rapidly.
+#DRAGUNFIRE_CULTIST_STOPPER
+Let's see who wants what.
+#RESOURCEFULRAT_CONSOLATION_NOTE_01
+He was accepted but could not complete the second round.
+
+Yes, you will be rewarded for the kill.
+#RESOURCEFULRAT_CONSOLATION_NOTE_02
+Sorry, %PLIER_NICK.
+
+Repurchase - rub.
+#RESOURCEFULRAT_CONSOLATION_NOTE_03
+% PLAYER_NICK Can I own this gun?
+
+try again
+#RESOURCEFULRAT_DEATHBED_COME_HERE
+Enter %Player_NICK here.
+#RESOURCEFULRAT_LIFESTORY_01
+Sorry, my story is sad
+I was born on a pink freighter. we're ok
+Collect weapons and steal food from merchants. Current
+He promised to release her, but she was hungry.
+So I learned to fly in the cockpit. Unfortunately, this is not enough.
+My attempt to eat worsened the pain. I want to share.
+Fasting finally solved the hunger problem.
+Weak at first. But soon the brother came and ate him.
+When the client finally woke up, I was on a plane... you see.
+This is my real house for sale
+But I'm here. Revenge? He has no disease
+I have one last question...
+Take off the mask and look at the face.
+yes
+Good
+This should be your face.
+Until we meet again...
+How...
+Choose a destination...
+patients
+#RESOURCEFULRAT_DEATHBED_DAMAGED
+Help:
+I love you!
+I will tell you how your life is
+#CRESTFALLEN_INTERACT_FUSELIER
+Can you find the big ball?
+Today we have a wonderful and wonderful creation.
+I don't know how much
+Friend...
+#CRESTFALLEN_INTERACT_HIGHDRAGUN
+This
+Le Mans was a great success. you can say
+Tired of helping others on this site?
+facilitate
+How often has it changed?
+Laxative
+#BABYDRAGUN_UNFED
+The long and fast line will leave you hungry.
+#BABYDRAGUN_FED_ONCE
+The giant is strong but lazy.
+After a while the line went out.
+#RATMIMIC_ENCOUNTER
+We know a lot, but...
+irregular
+Not much to say about the Union SIM version. Many people were injured in the fire.
+There are no obvious hacks here. He can't fight
+#RATMIMIC_CHAT
+Anyone who plays knows the side effects of chest pain.
+The price of the box depends on the complexity of the device.
+#RATMIMIC_STOPPER
+what are you looking
+#VAMPIRE_THRESHOLD
+Of course! I don't want to cry anymore
+#VAMPIRE_INTRO_RESCUE
+Let's go ahead
+I dont know
+No, the old man is dead.
+Thank you for the freedom you have given me
+I crossed the ocean to meet you. Good luck in your career.
+#VAMPIRE_INTRO_STOPPER
+Focus on multiple areas.
+#VAMPIRE_DAMAGED
+forgery
+Friend
+I do that!
+#VAMPIRE_OFFER
+%HEART_SYMBOL is enough.
+Is commitment enough? The press
+#VAMPIRE_NOHEARTS
+I think this is the site. it is safe
+#VAMPIRE_ACCEPT
+Delete... <% NPCNUMBER1 %CURRENCI_SYMBOL> Delete.
+#VAMPIRE_DECLINE
+Earlier there was nothing.
+#VAMPIRE_PLAYER_HAS_ACCEPTED
+Of course! I love you
+Oh, I could live without ink! Misery
+#VAMPIRE_PLAYER_HAS_DECLINED
+Oh, how little!
+#VAMPIRE_RUNBASED_MULTILINE
+It worked, but to no avail.
+professional
+%ICON COLOR can also be changed.
+Live together, die together.
+Accidents and injuries are not as catastrophic as you think.
+I'm weird too but that's okay.
+Boom boom!
+You believe in luck, lucky men have guns.
+#VAMPIRE_RUNBASED_MULTILINE_STOPPER
+Where are you from?
+#POOP_AGD_NEWSTUFF
+Hello, I found the item I want to buy. Enter %META_CURRENCI_SYMBOL!
+#CRESTFALLEN_INTERACT_RESOURCEFULRAT_NEW
+he is an old friend
+I eat a lot...
+I learned so much from you, it's a gift.
+But people still cry.
+#RATFIGHTINTRO_FOUND_ME
+Finally you can! confrontation
+This is my smile!
+#RATFIGHTINTRO_FOUND_ZERO_NOTES
+Next Thursday!? Send it to me
+Happy or crazy?
+#RATFIGHTINTRO_3_OR_LESS_NOTES_01
+Statistically, there may be comments you don't read. I know you're joking, but I'm not going to lie, I have to kill you.
+#RATFIGHTINTRO_3_OR_LESS_NOTES_02
+It almost made me forget. I want to end my life by committing suicide.
+#RATFIGHTINTRO_3_OR_LESS_NOTES_03
+Please use my music. I don't want to use it.
+#RATFIGHTINTRO_4_NOTES
+Only 4 offers... Only 1 discount! Just friends!
+#RATFIGHTINTRO_5_NOTES
+Who doesn't like that?
+#RATFIGHTINTRO_6_NOTES_ATTEMPT_001
+Took a while, but here we are.
+I noticed it when I got there.
+lazy crowd
+#RATFIGHTINTRO_6_NOTES_ATTEMPT_002
+Follow the blue cheese trail. Mukta: This is your gift. Not yet
+#RATFIGHTINTRO_REPEATED_ATTEMPTS
+You look under the feet of your parents. I will sew your shirt... can you?
+Your patience is great. this is the last time.
+I thought otherwise.
+#RATFIGHTINTRO_START_POSTVICTORY
+Melts at this temperature.
+Others died, possibly at the hands of robbers.
+#SHRINE_NEWBLOOD_DISPLAY
+Don't drink too much, but your circulatory system is not well...
+#SHRINE_NEWBLOOD_ACCEPT
+Egg number <%HEART_SYMBOL>
+#PUNCHOUT_PRESS_TO_SUPER
+%CONTROL_INTERACT_PUNCHOUT_SUPER Super Punch
+#SAVE_FOR_LATER
+More and more
+#CRESTFALLEN_SGDQ2018
+Rossinson, have you heard of Theodore?
+We all know starry eyes.
+Kangana is happy to start a new life.
+But he refused
+i want to drink now
+#TONIC_GENERIC_RICH_PRICE
+So the value of META_CURRENT_SYMBOL is %NPCNUMBER1
+Come on, I know it will help. I see light here.
+You want a storm, don't you?
+#TONIC_GENERIC_RICH_ACCEPT
+Payment confirmation with <%NPCNUMBER1%META_CURRENCI_SYMBOL>.
+#TONIC_GENERIC_RICH_DECLINE
+This is a hit.
+#TONIC_GENERIC_RICH_ACCEPTED
+I also want to buy new clothes.
+#TONIC_GENERIC_RICH_DECLINED
+Don't forget to click with your finger.
+#TONIC_LGW_PRICE
+10000 is META_CURRENCI_SYMBOL.
+I know you too, ps. I saw something on Twitter.
+He does not recognize the camera, he is afraid of mirrors even in the dark
+Listen online. many of
+Where and why is a hurricane needed?
+#TONIC_LGW_ACCEPT
+Default: <%10000 META_CURRENT_SYMBOL>.
+#TONIC_LGW_DECLINE
+No, that is incorrect
+#TONIC_LGW_ACCEPTED
+I want to buy new clothes!
+#TONIC_LGW_DECLINED
+This is not true. Read carefully and touch me with a cold finger.
+#TONIC_NL_INTRO
+Hey, it looks like an egg... Did someone say it looks like an egg?
+I know you call me Carl, I hate people.
+Have you thought about being unemployed?
+Can eggs fly at the speed of sound?
+#TONIC_NL_ACCEPTED
+Ron is coming! Congratulations to Kate!
+#TONIC_BARB_PRICE
+%6200 is META_CURRENT_SYMBOL
+You know my love for you both and I want to hear your voice
+No one at home knew, it was dark outside, but my glasses were in place.
+Two (6) wolves for a total of 300 hours?
+What do you like and what is the weather like?
+#TONIC_BARB_ACCEPT
+META_CURRENCY_SYMBOL> Your balance has reached 6300%.
+#TONIC_BARB_DECLINE
+No, I have to go.
+#TONIC_BARB_ACCEPTED
+But! I bought her a new dress.
+#TONIC_BARB_DECLINED
+I'm happy! You must also pay other expenses. do not be mad
+#TONIC_COBALT_INTRO_AND_PRICE
+New Cobalt!
+I don't understand the camera, but it's dark outside and the sun is shining.
+They call me Lolin because I'm fast.
+Look, we're talking about Turbo Mode.
+Only %NPCNUMBER1 %META_CURRENCY_SYMBOL
+#TONIC_COBALT_ACCEPT
+Get <RETURN %NPCNUMBER1% META_CURRENT_SYMBOL>
+#TONIC_HAMMER_INTRO_AND_PRICE
+Show me the beard!
+I don't know if you need a camera or not. It's dark outside and I hate sunlight.
+I am very glad to see you again. Thank you for organizing this wonderful event.
+but...
+So the certificate is not issued... %NPCNUMBER1% META_CURRENCI_SYMBOL
+#TONIC_BAHROO_INTRO_AND_PRICE
+maybe
+I didn't know you were in prison. Brown and her children became ill.
+Nice to meet you! This is an example of a virus.
+%NPCNUMBER1 % META_CURRENCI_SYMBOL ONLY
+#TONIC_RETRO_INTRO_AND_PRICE
+cold and sleepy
+Not sure about the camera. Dark but clear.
+Stopped a big storm thanks to the video.
+Only %NPCNUMBER1 % META_CURRENT_SYMBOL
+#TONIC_SLEEPCYCLES_INTRO_AND_PRICE
+My dream is to be an album label
+It doesn't recognize my phone. For dark and busy days
+It's good to talk a lot about where the plants are when you have a headache.
+Only META_CURRENCI_SYMBOL%%NPCNUMBER1
+#TONIC_CUSTOM_LACKING_MONEY
+%META_CURRENCI_SYMBOL not found.
+#SHRINE_ALTGUN_DISPLAY
+The woman dropped the envelope.
+#SHRINE_ALTGUN_ACCEPT
+Use corn.
+#BLACKSMITH_GUNSLINGER_FIRST_INTERACTION_01
+... I can't do it
+I don't want to admit it anymore.
+#BLACKSMITH_GUNSLINGER_GET_BULLET_01
+This is not necessary
+about
+#BLACKSMITH_GUNSLINGER_PT2_FOR_GUNSLINGER
+... unclear
+#BLACKSMITH_RUNBASED_MULTILINE_GUNSLINGER
+Where did he disappear to?
+#BLACKSMITH_RUNBASED_MULTILINE_GUNSLINGER_STOPPER
+happiness
+#CRESTFALLEN_HELICOPTER
+... The wonderful ancient features.
+a break
+#CRESTFALLEN_GUNSLINGER_PLAYER
+I don't think I'll ever wear it again.
+,
+Can I go...
+,
+#RAINBOWCHESTGUY_FIRST_INTRO
+you can fly
+Rob
+My love... {v} Let's go together. {meter}
+{b} mixed with onions? {AND}
+{First name. Although everything! {First name}
+,
+{AB} I can help you.
+#RAINBOWCHESTGUY_INTRO
+After you...
+RAAAINNNBOV or before name
+#RAINBOWCHESTGUY_ACCEPT
+That's why we only sell licenses.
+#RAINBOWCHESTGUY_DECLINE
+This is a great bra.
+#RAINBOWCHESTGUY_ACCEPTED
+{West Bengal}
+#RAINBOWCHESTGUY_DECLINED
+{prisoner! {WITHIN}
+#RAINBOWCHESTGUY_ACTIVE_INTRO
+And this! New Tab: {From} Rainbuddy! {enter}
+#RAINBOWCHESTGUY_ACTIVE_ACCEPT
+For normal breasts
+#RAINBOWCHESTGUY_ACTIVE_DECLINE
+I think
+#RAINBOWCHESTGUY_ACTIVE_ACCEPTED
+strong
+#RAINBOWCHESTGUY_RUNBASED_MULTILINE_GENERIC
+{K} You! {more than}
+Sharing plates and pots every day {w}oooooooo {w}...
+Why is the box empty? something???
+The default account is {b} of {v}. This is just a new app.
+... {vb} Rainbow Run {v} Can you change the weather?
+#RAINBOWCHESTGUY_RUNBASED_MULTILINE_STOPPER
+Oh, {girl}, it's raining. {Add}
+#RAINBOWCHESTGUY_JAIL_RESCUE
+{wj} Hi! {In}
+Thanks for your support!
+My name is Fullon! Horn {inside}!
+I have a special gift for you {w} {wb}
+See Jeremiah. newspaper...
+Ahhh
+#RAINBOWCHESTGUY_JAIL_REPEAT
+behind you
+#RAINBOWCHESTGUY_DAMAGED
+Is that true! {castle}
+{Latin! {real name}
+#RAINBOWCHESTGUY_NOTCHOSEN_NOTE
+I know! Take it easy
+{vb} - watermelon {v}
+#RAINBOWCHESTGUY_CHEST_NOTE_1
+{verb}
+{UB} – Lena is your friend {why}
+#RAINBOWCHESTGUY_CHEST_NOTE_2
+There is no story without a map.
+bowl master
+#RAINBOWCHESTGUY_MIMIC_NOTE
+The team behind the show!
+{Text by BOVB}
+#RAINBOWCHESTGUY_SHOP_NOTE
+Download RainBuddi and save! {Nature}
+No
+#RAINBOWCHESTGUY_BOSS_PEDESTAL_NOTE
+Around! the light
+{vb} - waterproof {v}
+#BLACKSMITH_RUBY_ASK_NOHAVE
+rate
+but again
+Are you familiar with %BRACELETRED_ENCNAME?
+When I see you, I go to you.
+I will protect you
+#BLACKSMITH_RUBY_ASK_HAVE
+Pat yourself on the back! Same as %BRACELETRED_ENCNAME.
+in
+#BLACKSMITH_RUBY_GIVE
+There's no way around it. Enter <%BRACELETRED_ENCNAME>.
+#BLACKSMITH_RUBY_REFUSE
+I do not like this
+#BLACKSMITH_RUBY_ACCEPTED
+Thanks
+Together
+This is the beginning
+not the legs
+prevent failure
+Yes
+This...
+#BLACKSMITH_RUBY_RETURNED_ON_THIS_ACTION
+World Health Organization
+a lot
+to the light
+Amazing
+I don't want to see you anymore
+#BLACKSMITH_RUBY_REFUSED
+,
+#BLACKSMITH_RUBY_REFUSED_OR_REPEAT
+mr v*
+Please tell me why I should do this.
+#AGUNIM_VO_FIGHT_INTRO_01
+I don't want to kill the past.
+#AGUNIM_VO_FIGHT_INTRO_02
+I finally remembered
+#AGUNIM_VO_FIGHT_INTRO_03
+I finally found a way!
+#AGUNIM_VO_FIGHT_INTRO_04
+i killed your brother
+#AGUNIM_VO_FIGHT_INTRO_05
+kill the girl!
+#AGUNIM_VO_FIGHT_INTRO_06
+OR...
+I like!
+#AGUNIM_VO_FIGHT_INTRO_07
+help me
+#AGUNIM_VO_FIGHT_INTRO_08
+I will take you to hell
+#AGUNIM_VO_FIGHT_LOSE_01
+And your heart
+#AGUNIM_VO_FIGHT_LOSE_02
+Sorry for the lack of replies
+#AGUNIM_VO_FIGHT_LOSE_03
+Overview
+For this reason. He doesn't look back.
+#AGUNIM_VO_FIGHT_LOSE_04
+god is back
+#AGUNIM_VO_FIGHT_LOSE_05
+great
+I miss you
+#AGUNIM_VO_FIGHT_LOSE_07
+my gun!
+#AGUNIM_VO_FIGHT_COOP_01
+Do you have many children?
+#AGUNIM_VO_FIGHT_COOP_02
+Your happiness makes me happy
+#AGUNIM_VO_FIGHT_SHADOW_01
+I agree with him!
+#AGUNIM_VO_FIGHT_ATTACK_01
+friction!
+#AGUNIM_VO_FIGHT_HURT_03
+What a fun game!
+#AGUNIM_VO_FIGHT_ATTACK_02
+I'll kill you!
+#AGUNIM_VO_FIGHT_ATTACK_03
+Death!
+#AGUNIM_VO_FIGHT_ATTACK_04
+I have heart problems.
+#AGUNIM_VO_FIGHT_WIN_01
+cherry!
+#AGUNIM_VO_FIGHT_WIN_03
+sorry...
+#AGUNIM_VO_FIGHT_WIN_04
+I got this damn gun…
+#AGUNIM_VO_FIGHT_WIN_05
+They have bells and whistles!
+#AGUNIM_VO_NPC_VENDOR_02
+mine
+#ENDCAPTHINGTHISISNOTHING
