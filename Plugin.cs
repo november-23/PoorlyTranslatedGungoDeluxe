@@ -15,14 +15,14 @@ namespace PoorlyTranslatedGungoDeluxe
     public class Plugin : BaseUnityPlugin
     {
         public const string GUID = "spapi.etg.poorlytranslatedgungodeluxe";
-        public const string NAME = "Poorly Translated Gungeon";
+        public const string NAME = "Poorly Translated Gungeon Deluxe";
         public const string VERSION = "1.0.1";
         public static AssetBundle bundle;
 
         public void Awake()
         {
             var delay = Config.Bind("Delay", "PostInitDelay", true, "When enabled, Poorly Translated Gungeon will wait until all other mods are loaded to apply the language changes.");
-            using (var strem = Assembly.GetExecutingAssembly().GetManifestResourceStream("PoorlyTranslatedGungoDeluxe.PoorlyTranslatedGungoDeluxe.AssetBundles.poorlytranslatedgungodeluxe"))
+            using (var strem = Assembly.GetExecutingAssembly().GetManifestResourceStream("PoorlyTranslatedGungoDeluxe.PoorlyTranslatedGungeonDeluxe.AssetBundles.poorlytranslatedgungodeluxe"))
             {
                 bundle = AssetBundle.LoadFromStream(strem);
             }
